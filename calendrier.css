@@ -1,0 +1,23 @@
+.couverture {
+  height:100%;
+  width:100%;
+}
+
+.date {
+  font-family: "Lekton";
+  font-size:5em;
+  color:white;
+  position:absolute;
+  background-image:url('village_itterswiller.jpg');
+  height:25%;
+  width:20%;
+  background-size: 600% 500%;
+}
+
+.date div {
+  position:absolute;
+  top:50%;
+  margin-top:-0.5em;
+  left:50%;
+  margin-left:-0.5em;
+}
