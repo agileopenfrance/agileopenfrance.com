@@ -1,7 +1,7 @@
 .titre {
   font-family:"Lekton";
   color:white;
-  font-size:2em;
+  font-size:4vh;
   width:100%;
   text-align:center;
   position:absolute;
@@ -16,7 +16,7 @@
 
 .date {
   font-family: "Lekton";
-  font-size:5em;
+  font-size:10vh;
   color:white;
   position:absolute;
   background-image:url('village_itterswiller.jpg');
