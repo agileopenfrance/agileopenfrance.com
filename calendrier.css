@@ -19,10 +19,10 @@
   font-size:10vh;
   color:white;
   position:absolute;
-  background-image:url('village_itterswiller.jpg');
   height:25%;
   width:20%;
-  background-size: 600% 500%;
+  background: url('village_itterswiller.jpg') fixed;
+  background-size: cover;
 }
 
 .date div {
