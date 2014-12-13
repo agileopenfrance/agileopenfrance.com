@@ -33,9 +33,9 @@ function construis_le_calendrier(calendrier) {
 
     function calcule_class_chiffres(numero) {
       if (numero < 10)
-       return "one-digit";
+       return "un-chiffre";
       else
-        return "two-digits";
+        return "deux-chiffres";
     }
 
     function construis_les_positions() {
@@ -59,13 +59,13 @@ function construis_le_calendrier(calendrier) {
         return tableau;
     }
 
-    function image(date) {
-        return '<div style="background: url(\'cases/case_' + date + '.jpg\') center; background-size: cover;"></div>';
+    function image(numero) {
+        return '<div style="background: url(\'cases/case_' + numero + '.jpg\') center; background-size: cover;"></div>';
     }
 
-    function add_click(volet, surprise, date) {
+    function add_click(volet, surprise, numero) {
         volet.on('click', function() {
-            if (debug || date <= jours_ecoules(new Date())) {
+            if (debug || numero <= jours_ecoules(new Date())) {
                 volet.addClass('ouvert');
                 setTimeout(zoome_sur(surprise), 1000);
             }

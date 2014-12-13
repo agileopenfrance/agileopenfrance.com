@@ -59,11 +59,11 @@ body, .numero, .calendrier {
   left:50%;
 }
 
-.numero .one-digit {
+.numero .un-chiffre {
   margin-left:-0.5em;
 }
 
-.numero .two-digits {
+.numero .deux-chiffres {
   margin-left:-0.75em;
 }
 
