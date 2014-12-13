@@ -1,4 +1,5 @@
 function construis_le_calendrier(calendrier) {
+    var debug = false;
     var depart = new Date('2014-12-25');
     var lignes = 5, colonnes = 6, cases = 26;
     var largeur = 100 / colonnes,
@@ -61,7 +62,7 @@ function construis_le_calendrier(calendrier) {
 
     function add_click(caze, date) {
         caze.on('click', function() {
-            if (date <= jours_ecoules(new Date())) {
+            if (debug || date <= jours_ecoules(new Date())) {
                 $(this).addClass('ouvert');
             }
         });
