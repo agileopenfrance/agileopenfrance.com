@@ -18,7 +18,7 @@ body {
   margin: 0;
 }
 
-body, .date, .column, .row {
+body, .numero, .column, .row {
   background: url('village_itterswiller.jpg') fixed;
   background-size: cover;
 }
@@ -30,7 +30,7 @@ body, .date, .column, .row {
   left:0;
 }
 
-.date, .column, .row {
+.numero, .column, .row {
   position:absolute;
   z-index: 1;
 }
@@ -45,7 +45,7 @@ body, .date, .column, .row {
   width:100%;
 }
 
-.date {
+.numero {
   font-family: "Lekton";
   font-size:10vh;
   color:white;
@@ -54,13 +54,13 @@ body, .date, .column, .row {
   transform-origin: 0;
 }
 
-.date.ouvert {
+.numero.ouvert {
   transform: rotateY(-90deg);
   opacity: 0;
   z-index: 2;
 }
 
-.date div {
+.numero div {
   display: table;
   margin: auto;
 }

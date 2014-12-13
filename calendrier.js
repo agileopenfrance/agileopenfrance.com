@@ -10,20 +10,20 @@ function construis_le_calendrier(calendrier) {
 
     function construis_les_cases() {
         var positions = melange(construis_les_positions(lignes, colonnes));
-        for (var date = 1; date <= cases; date++) {
-            var position = positions[date - 1];
+        for (var numero = 1; numero <= cases; numero++) {
+            var position = positions[numero - 1];
             calendrier.append(
                 '<div class="case" style="'
                 + 'left:' + (position.left + 1) + '%;'
                 +'top:' + (position.top + 2) + '%;'
-                + '">' + image(date) + '</div>');
+                + '">' + image(numero) + '</div>');
             var caze = $(
-                '<div class="date" style="'
+                '<div class="numero" style="'
                 + 'left:' + position.left + '%;'
                 + 'top:' + position.top + '%;'
-                + '"> <div>' + date + '</div></div>');
+                + '"> <div>' + numero + '</div></div>');
             calendrier.append(caze);
-            add_click(caze, date);
+            add_click(caze, numero);
         }
     }
 
@@ -84,7 +84,7 @@ function construis_le_calendrier(calendrier) {
         + 'height:' + (hauteur - 4) + '%;'
         + 'width:' + (largeur - 2) + '%;'
         + '}'
-        + '.date {'
+        + '.numero {'
         + 'height:' + hauteur + '%;'
         + 'width:' + largeur + '%;'
         + '}'
