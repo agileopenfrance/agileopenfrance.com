@@ -1,8 +1,9 @@
 body {
   margin: 0;
-  width: 100%;
-  height: 100%;
+  width: 100vw;
+  height: 100vh;
   overflow: hidden;
+  perspective: 1500px;
 }
 
 .titre {
@@ -47,8 +48,17 @@ body {
   font-family: "Lekton";
   font-size:10vh;
   color:white;
-  height:21%;
-  width:18%;
+  height:25%;
+  width:20%;
+  transition: transform 1s ease, opacity 0.5s 0.5s ease-in;
+  transform-style: preserve-3d;
+  transform-origin: 0;
+}
+
+.date.ouvert {
+  transform: rotateY(-90deg);
+  z-index: 3;
+  opacity: 0;
 }
 
 .date div {
