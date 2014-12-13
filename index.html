@@ -12,9 +12,9 @@
     <script src="js/jquery.min.js"></script>
     <script src="calendrier.js"></script>
     <script>
-    construis_les_cases();
-    $('.couverture').hide();
-    body.append('<div style="background-image: url(\'choucroute.jpg\');" class="couverture">&nbsp;</div>');
+    construis_le_calendrier();
+    $('.couverture').remove();
+    $('body').append('<div style="background-image: url(\'choucroute.jpg\');" class="couverture">&nbsp;</div>');
     </script>
   </body>
 </html>

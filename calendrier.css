@@ -1,3 +1,10 @@
+body {
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
 .titre {
   font-family:"Lekton";
   color:white;
@@ -19,16 +26,29 @@
   background-size: cover;
 }
 
+.date, .column, .row {
+  background: url('village_itterswiller.jpg') fixed;
+  background-size: cover;
+  position:absolute;
+  z-index: 1;
+}
+
+.column {
+  height:100%;
+  width:2%;
+}
+
+.row {
+  height:4%;
+  width:100%;
+}
+
 .date {
   font-family: "Lekton";
   font-size:10vh;
   color:white;
-  position:absolute;
-  z-index: 1;
-  height:25%;
-  width:20%;
-  background: url('village_itterswiller.jpg') fixed;
-  background-size: cover;
+  height:21%;
+  width:18%;
 }
 
 .date div {
