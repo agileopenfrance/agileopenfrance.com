@@ -21,10 +21,17 @@ function construis_le_calendrier(calendrier) {
                 '<div class="numero" style="'
                 + 'left:' + position.left + '%;'
                 + 'top:' + position.top + '%;'
-                + '"> <div>' + numero + '</div></div>');
+                + '"> <div class="' + calcule_class_chiffres(numero) + '">' + numero + '</div></div>');
             calendrier.append(caze);
             add_click(caze, numero);
         }
+    }
+
+    function calcule_class_chiffres(numero) {
+      if (numero < 10)
+       return "one-digit";
+      else
+        return "two-digits";
     }
 
     function construis_les_positions() {

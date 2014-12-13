@@ -61,8 +61,18 @@ body, .numero, .column, .row {
 }
 
 .numero div {
-  display: table;
-  margin: auto;
+  position:absolute;
+  top:50%;
+  margin-top:-0.5em;
+  left:50%;
+}
+
+.numero .one-digit {
+  margin-left:-0.5em;
+}
+
+.numero .two-digits {
+  margin-left:-0.75em;
 }
 
 .case {
