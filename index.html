@@ -7,14 +7,17 @@
     <link href='http://fonts.googleapis.com/css?family=Lekton&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
   </head>
   <body>
-    <div style="background-image: url('village_itterswiller.jpg');" class="couverture">&nbsp;</div>
+    <div style="background-image: url('village_itterswiller.jpg');" class="couverture"></div>
     <h1 class="titre" >Janvier 2015</h1>
     <script src="js/jquery.min.js"></script>
     <script src="calendrier.js"></script>
     <script>
-    construis_le_calendrier();
-    $('.couverture').remove();
-    $('body').append('<div style="background-image: url(\'choucroute.jpg\');" class="couverture">&nbsp;</div>');
+      (function(){
+        var calendrier = $('body');
+        construis_le_calendrier(calendrier);
+        $('.couverture').remove();
+        calendrier.append('<div style="background-image: url(\'choucroute.jpg\');" class="couverture"></div>');
+      })();
     </script>
   </body>
 </html>

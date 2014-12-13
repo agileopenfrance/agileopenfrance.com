@@ -1,10 +1,9 @@
-function construis_le_calendrier() {
-  construis_les_cases();
-  construis_la_grille();
+function construis_le_calendrier(calendrier) {
+  construis_les_cases(calendrier);
+  construis_la_grille(calendrier);
 }
 
-function construis_les_cases() {
-  var body = $("body");
+function construis_les_cases(calendrier) {
   for (var row = 0; row < 4; row++) {
     for (var column = 0; column < 5; column++) {
       var pos_x = 20*column + 1;
@@ -26,17 +25,16 @@ function add_click(caze, date) {
   });
 }
 
-function construis_la_grille() {
-  var body = $("body");
+function construis_la_grille(calendrier) {
   for (var row = 0; row < 5; row++) {
     var pos_y=25*row - 2;
     var ligne = '<div class="row" style="top:' + pos_y + '%;"></div>';
-    body.append(ligne);
+    calendrier.append(ligne);
   }
 
   for (var column = 0; column < 6; column++) {
     var pos_x = 20*column - 1;
     var colonne = '<div class="column" style="left:' + pos_x + '%;"></div>';
-    body.append(colonne);
+    calendrier.append(colonne);
   }
 }
