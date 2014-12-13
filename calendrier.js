@@ -6,15 +6,25 @@ function construis_le_calendrier(calendrier) {
 function construis_les_cases(calendrier) {
   for (var row = 0; row < 4; row++) {
     for (var column = 0; column < 5; column++) {
-      var pos_x = 20*column;
-      var pos_y = 25*row;
       var date = column + 1 + 5 * row;
-      var caze = $('<div class="date" style="left:' + pos_x + '%;'+
-          'top:' + pos_y + '%" > <div>' + date + '</div></div>');
+      calendrier.append(
+          '<div class="case" style="'
+          + 'left:' + (20*column + 1) + '%;'
+          +'top:' + (25*row + 2) + '%;'
+          + '">' + image(date) + '</div>');
+      var caze = $(
+          '<div class="date" style="'
+          + 'left:' + 20*column + '%;'
+          + 'top:' + 25*row + '%;'
+          + '"> <div>' + date + '</div></div>');
       calendrier.append(caze);
       add_click(caze, date);
     }
   }
+}
+
+function image(date) {
+  return '<div style="background-image: url(\'cases/choucroute.jpg\'); background-size: cover;"></div>';
 }
 
 function add_click(caze, date) {
