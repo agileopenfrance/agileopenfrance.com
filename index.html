@@ -7,16 +7,14 @@
     <link href='http://fonts.googleapis.com/css?family=Lekton&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
   </head>
   <body>
-    <div style="background-image: url('village_itterswiller.jpg');" class="couverture"></div>
-    <h1 class="titre" >Janvier 2015</h1>
+    <h1 class="titre" >Agile Open France 2015</h1>
+    <div class="calendrier"></div>
     <script src="js/jquery.min.js"></script>
     <script src="calendrier.js"></script>
     <script>
       (function(){
-        var calendrier = $('body');
+        var calendrier = $('.calendrier');
         construis_le_calendrier(calendrier);
-        $('.couverture').remove();
-        calendrier.append('<div style="background-image: url(\'choucroute.jpg\');" class="couverture"></div>');
       })();
     </script>
   </body>

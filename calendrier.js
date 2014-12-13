@@ -1,72 +1,93 @@
 function construis_le_calendrier(calendrier) {
-  construis_les_cases(calendrier);
-  construis_la_grille(calendrier);
-}
-
-function construis_les_cases(calendrier) {
-    var positions = melange(construis_les_positions(4, 5));
-    for (var date = 1; date <= 20; date++) {
-        var position = positions[date - 1];
-        calendrier.append(
-            '<div class="case" style="'
-            + 'left:' + (position.left + 1) + '%;'
-            +'top:' + (position.top + 2) + '%;'
-            + '">' + image(date) + '</div>');
-        var caze = $(
-            '<div class="date" style="'
-            + 'left:' + position.left + '%;'
-            + 'top:' + position.top + '%;'
-            + '"> <div>' + date + '</div></div>');
-        calendrier.append(caze);
-        add_click(caze, date);
-    }
-}
-
-function construis_les_positions(lignes, colonnes) {
+    var depart = new Date('2014-12-25');
+    var lignes = 5, colonnes = 6, cases = 26;
     var largeur = 100 / colonnes,
-        hauteur = 100 / lignes,
-        positions = [];
-    for (var row = 0; row < lignes; row++) {
-        for (var column = 0; column < colonnes; column++) {
-            positions.push({left: largeur * column, top: hauteur * row});
+        hauteur = 100 / lignes;
+
+    construis_les_cases();
+    construis_la_grille();
+    ajuste_la_taille_des_cases();
+
+    function construis_les_cases() {
+        var positions = melange(construis_les_positions(lignes, colonnes));
+        for (var date = 1; date <= cases; date++) {
+            var position = positions[date - 1];
+            calendrier.append(
+                '<div class="case" style="'
+                + 'left:' + (position.left + 1) + '%;'
+                +'top:' + (position.top + 2) + '%;'
+                + '">' + image(date) + '</div>');
+            var caze = $(
+                '<div class="date" style="'
+                + 'left:' + position.left + '%;'
+                + 'top:' + position.top + '%;'
+                + '"> <div>' + date + '</div></div>');
+            calendrier.append(caze);
+            add_click(caze, date);
         }
     }
-    return positions;
-}
 
-function melange(tableau) {
-    var longueur = tableau.length;
-    for (var i = 0; i < longueur; i++) {
-        var j = Math.floor(Math.random()*(longueur - i) + i);
-        var t = tableau[i];
-        tableau[i] = tableau[j];
-        tableau[j] = t;
+    function construis_les_positions() {
+        var positions = [];
+        for (var row = 0; row < lignes; row++) {
+            for (var column = 0; column < colonnes; column++) {
+                positions.push({left: largeur * column, top: hauteur * row});
+            }
+        }
+        return positions;
     }
-    return tableau;
-}
 
-function image(date) {
-  return '<div style="background-image: url(\'cases/case_' + date + '.jpg\'); background-size: cover;"></div>';
-}
-
-function add_click(caze, date) {
-  caze.on('click', function() {
-    if (date <= new Date().getDate() ) {
-      $(this).addClass('ouvert');
+    function melange(tableau) {
+        var longueur = tableau.length;
+        for (var i = 0; i < longueur; i++) {
+            var j = Math.floor(Math.random()*(longueur - i) + i);
+            var t = tableau[i];
+            tableau[i] = tableau[j];
+            tableau[j] = t;
+        }
+        return tableau;
     }
-  });
-}
 
-function construis_la_grille(calendrier) {
-  for (var row = 0; row < 5; row++) {
-    var pos_y=25*row - 2;
-    var ligne = '<div class="row" style="top:' + pos_y + '%;"></div>';
-    calendrier.append(ligne);
-  }
+    function image(date) {
+        return '<div style="background-image: url(\'cases/case_' + date + '.jpg\'); background-size: cover;"></div>';
+    }
 
-  for (var column = 0; column < 6; column++) {
-    var pos_x = 20*column - 1;
-    var colonne = '<div class="column" style="left:' + pos_x + '%;"></div>';
-    calendrier.append(colonne);
-  }
+    function add_click(caze, date) {
+        caze.on('click', function() {
+            if (date <= jours_ecoules(new Date())) {
+                $(this).addClass('ouvert');
+            }
+        });
+    }
+
+    function jours_ecoules(date) {
+        return Math.floor((date - depart ) / 86400000) + 1;
+    }
+
+    function construis_la_grille() {
+        for (var row = 0; row <= lignes; row++) {
+            var pos_y = hauteur * row - 2;
+            var ligne = '<div class="row" style="top:' + pos_y + '%;"></div>';
+            calendrier.append(ligne);
+        }
+
+        for (var column = 0; column <= colonnes; column++) {
+            var pos_x = largeur * column - 1;
+            var colonne = '<div class="column" style="left:' + pos_x + '%;"></div>';
+            calendrier.append(colonne);
+        }
+    }
+
+    function ajuste_la_taille_des_cases() {
+        $('head').append('<style>'
+        + '.case {'
+        + 'height:' + (hauteur - 4) + '%;'
+        + 'width:' + (largeur - 2) + '%;'
+        + '}'
+        + '.date {'
+        + 'height:' + hauteur + '%;'
+        + 'width:' + largeur + '%;'
+        + '}'
+        + '</style>')
+    }
 }
