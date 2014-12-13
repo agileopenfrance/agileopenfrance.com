@@ -24,7 +24,7 @@ function construis_les_cases(calendrier) {
 }
 
 function image(date) {
-  return '<div style="background-image: url(\'cases/choucroute.jpg\'); background-size: cover;"></div>';
+  return '<div style="background-image: url(\'cases/case_' + date + '.jpg\'); background-size: cover;"></div>';
 }
 
 function add_click(caze, date) {
