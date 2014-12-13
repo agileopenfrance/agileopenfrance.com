@@ -4,7 +4,7 @@ function construis_le_calendrier(calendrier) {
 }
 
 function construis_les_cases(calendrier) {
-    var positions = construis_les_positions(4, 5);
+    var positions = melange(construis_les_positions(4, 5));
     for (var date = 1; date <= 20; date++) {
         var position = positions[date - 1];
         calendrier.append(
@@ -32,6 +32,17 @@ function construis_les_positions(lignes, colonnes) {
         }
     }
     return positions;
+}
+
+function melange(tableau) {
+    var longueur = tableau.length;
+    for (var i = 0; i < longueur; i++) {
+        var j = Math.floor(Math.random()*(longueur - i) + i);
+        var t = tableau[i];
+        tableau[i] = tableau[j];
+        tableau[j] = t;
+    }
+    return tableau;
 }
 
 function image(date) {
