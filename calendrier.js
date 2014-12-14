@@ -67,9 +67,7 @@ function construis_le_calendrier(calendrier) {
         volet.on('click', function() {
             if (debug || numero <= jours_ecoules(new Date())) {
                 volet.addClass('ouvert');
-                surprise.on('click', function() {
-                  setTimeout(zoome_sur(surprise), 10);
-                });
+                surprise.on('click', zoome_sur(surprise));
             }
             else {
               $("#message-trop-tot").css("display", "block");
