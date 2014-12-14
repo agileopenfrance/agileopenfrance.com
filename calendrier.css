@@ -18,31 +18,23 @@ body {
   margin: 0;
 }
 
-body, .numero, .column, .row {
-  background: url('village_itterswiller.jpg') fixed;
+body, .numero, .calendrier {
+  background: url('village_itterswiller.jpg') fixed center;
   background-size: cover;
 }
+
 .calendrier {
   position:absolute;
   top:10vh;
   right:0;
   bottom:0;
   left:0;
+  transition: transform 1s;
 }
 
-.numero, .column, .row {
+.numero {
   position:absolute;
   z-index: 1;
-}
-
-.column {
-  height:100%;
-  width:2%;
-}
-
-.row {
-  height:4%;
-  width:100%;
 }
 
 .numero {

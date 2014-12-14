@@ -4,27 +4,30 @@ function construis_le_calendrier(calendrier) {
     var lignes = 5, colonnes = 6, cases = 26;
     var largeur = 100 / colonnes,
         hauteur = 100 / lignes;
+    var zoom_horizontal = 100 / (largeur - 2),
+        zoom_vertical = 100 / ((hauteur - 4) * .9),
+        zoom = Math.min(zoom_horizontal, zoom_vertical);
 
     construis_les_cases();
-    construis_la_grille();
     ajuste_la_taille_des_cases();
 
     function construis_les_cases() {
         var positions = melange(construis_les_positions(lignes, colonnes));
         for (var numero = 1; numero <= cases; numero++) {
             var position = positions[numero - 1];
-            calendrier.append(
+            var surprise = $(
                 '<div class="case" style="'
                 + 'left:' + (position.left + 1) + '%;'
                 +'top:' + (position.top + 2) + '%;'
                 + '">' + image(numero) + '</div>');
-            var caze = $(
+            var volet = $(
                 '<div class="numero" style="'
                 + 'left:' + position.left + '%;'
                 + 'top:' + position.top + '%;'
                 + '"> <div class="' + calcule_class_chiffres(numero) + '">' + numero + '</div></div>');
-            calendrier.append(caze);
-            add_click(caze, numero);
+            calendrier.append(surprise);
+            calendrier.append(volet);
+            add_click(volet, surprise, numero);
         }
     }
 
@@ -57,33 +60,56 @@ function construis_le_calendrier(calendrier) {
     }
 
     function image(date) {
-        return '<div style="background-image: url(\'cases/case_' + date + '.jpg\'); background-size: cover;"></div>';
+        return '<div style="background: url(\'cases/case_' + date + '.jpg\') center; background-size: cover;"></div>';
     }
 
-    function add_click(caze, date) {
-        caze.on('click', function() {
+    function add_click(volet, surprise, date) {
+        volet.on('click', function() {
             if (debug || date <= jours_ecoules(new Date())) {
-                $(this).addClass('ouvert');
+                volet.addClass('ouvert');
+                setTimeout(zoome_sur(surprise), 1000);
             }
         });
     }
 
-    function jours_ecoules(date) {
-        return Math.floor((date - depart ) / 86400000) + 1;
+    function zoome_sur(surprise) {
+        var position = surprise.position(),
+            pos_x = 50 - 100 * (position.left + surprise.width() / 2) / calendrier.width(),
+            pos_y = 50 - 100 * (position.top + surprise.height() / 2) / calendrier.height();
+
+        return function() {
+            calendrier.css(
+                'transform',
+                'translate(0,-5vh) '
+                + 'scale(' + zoom + ') '
+                + 'translate(' + pos_x + '%, ' + pos_y + '%) '
+            );
+            setTimeout(affine_image(surprise), 1000);
+        }
     }
 
-    function construis_la_grille() {
-        for (var row = 0; row <= lignes; row++) {
-            var pos_y = hauteur * row - 2;
-            var ligne = '<div class="row" style="top:' + pos_y + '%;"></div>';
-            calendrier.append(ligne);
-        }
+    function affine_image(element) {
+        var hirez = element.clone();
+        return function() {
+            hirez.css({
+                position: 'absolute',
+                top: 0,
+                left: 0,
+                width: '100%',
+                height: '100%'
+            });
+            $('body').append(hirez);
+            element.hide();
+            hirez.on('click', function() {
+                element.show();
+                hirez.remove();
+                calendrier.css('transform', '');
+            });
+        };
+    }
 
-        for (var column = 0; column <= colonnes; column++) {
-            var pos_x = largeur * column - 1;
-            var colonne = '<div class="column" style="left:' + pos_x + '%;"></div>';
-            calendrier.append(colonne);
-        }
+    function jours_ecoules(date) {
+        return Math.floor((date - depart ) / 86400000) + 1;
     }
 
     function ajuste_la_taille_des_cases() {
