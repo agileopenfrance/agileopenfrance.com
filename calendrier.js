@@ -1,5 +1,5 @@
 function construis_le_calendrier(calendrier) {
-    var debug = false;
+    var debug = true;
     var depart = new Date('2014-12-25');
     var lignes = 5, colonnes = 6, cases = 26;
     var largeur = 100 / colonnes,
@@ -67,7 +67,9 @@ function construis_le_calendrier(calendrier) {
         volet.on('click', function() {
             if (debug || numero <= jours_ecoules(new Date())) {
                 volet.addClass('ouvert');
-                setTimeout(zoome_sur(surprise), 1000);
+                surprise.on('click', function() {
+                  setTimeout(zoome_sur(surprise), 10);
+                });
             }
         });
     }
