@@ -1,5 +1,5 @@
 function construis_le_calendrier(calendrier) {
-    var debug = true;
+    var debug = false;
     var depart = new Date('2014-12-25');
     var lignes = 5, colonnes = 6, cases = 26;
     var largeur = 100 / colonnes,
