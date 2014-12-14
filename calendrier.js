@@ -71,6 +71,12 @@ function construis_le_calendrier(calendrier) {
                   setTimeout(zoome_sur(surprise), 10);
                 });
             }
+            else {
+              $("#message-trop-tot").css("display", "block");
+              setTimeout(function() {
+                $("#message-trop-tot").css("display", "none");
+              }, 2000);
+            }
         });
     }
 
