@@ -38,11 +38,21 @@ function construis_le_calendrier(calendrier) {
                 surprise = creeSurprise(position, jourCourant);
                 volet = creeVolet(position, jourCourant);
 
-                calendrier.append(surprise);
+                volet.mouseenter(function () {
+                  $(this).addClass("survol");
+                });
+                volet.mouseleave(function () {
+                  $(this).removeClass("survol");
+                });
+                volet.click(function () {
+                  $(this).removeClass("survol");
+                });
                 calendrier.append(volet);
-                add_click(volet, surprise, jourCourant);
+
+                add_click(calendrier, volet, surprise, jourCourant);
             }
         });
+
     }
 
     function calcule_class_chiffres(numero) {
@@ -66,9 +76,10 @@ function construis_le_calendrier(calendrier) {
         return '<div style="background: url(\'cases/case_' + numero + '.jpg\') center; background-size: cover;"></div>';
     }
 
-    function add_click(volet, surprise, numero) {
+    function add_click(calendrier, volet, surprise, numero) {
         volet.on('click', function() {
             if (debug || numero <= jours_ecoules(new Date())) {
+                calendrier.append(surprise);
                 volet.addClass('ouvert');
                 surprise.on('click', zoome_sur(surprise));
                 setTimeout(function() {

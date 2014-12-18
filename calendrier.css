@@ -93,3 +93,7 @@ body, .numero, .calendrier {
   z-index:10;
   display:none;
 }
+
+.survol {
+  background: rgba(255, 255, 255, 0.12);
+}
