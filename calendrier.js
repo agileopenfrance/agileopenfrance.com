@@ -7,28 +7,42 @@ function construis_le_calendrier(calendrier) {
     var zoom_horizontal = 100 / (largeur - 2),
         zoom_vertical = 100 / ((hauteur - 4) * .9),
         zoom = Math.min(zoom_horizontal, zoom_vertical);
+    var creeSurprise = function (position, jourCourant) {
+                return $(
+                    '<div class="case" style="'
+                    + 'left:' + (position.left + 1) + '%;'
+                    +'top:' + (position.top + 2) + '%;'
+                    + '">' + image(jourCourant) + '</div>');
+            },
+        creeVolet = function (position, jourCourant) {
+            return $(
+                '<div class="numero" style="'
+                + 'left:' + (position.left) + '%;'
+                +'top:' + (position.top) + '%;'
+                + '"> <div class="' + calcule_class_chiffres(jourCourant) + '">'
+                + jourCourant + '</div></div>');
+        };
 
     construis_les_cases();
     ajuste_la_taille_des_cases();
 
     function construis_les_cases() {
-        var positions = construis_les_positions(lignes, colonnes);
-        for (var numero = 1; numero <= cases; numero++) {
-            var position = positions[numero - 1];
-            var surprise = $(
-                '<div class="case" style="'
-                + 'left:' + (position.left + 1) + '%;'
-                +'top:' + (position.top + 2) + '%;'
-                + '">' + image(numero) + '</div>');
-            var volet = $(
-                '<div class="numero" style="'
-                + 'left:' + position.left + '%;'
-                + 'top:' + position.top + '%;'
-                + '"> <div class="' + calcule_class_chiffres(numero) + '">' + numero + '</div></div>');
-            calendrier.append(surprise);
-            calendrier.append(volet);
-            add_click(volet, surprise, numero);
-        }
+        var positions = construis_les_positions(lignes, colonnes),
+            jourCourant = 24;
+
+        positions.forEach(function (position) {
+            var surprise, volet;
+
+            jourCourant = (jourCourant + 1) % 31 || 31;
+            if (jourCourant >= 25 || jourCourant < 21) {
+                surprise = creeSurprise(position, jourCourant);
+                volet = creeVolet(position, jourCourant);
+
+                calendrier.append(surprise);
+                calendrier.append(volet);
+                add_click(volet, surprise, jourCourant);
+            }
+        });
     }
 
     function calcule_class_chiffres(numero) {
