@@ -35,6 +35,7 @@ body, .numero, .calendrier {
 .numero {
   position:absolute;
   z-index: 1;
+  text-shadow: black 0 0 4px;
 }
 
 .numero {
