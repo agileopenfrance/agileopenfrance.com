@@ -17,8 +17,8 @@ function construis_le_calendrier(calendrier) {
         creeVolet = function (position, jourCourant) {
             return $(
                 '<div class="numero" style="'
-                + 'left:' + (position.left) + '%;'
-                +'top:' + (position.top) + '%;'
+                + 'left:' + (position.left + 0.5) + '%;'
+                +'top:' + (position.top + 1) + '%;'
                 + '"> <div class="' + calcule_class_chiffres(jourCourant) + '">'
                 + jourCourant + '</div></div>');
         };
@@ -131,8 +131,8 @@ function construis_le_calendrier(calendrier) {
         + 'width:' + (largeur - 2) + '%;'
         + '}'
         + '.numero {'
-        + 'height:' + hauteur + '%;'
-        + 'width:' + largeur + '%;'
+        + 'height:' + (hauteur - 2) + '%;'
+        + 'width:' + (largeur - 1) + '%;'
         + '}'
         + '</style>')
     }

@@ -37,6 +37,8 @@ body, .numero, .calendrier {
   position:absolute;
   z-index: 1;
   text-shadow: black 0 0 4px;
+  border: dashed 1px #ccc;
+  border-radius: 10%;
 }
 
 .numero {
@@ -55,18 +57,18 @@ body, .numero, .calendrier {
 }
 
 .numero div {
-  position:absolute;
-  top:50%;
-  margin-top:-0.5em;
-  left:50%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-top: -0.9ex;
 }
 
 .numero .un-chiffre {
-  margin-left:-0.5em;
+  margin-left: -0.2em;
 }
 
 .numero .deux-chiffres {
-  margin-left:-0.75em;
+  margin-left: -0.5em;
 }
 
 .case {
