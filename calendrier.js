@@ -12,7 +12,7 @@ function construis_le_calendrier(calendrier) {
     ajuste_la_taille_des_cases();
 
     function construis_les_cases() {
-        var positions = melange(construis_les_positions(lignes, colonnes));
+        var positions = construis_les_positions(lignes, colonnes);
         for (var numero = 1; numero <= cases; numero++) {
             var position = positions[numero - 1];
             var surprise = $(
@@ -46,17 +46,6 @@ function construis_le_calendrier(calendrier) {
             }
         }
         return positions;
-    }
-
-    function melange(tableau) {
-        var longueur = tableau.length;
-        for (var i = 0; i < longueur; i++) {
-            var j = Math.floor(Math.random()*(longueur - i) + i);
-            var t = tableau[i];
-            tableau[i] = tableau[j];
-            tableau[j] = t;
-        }
-        return tableau;
     }
 
     function image(numero) {
