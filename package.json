@@ -1,0 +1,20 @@
+{
+  "name": "calendrier_apres",
+  "version": "0.0.0",
+  "description": "Le Calendrier de l'après",
+  "main": "calendrier.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "agileOpenFrance"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^2.0.1"
+  }
+}
