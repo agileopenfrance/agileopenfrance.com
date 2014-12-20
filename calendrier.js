@@ -1,3 +1,11 @@
+var objetPublic = function () {
+  if (typeof(module) === 'undefined' || module.exports === undefined)
+    return window;
+
+  return module.exports;
+};
+
+(function (exports) {
 function construis_le_calendrier(calendrier) {
     var debug = false;
     var depart = new Date('2014-12-25');
@@ -148,3 +156,6 @@ function construis_le_calendrier(calendrier) {
         + '</style>')
     }
 }
+
+exports.construis_le_calendrier = construis_le_calendrier;
+})(objetPublic());
