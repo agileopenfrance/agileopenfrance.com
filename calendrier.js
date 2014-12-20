@@ -84,9 +84,14 @@ function construis_le_calendrier(calendrier) {
         return '<div style="background: url(\'cases/case_' + numero + '.jpg\') center; background-size: cover;"></div>';
     }
 
-    function add_click(calendrier, volet, surprise, numero) {
+    var aujourdHuiOuAvant = function (jour) {
+        return jour <= jours_ecoules(new Date());
+    };
+
+    function add_click(calendrier, volet, surprise, jour) {
         volet.on('click', function() {
-            if (debug || numero <= jours_ecoules(new Date())) {
+            console.log(jour);
+            if (debug || aujourdHuiOuAvant(jour)) {
                 calendrier.append(surprise);
                 volet.addClass('ouvert');
                 surprise.on('click', zoome_sur(surprise));
@@ -158,4 +163,6 @@ function construis_le_calendrier(calendrier) {
 }
 
 exports.construis_le_calendrier = construis_le_calendrier;
+exports.aujourdHuiOuAvant = aujourdHuiOuAvant;
+
 })(objetPublic());
