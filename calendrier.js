@@ -20,10 +20,9 @@ jours_ecoules = function (date) {
 };
 
 function construis_le_calendrier(calendrier) {
-    var debug = false;
-    var lignes = 5, colonnes = 6, cases = 26;
+    var lignes = 4, colonnes = 7, cases = 26;
     var largeur = 100 / colonnes,
-        hauteur = 100 / lignes;
+        hauteur = 80 / lignes;
     var zoom_horizontal = 100 / (largeur - 2),
         zoom_vertical = 100 / ((hauteur - 4) * .9),
         zoom = Math.min(zoom_horizontal, zoom_vertical);

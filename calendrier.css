@@ -101,3 +101,25 @@ body, .numero, .calendrier {
   border: dashed 1px #ccc;
   border-radius: 10%;
 }
+
+footer {
+  position: absolute;
+  bottom: 0%;
+  height: 17vmin;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.4);
+  border-top: rgba(255, 255, 255, 0.8) dotted 1px;
+}
+
+.contenu-footer, .credits {
+  padding: 4vmin 2vmin 0;
+  text-align: right;
+  text-shadow: black 0 0 2px;
+  font-family:"Lekton";
+  font-size: 2.2vmin;
+  color: white;
+}
+
+a {
+  color: #ffffdd;
+}
