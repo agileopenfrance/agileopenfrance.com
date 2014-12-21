@@ -6,9 +6,21 @@ var objetPublic = function () {
 };
 
 (function (exports) {
+
+var
+numeroDepart = 25,
+jourDepart = new Date('2014-12-'+ numeroDepart),
+
+aujourdHuiOuAvant = function (jourVolet, jourActuel) {
+    return (31 + jourVolet - numeroDepart) % 31 <= jours_ecoules(jourActuel);
+},
+
+jours_ecoules = function (date) {
+    return Math.floor((date - jourDepart ) / 86400000);
+};
+
 function construis_le_calendrier(calendrier) {
     var debug = false;
-    var depart = new Date('2014-12-25');
     var lignes = 5, colonnes = 6, cases = 26;
     var largeur = 100 / colonnes,
         hauteur = 100 / lignes;
@@ -36,7 +48,7 @@ function construis_le_calendrier(calendrier) {
 
     function construis_les_cases() {
         var positions = construis_les_positions(lignes, colonnes),
-            jourCourant = 24;
+            jourCourant = numeroDepart - 1;
 
         positions.forEach(function (position) {
             var surprise, volet;
@@ -84,14 +96,10 @@ function construis_le_calendrier(calendrier) {
         return '<div style="background: url(\'cases/case_' + numero + '.jpg\') center; background-size: cover;"></div>';
     }
 
-    var aujourdHuiOuAvant = function (jour) {
-        return jour <= jours_ecoules(new Date());
-    };
-
     function add_click(calendrier, volet, surprise, jour) {
         volet.on('click', function() {
             console.log(jour);
-            if (debug || aujourdHuiOuAvant(jour)) {
+            if (debug || aujourdHuiOuAvant(jour, new Date())) {
                 calendrier.append(surprise);
                 volet.addClass('ouvert');
                 surprise.on('click', zoome_sur(surprise));
@@ -142,10 +150,6 @@ function construis_le_calendrier(calendrier) {
                 calendrier.css('transform', '');
             });
         };
-    }
-
-    function jours_ecoules(date) {
-        return Math.floor((date - depart ) / 86400000) + 1;
     }
 
     function ajuste_la_taille_des_cases() {
