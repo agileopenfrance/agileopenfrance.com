@@ -8,11 +8,12 @@ var objetPublic = function () {
 (function (exports) {
 
 var
+debug = false;
 numeroDepart = 25,
 jourDepart = new Date('2014-12-'+ numeroDepart),
 
 aujourdHuiOuAvant = function (jourVolet, jourActuel) {
-    return (31 + jourVolet - numeroDepart) % 31 <= jours_ecoules(jourActuel);
+    return debug || (31 + jourVolet - numeroDepart) % 31 <= jours_ecoules(jourActuel);
 },
 
 jours_ecoules = function (date) {
@@ -103,7 +104,7 @@ function construis_le_calendrier(calendrier) {
     function add_click(calendrier, volet, surprise, jour) {
         volet.on('click', function() {
             console.log(jour);
-            if (debug || aujourdHuiOuAvant(jour, new Date())) {
+            if (aujourdHuiOuAvant(jour, new Date())) {
                 calendrier.append(surprise);
                 volet.addClass('ouvert');
                 surprise.on('click', zoome_sur(surprise));
