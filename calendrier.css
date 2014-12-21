@@ -37,8 +37,6 @@ body, .numero, .calendrier {
   position:absolute;
   z-index: 1;
   text-shadow: black 0 0 4px;
-  border: dashed 1px #ccc;
-  border-radius: 10%;
 }
 
 .numero {
@@ -96,4 +94,9 @@ body, .numero, .calendrier {
 
 .survol {
   background: rgba(255, 255, 255, 0.12);
+}
+
+.avec-contour {
+  border: dashed 1px #ccc;
+  border-radius: 10%;
 }

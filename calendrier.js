@@ -35,12 +35,27 @@ function construis_le_calendrier(calendrier) {
                     + '">' + image(jourCourant) + '</div>');
             },
         creeVolet = function (position, jourCourant) {
-            return $(
+            var $volet = $(
                 '<div class="numero" style="'
                 + 'left:' + (position.left + 0.5) + '%;'
                 +'top:' + (position.top + 1) + '%;'
                 + '"> <div class="' + calcule_class_chiffres(jourCourant) + '">'
                 + jourCourant + '</div></div>');
+
+                if (aujourdHuiOuAvant(jourCourant, new Date())) {
+                    $volet.addClass("avec-contour");
+
+                    $volet.mouseenter(function () {
+                      $(this).addClass("survol");
+                    });
+                    $volet.mouseleave(function () {
+                      $(this).removeClass("survol");
+                    });
+                    $volet.click(function () {
+                      $(this).removeClass("survol");
+                    });
+                }
+            return $volet;
         };
 
     construis_les_cases();
@@ -57,16 +72,6 @@ function construis_le_calendrier(calendrier) {
             if (jourCourant >= 25 || jourCourant < 21) {
                 surprise = creeSurprise(position, jourCourant);
                 volet = creeVolet(position, jourCourant);
-
-                volet.mouseenter(function () {
-                  $(this).addClass("survol");
-                });
-                volet.mouseleave(function () {
-                  $(this).removeClass("survol");
-                });
-                volet.click(function () {
-                  $(this).removeClass("survol");
-                });
                 calendrier.append(volet);
 
                 add_click(calendrier, volet, surprise, jourCourant);
