@@ -11,12 +11,13 @@ body {
   font-family:"Lekton";
   color:white;
   text-shadow: black 0 0 2px;
-  font-size:4vh;
+  font-size:8vmin;
   width:100%;
   height:10vh;
   line-height: 10vh;
   text-align:center;
   margin: 0;
+  background: rgba(0, 0, 0, 0.2);
 }
 
 body, .numero, .calendrier {
@@ -41,7 +42,7 @@ body, .numero, .calendrier {
 
 .numero {
   font-family: "Lekton";
-  font-size:10vh;
+  font-size:7vmin;
   color:white;
   transition: transform 1s ease, opacity 0.5s 0.5s ease-in;
   transform-style: preserve-3d;
