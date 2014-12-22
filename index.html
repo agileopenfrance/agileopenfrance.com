@@ -26,9 +26,6 @@
 <script src="js/jquery.min.js"></script>
 <script src="calendrier.js"></script>
 <script>
-  (function(){
-    var calendrier = $('.calendrier');
-    construis_le_calendrier(calendrier);
-    $('.splash').remove();
-  })();
+  construis_le_calendrier($('.calendrier'));
+  $('.splash').remove();
 </script>
