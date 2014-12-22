@@ -16,26 +16,29 @@ var objetPublic = function () {
       },
 
       voletEstAvantDate = function (jourVolet, date) {
-        return debug || (31 + jourVolet - jourDepart) % 31 <= jours_ecoules(date);
+        return debug || (31 + jourVolet - jourDepart) % 31 <= joursEcoules(date);
       },
 
-      jours_ecoules = function (date) {
+      joursEcoules = function (date) {
         return Math.floor((date - new Date('2014-12-'+ jourDepart)) / 86400000);
       },
 
-      creeSurprise = function (position, jourCourant) {
+      creeSurprise = function (position, jourCourant, largeur, hauteur) {
         var $surprise = $(
             '<div class="case" style="'
             + 'left:' + (position.left + 1) + '%;'
-            +'top:' + (position.top + 2) + '%;'
+            + 'top:' + (position.top + 2) + '%;'
+            + 'height:' + (hauteur - 4) + '%;'
+            + 'width:' + (largeur - 2) + '%;'
             + '">' + image(jourCourant) + '</div>');
         rendsSurvolable($surprise);
         return $surprise;
       },
 
-      calcule_class_chiffres = function (numero) {
+      calculeClasseNumero = function (numero) {
         if (numero < 10)
          return "un-chiffre";
+
         return "deux-chiffres";
       },
 
@@ -45,12 +48,14 @@ var objetPublic = function () {
                '.jpg\') center; background-size: cover;"></div>';
       },
 
-      creeVolet = function (position, jourCourant) {
+      creeVolet = function (position, jourCourant, largeur, hauteur) {
         var $volet = $(
           '<div class="numero" style="'
           + 'left:' + (position.left + 0.5) + '%;'
           +'top:' + (position.top + 1) + '%;'
-          + '"> <div class="' + calcule_class_chiffres(jourCourant) + '">'
+          + 'height:' + (hauteur - 2) + '%;'
+          + 'width:' + (largeur - 1) + '%;'
+          + '"> <div class="' + calculeClasseNumero(jourCourant) + '">'
           + jourCourant + '</div></div>');
 
           if (voletEstAvantDate(jourCourant, new Date())) {
@@ -60,12 +65,12 @@ var objetPublic = function () {
         return $volet;
       },
 
-      add_click = function ($calendrier, volet, surprise, jour) {
+      placeSurpriseSousVolet = function ($calendrier, volet, surprise, jour) {
         volet.on('click', function() {
           if (voletEstAvantDate(jour, new Date())) {
             $calendrier.append(surprise);
             volet.addClass('ouvert');
-            surprise.click(function () { zoome_sur(surprise); });
+            surprise.click(function () { zoomeSur(surprise); });
           } else {
             $("#message-trop-tot").css("display", "block");
             setTimeout(function() {
@@ -75,7 +80,7 @@ var objetPublic = function () {
         });
       },
 
-      zoome_sur = function (element) {
+      zoomeSur = function (element) {
         var hirez;
         hirez = element.clone();
         hirez.css({
@@ -90,12 +95,12 @@ var objetPublic = function () {
         hirez.click(function() { hirez.remove(); });
       },
 
-      construis_le_calendrier = function ($calendrier, nbLignes, nbColonnes) {
+      construisCalendrier = function ($calendrier, nbLignes, nbColonnes) {
         var largeur = 100 / nbColonnes,
             hauteur = 80 / nbLignes,
 
-        construis_les_cases = function () {
-          var positions = construis_les_positions(nbLignes, nbColonnes),
+        construisCases = function () {
+          var positions = construisPositions(nbLignes, nbColonnes),
             jourCourant = jourDepart - 1;
 
           positions.forEach(function (position) {
@@ -103,16 +108,16 @@ var objetPublic = function () {
 
             jourCourant = (jourCourant + 1) % 31 || 31;
             if (jourCourant >= 25 || jourCourant < 21) {
-              surprise = creeSurprise(position, jourCourant);
-              volet = creeVolet(position, jourCourant);
+              surprise = creeSurprise(position, jourCourant, largeur, hauteur);
+              volet = creeVolet(position, jourCourant, largeur, hauteur);
               $calendrier.append(volet);
 
-              add_click($calendrier, volet, surprise, jourCourant);
+              placeSurpriseSousVolet($calendrier, volet, surprise, jourCourant);
             }
           });
         },
 
-        construis_les_positions = function () {
+        construisPositions = function () {
           var positions = [];
           for (var row = 0; row < nbLignes; row++) {
             for (var column = 0; column < nbColonnes; column++) {
@@ -120,27 +125,12 @@ var objetPublic = function () {
             }
           }
           return positions;
-        },
+        };
 
-
-        ajuste_la_taille_des_cases = function () {
-          $('head').append('<style>'
-          + '.case {'
-          + 'height:' + (hauteur - 4) + '%;'
-          + 'width:' + (largeur - 2) + '%;'
-          + '}'
-          + '.numero {'
-          + 'height:' + (hauteur - 2) + '%;'
-          + 'width:' + (largeur - 1) + '%;'
-          + '}'
-          + '</style>')
-        }
-
-        construis_les_cases();
-        ajuste_la_taille_des_cases();
+        construisCases();
       }
 
-  exports.construis_le_calendrier = construis_le_calendrier;
+  exports.construisCalendrier = construisCalendrier;
   exports.voletEstAvantDate = voletEstAvantDate;
 
 })(objetPublic());
