@@ -9,15 +9,14 @@ var objetPublic = function () {
 
 var
 debug = false,
-numeroDepart = 25,
-jourDepart = new Date('2014-12-'+ numeroDepart),
+jourDepart = 25,
 
-aujourdHuiOuAvant = function (jourVolet, jourActuel) {
-    return debug || (31 + jourVolet - numeroDepart) % 31 <= jours_ecoules(jourActuel);
+voletEstAvantDate = function (jourVolet, date) {
+    return debug || (31 + jourVolet - jourDepart) % 31 <= jours_ecoules(date);
 },
 
 jours_ecoules = function (date) {
-    return Math.floor((date - jourDepart ) / 86400000);
+    return Math.floor((date - new Date('2014-12-'+ jourDepart)) / 86400000);
 };
 
 function construis_le_calendrier(calendrier) {
@@ -42,7 +41,7 @@ function construis_le_calendrier(calendrier) {
                 + '"> <div class="' + calcule_class_chiffres(jourCourant) + '">'
                 + jourCourant + '</div></div>');
 
-                if (aujourdHuiOuAvant(jourCourant, new Date())) {
+                if (voletEstAvantDate(jourCourant, new Date())) {
                     $volet.addClass("avec-contour");
 
                     $volet.mouseenter(function () {
@@ -63,7 +62,7 @@ function construis_le_calendrier(calendrier) {
 
     function construis_les_cases() {
         var positions = construis_les_positions(lignes, colonnes),
-            jourCourant = numeroDepart - 1;
+            jourCourant = jourDepart - 1;
 
         positions.forEach(function (position) {
             var surprise, volet;
@@ -104,7 +103,7 @@ function construis_le_calendrier(calendrier) {
     function add_click(calendrier, volet, surprise, jour) {
         volet.on('click', function() {
             console.log(jour);
-            if (aujourdHuiOuAvant(jour, new Date())) {
+            if (voletEstAvantDate(jour, new Date())) {
                 calendrier.append(surprise);
                 volet.addClass('ouvert');
                 surprise.on('click', zoome_sur(surprise));
@@ -172,6 +171,6 @@ function construis_le_calendrier(calendrier) {
 }
 
 exports.construis_le_calendrier = construis_le_calendrier;
-exports.aujourdHuiOuAvant = aujourdHuiOuAvant;
+exports.voletEstAvantDate = voletEstAvantDate;
 
 })(objetPublic());
