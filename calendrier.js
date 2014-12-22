@@ -105,9 +105,6 @@ function construis_le_calendrier(calendrier) {
       if (voletEstAvantDate(jour, new Date())) {
         calendrier.append(surprise);
         volet.addClass('ouvert');
-        setTimeout(function() {
-          volet.remove();
-        }, 1000);
         surprise.click(function () { zoome_sur(surprise); });
       } else {
         $("#message-trop-tot").css("display", "block");
