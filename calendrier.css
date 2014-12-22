@@ -109,13 +109,16 @@ body, .numero, .calendrier {
 footer {
   position: absolute;
   bottom: 0%;
-  height: 17vmin;
+  height: 9vmin;
   width: 100%;
   background: rgba(0, 0, 0, 0.4);
   border-top: rgba(255, 255, 255, 0.8) dotted 1px;
+  transition: height 0.2s ease;
+  -webkit-transition: height 0.2s ease;
+  z-index: 3;
 }
 
-.contenu-footer, .credits {
+.liens, .credits {
   padding: 4vmin 2vmin 0;
   text-align: right;
   text-shadow: black 0 0 2px;

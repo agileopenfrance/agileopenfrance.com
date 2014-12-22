@@ -89,7 +89,7 @@ var objetPublic = function () {
           left: 0,
           width: '100%',
           height: '100%',
-          zIndex: 3
+          zIndex: 4
         });
         $('body').append(hirez);
         hirez.click(function() { hirez.remove(); });
@@ -107,7 +107,7 @@ var objetPublic = function () {
 
       construisCalendrier = function ($calendrier, nbLignes, nbColonnes) {
         var largeur = 100 / nbColonnes,
-            hauteur = 80 / nbLignes,
+            hauteur = 87 / nbLignes,
             positions = construisPositions(nbLignes, nbColonnes, largeur, hauteur),
             jourCourant = jourDepart - 1;
 
@@ -122,6 +122,14 @@ var objetPublic = function () {
 
             placeSurpriseSousVolet($calendrier, volet, surprise, jourCourant);
           }
+        });
+
+        $("footer").mouseenter(function () {
+          $(this).css("height", "17vmin");
+        });
+
+        $("footer").mouseleave(function () {
+          $(this).css("height", "9vmin");
         });
       };
 
