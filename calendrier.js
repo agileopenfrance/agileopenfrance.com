@@ -102,7 +102,6 @@ function construis_le_calendrier(calendrier) {
 
   function add_click(calendrier, volet, surprise, jour) {
     volet.on('click', function() {
-      console.log(jour);
       if (voletEstAvantDate(jour, new Date())) {
         calendrier.append(surprise);
         volet.addClass('ouvert');
