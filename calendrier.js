@@ -8,7 +8,7 @@ var objetPublic = function () {
 (function (exports) {
 
 var
-debug = false;
+debug = false,
 numeroDepart = 25,
 jourDepart = new Date('2014-12-'+ numeroDepart),
 
