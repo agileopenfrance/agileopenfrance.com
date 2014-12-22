@@ -119,8 +119,7 @@ function construis_le_calendrier(calendrier) {
   }
 
   function zoome_sur(element) {
-    var debut, fin,hirez;
-    debut = new Date();
+    var hirez;
     hirez = element.clone();
     hirez.css({
       position: 'absolute',
@@ -132,8 +131,6 @@ function construis_le_calendrier(calendrier) {
     });
     $('body').append(hirez);
     hirez.click(function() { hirez.remove(); });
-    fin = new Date();
-    console.log(fin - debut);
   }
 
   function ajuste_la_taille_des_cases() {
