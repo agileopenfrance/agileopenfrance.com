@@ -21,9 +21,6 @@ var objetPublic = function () {
     var
     largeur = 100 / nbColonnes,
     hauteur = 80 / nbLignes,
-    zoom_horizontal = 100 / (largeur - 2),
-    zoom_vertical = 100 / ((hauteur - 4) * .9),
-    zoom = Math.min(zoom_horizontal, zoom_vertical),
 
     rendsSurvolable = function ($element) {
       $element.mouseenter(function () {
