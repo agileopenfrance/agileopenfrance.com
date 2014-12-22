@@ -17,7 +17,7 @@ var objetPublic = function () {
         return Math.floor((date - new Date('2014-12-'+ jourDepart)) / 86400000);
       };
 
-  function construis_le_calendrier(calendrier) {
+  function construis_le_calendrier($calendrier) {
     var
     lignes = 4, colonnes = 7, cases = 26,
     largeur = 100 / colonnes,
@@ -77,9 +77,9 @@ var objetPublic = function () {
         if (jourCourant >= 25 || jourCourant < 21) {
           surprise = creeSurprise(position, jourCourant);
           volet = creeVolet(position, jourCourant);
-          calendrier.append(volet);
+          $calendrier.append(volet);
 
-          add_click(calendrier, volet, surprise, jourCourant);
+          add_click($calendrier, volet, surprise, jourCourant);
         }
       });
 
@@ -106,10 +106,10 @@ var objetPublic = function () {
       return '<div style="background: url(\'cases/case_' + numero + '.jpg\') center; background-size: cover;"></div>';
     }
 
-    function add_click(calendrier, volet, surprise, jour) {
+    function add_click($calendrier, volet, surprise, jour) {
       volet.on('click', function() {
         if (voletEstAvantDate(jour, new Date())) {
-          calendrier.append(surprise);
+          $calendrier.append(surprise);
           volet.addClass('ouvert');
           surprise.click(function () { zoome_sur(surprise); });
         } else {
