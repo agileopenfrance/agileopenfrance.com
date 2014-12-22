@@ -95,42 +95,36 @@ var objetPublic = function () {
         hirez.click(function() { hirez.remove(); });
       },
 
+      construisPositions = function (nbLignes, nbColonnes, largeur, hauteur) {
+        var positions = [];
+        for (var row = 0; row < nbLignes; row++) {
+          for (var column = 0; column < nbColonnes; column++) {
+            positions.push({left: largeur * column, top: hauteur * row});
+          }
+        }
+        return positions;
+      };
+
       construisCalendrier = function ($calendrier, nbLignes, nbColonnes) {
         var largeur = 100 / nbColonnes,
             hauteur = 80 / nbLignes,
-
-        construisCases = function () {
-          var positions = construisPositions(nbLignes, nbColonnes),
+            positions = construisPositions(nbLignes, nbColonnes, largeur, hauteur),
             jourCourant = jourDepart - 1;
 
-          positions.forEach(function (position) {
-            var surprise, volet;
+        positions.forEach(function (position) {
+          var surprise, volet;
 
-            jourCourant = (jourCourant + 1) % 31 || 31;
-            if (jourCourant >= 25 || jourCourant < 21) {
-              surprise = creeSurprise(position, jourCourant, largeur, hauteur);
-              volet = creeVolet(position, jourCourant, largeur, hauteur);
-              $calendrier.append(volet);
+          jourCourant = (jourCourant + 1) % 31 || 31;
+          if (jourCourant >= 25 || jourCourant < 21) {
+            surprise = creeSurprise(position, jourCourant, largeur, hauteur);
+            volet = creeVolet(position, jourCourant, largeur, hauteur);
+            $calendrier.append(volet);
 
-              placeSurpriseSousVolet($calendrier, volet, surprise, jourCourant);
-            }
-          });
-        },
-
-        construisPositions = function () {
-          var positions = [];
-          for (var row = 0; row < nbLignes; row++) {
-            for (var column = 0; column < nbColonnes; column++) {
-              positions.push({left: largeur * column, top: hauteur * row});
-            }
+            placeSurpriseSousVolet($calendrier, volet, surprise, jourCourant);
           }
-          return positions;
-        };
-
-        construisCases();
-      }
+        });
+      };
 
   exports.construisCalendrier = construisCalendrier;
   exports.voletEstAvantDate = voletEstAvantDate;
-
 })(objetPublic());
