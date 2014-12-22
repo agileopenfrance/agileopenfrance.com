@@ -3,7 +3,6 @@ body {
   width: 100vw;
   height: 100vh;
   overflow: hidden;
-  perspective: 1500px;
 }
 
 .titre {
@@ -31,7 +30,6 @@ body, .numero, .calendrier {
   right:0;
   bottom:0;
   left:0;
-  transition: transform 1s;
 }
 
 .numero {
@@ -44,13 +42,18 @@ body, .numero, .calendrier {
   font-family: "Lekton";
   font-size:7vmin;
   color:white;
-  transition: transform 1s ease, opacity 0.5s 0.5s ease-in;
+  transition: transform 1s ease, opacity 1s ease 1s;
   transform-style: preserve-3d;
   transform-origin: 0;
+
+  -webkit-transition: -webkit-transform 1s ease, opacity 1s ease 1s;
+  -webkit-transform-style: preserve-3d;
+  -webkit-transform-origin: 0;
 }
 
 .numero.ouvert {
   transform: rotateY(-90deg);
+  -webkit-transform: rotateY(-90deg);
   opacity: 0;
   z-index: 2;
 }
