@@ -98,6 +98,7 @@ body, .numero, .calendrier {
 
 .survol {
   background: rgba(255, 255, 255, 0.12);
+  opacity: 0.7;
 }
 
 .avec-contour {

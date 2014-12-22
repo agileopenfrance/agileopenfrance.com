@@ -20,42 +20,50 @@ jours_ecoules = function (date) {
 };
 
 function construis_le_calendrier(calendrier) {
-  var lignes = 4, colonnes = 7, cases = 26;
-  var largeur = 100 / colonnes,
-    hauteur = 80 / lignes;
-  var zoom_horizontal = 100 / (largeur - 2),
-    zoom_vertical = 100 / ((hauteur - 4) * .9),
-    zoom = Math.min(zoom_horizontal, zoom_vertical);
-  var creeSurprise = function (position, jourCourant) {
-        return $(
-          '<div class="case" style="'
-          + 'left:' + (position.left + 1) + '%;'
-          +'top:' + (position.top + 2) + '%;'
-          + '">' + image(jourCourant) + '</div>');
-      },
-    creeVolet = function (position, jourCourant) {
-      var $volet = $(
-        '<div class="numero" style="'
-        + 'left:' + (position.left + 0.5) + '%;'
-        +'top:' + (position.top + 1) + '%;'
-        + '"> <div class="' + calcule_class_chiffres(jourCourant) + '">'
-        + jourCourant + '</div></div>');
+  var
+  lignes = 4, colonnes = 7, cases = 26,
+  largeur = 100 / colonnes,
+  hauteur = 80 / lignes,
+  zoom_horizontal = 100 / (largeur - 2),
+  zoom_vertical = 100 / ((hauteur - 4) * .9),
+  zoom = Math.min(zoom_horizontal, zoom_vertical),
 
-        if (voletEstAvantDate(jourCourant, new Date())) {
-          $volet.addClass("avec-contour");
+  rendsSurvolable = function ($element) {
+    $element.mouseenter(function () {
+        $(this).addClass("survol");
+        });
+    $element.mouseleave(function () {
+        $(this).removeClass("survol");
+        });
+    $element.click(function () {
+        $(this).removeClass("survol");
+        });
+  },
 
-          $volet.mouseenter(function () {
-            $(this).addClass("survol");
-          });
-          $volet.mouseleave(function () {
-            $(this).removeClass("survol");
-          });
-          $volet.click(function () {
-            $(this).removeClass("survol");
-          });
-        }
-      return $volet;
-    };
+  creeSurprise = function (position, jourCourant) {
+    var $surprise = $(
+        '<div class="case" style="'
+        + 'left:' + (position.left + 1) + '%;'
+        +'top:' + (position.top + 2) + '%;'
+        + '">' + image(jourCourant) + '</div>');
+    rendsSurvolable($surprise);
+    return $surprise;
+  },
+
+  creeVolet = function (position, jourCourant) {
+    var $volet = $(
+      '<div class="numero" style="'
+      + 'left:' + (position.left + 0.5) + '%;'
+      +'top:' + (position.top + 1) + '%;'
+      + '"> <div class="' + calcule_class_chiffres(jourCourant) + '">'
+      + jourCourant + '</div></div>');
+
+      if (voletEstAvantDate(jourCourant, new Date())) {
+        $volet.addClass("avec-contour");
+        rendsSurvolable($volet);
+      }
+    return $volet;
+  };
 
   construis_les_cases();
   ajuste_la_taille_des_cases();
