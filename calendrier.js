@@ -6,7 +6,7 @@ var objetPublic = function () {
 };
 
 (function (exports) {
-  var debug = true,
+  var debug = false,
       jourDepart = 25,
 
       voletEstAvantDate = function (jourVolet, date) {
@@ -17,11 +17,10 @@ var objetPublic = function () {
         return Math.floor((date - new Date('2014-12-'+ jourDepart)) / 86400000);
       };
 
-  function construis_le_calendrier($calendrier) {
+  function construis_le_calendrier($calendrier, nbLignes, nbColonnes) {
     var
-    lignes = 4, colonnes = 7, cases = 26,
-    largeur = 100 / colonnes,
-    hauteur = 80 / lignes,
+    largeur = 100 / nbColonnes,
+    hauteur = 80 / nbLignes,
     zoom_horizontal = 100 / (largeur - 2),
     zoom_vertical = 100 / ((hauteur - 4) * .9),
     zoom = Math.min(zoom_horizontal, zoom_vertical),
@@ -67,7 +66,7 @@ var objetPublic = function () {
     ajuste_la_taille_des_cases();
 
     function construis_les_cases() {
-      var positions = construis_les_positions(lignes, colonnes),
+      var positions = construis_les_positions(nbLignes, nbColonnes),
         jourCourant = jourDepart - 1;
 
       positions.forEach(function (position) {
@@ -94,8 +93,8 @@ var objetPublic = function () {
 
     function construis_les_positions() {
       var positions = [];
-      for (var row = 0; row < lignes; row++) {
-        for (var column = 0; column < colonnes; column++) {
+      for (var row = 0; row < nbLignes; row++) {
+        for (var column = 0; column < nbColonnes; column++) {
           positions.push({left: largeur * column, top: hauteur * row});
         }
       }
