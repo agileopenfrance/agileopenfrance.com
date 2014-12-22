@@ -36,7 +36,6 @@ var objetPublic = function () {
       calcule_class_chiffres = function (numero) {
         if (numero < 10)
          return "un-chiffre";
-        else
         return "deux-chiffres";
       },
 
