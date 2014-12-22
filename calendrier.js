@@ -105,12 +105,11 @@ function construis_le_calendrier(calendrier) {
       if (voletEstAvantDate(jour, new Date())) {
         calendrier.append(surprise);
         volet.addClass('ouvert');
-        surprise.on('click', zoome_sur(surprise));
         setTimeout(function() {
           volet.remove();
         }, 1000);
-      }
-      else {
+        surprise.click(function () { zoome_sur(surprise); });
+      } else {
         $("#message-trop-tot").css("display", "block");
         setTimeout(function() {
         $("#message-trop-tot").css("display", "none");
@@ -119,40 +118,22 @@ function construis_le_calendrier(calendrier) {
     });
   }
 
-  function zoome_sur(surprise) {
-    var position = surprise.position(),
-      pos_x = 50 - 100 * (position.left + surprise.width() / 2) / calendrier.width(),
-      pos_y = 50 - 100 * (position.top + surprise.height() / 2) / calendrier.height();
-
-    return function() {
-      calendrier.css(
-        'transform',
-        'translate(0,-5vh) '
-        + 'scale(' + zoom + ') '
-        + 'translate(' + pos_x + '%, ' + pos_y + '%) '
-      );
-      setTimeout(affine_image(surprise), 1000);
-    }
-  }
-
-  function affine_image(element) {
-    var hirez = element.clone();
-    return function() {
-      hirez.css({
-        position: 'absolute',
-        top: 0,
-        left: 0,
-        width: '100%',
-        height: '100%'
-      });
-      $('body').append(hirez);
-      element.hide();
-      hirez.on('click', function() {
-        element.show();
-        hirez.remove();
-        calendrier.css('transform', '');
-      });
-    };
+  function zoome_sur(element) {
+    var debut, fin,hirez;
+    debut = new Date();
+    hirez = element.clone();
+    hirez.css({
+      position: 'absolute',
+      top: 0,
+      left: 0,
+      width: '100%',
+      height: '100%',
+      zIndex: 3
+    });
+    $('body').append(hirez);
+    hirez.click(function() { hirez.remove(); });
+    fin = new Date();
+    console.log(fin - debut);
   }
 
   function ajuste_la_taille_des_cases() {
