@@ -20,4 +20,10 @@ describe("Une surprise du calendrier de l'apres", function () {
     expect(surprise.estOuvrable(leJourJ)).to.be.ok();
     expect(surprise.estOuvrable(leLendemain)).to.be.ok();
   });
+
+  it("connaît son numéro", function () {
+    var surprise = new Surprise("", new Date("2014-12-21"));
+
+    expect(surprise.numero()).to.equal(21);
+  });
 });

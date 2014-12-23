@@ -6,9 +6,10 @@ var objetPublic = function () {
 };
 
 (function (exports) {
-  var Surprise = function (cheminImage, dateOuverture) {
+  var Surprise = function (cheminImage, dateOuverture, description) {
     this.cheminImage = cheminImage;
     this.dateOuverture = dateOuverture;
+    this.description = description;
   };
 
   Surprise.prototype.ouvre = function () {
@@ -17,6 +18,10 @@ var objetPublic = function () {
 
   Surprise.prototype.estOuvrable = function (date) {
     return this.dateOuverture <= date;
+  };
+
+  Surprise.prototype.numero = function () {
+    return this.dateOuverture.getDate();
   };
 
   exports.Surprise = Surprise;
