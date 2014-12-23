@@ -36,10 +36,7 @@ var objetPublic = function () {
       },
 
       calculeClasseNumero = function (numero) {
-        if (numero < 10)
-         return "un-chiffre";
-
-        return "deux-chiffres";
+         return numero < 10 ? "un-chiffre" : "deux-chiffres";
       },
 
       image = function (numero) {
