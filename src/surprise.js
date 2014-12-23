@@ -19,5 +19,5 @@ var objetPublic = function () {
     return this.dateOuverture <= date;
   };
 
-  module.exports = Surprise;
+  exports.Surprise = Surprise;
 })(objetPublic());

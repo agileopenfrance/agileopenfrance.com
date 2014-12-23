@@ -1,7 +1,7 @@
 var expect = require("expect.js");
 
 describe("Une surprise du calendrier de l'apres", function () {
-  var  Surprise = require("../src/surprise");
+  var  Surprise = require("../src/surprise").Surprise;
 
   it("montre une image associée quand on l'ouvre", function () {
     var cheminImage = "image.jpg",
