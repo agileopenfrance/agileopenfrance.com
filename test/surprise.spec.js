@@ -4,8 +4,8 @@ describe("Une surprise du calendrier de l'apres", function () {
   var  Surprise = require("../src/surprise").Surprise;
 
   it("montre une image associée quand on l'ouvre", function () {
-    var cheminImage = "image.jpg",
-        surprise = new Surprise(cheminImage);
+    var configuration = {cheminImage: "image.jpg", description: ""},
+        surprise = new Surprise(configuration);
 
     expect(surprise.ouvre()).to.equal("image.jpg");
   });
@@ -22,7 +22,7 @@ describe("Une surprise du calendrier de l'apres", function () {
   });
 
   it("connaît son numéro", function () {
-    var surprise = new Surprise("", new Date("2014-12-21"));
+    var surprise = new Surprise({}, new Date("2014-12-21"));
 
     expect(surprise.numero()).to.equal(21);
   });

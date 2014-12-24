@@ -10,19 +10,14 @@ var programmeExecuteAvecNode = function () {
   var Surprise,
       CalendrierApres = function (dateDebut, nbJours, descriptionsSurprises) {
         var i = -1,
-            dateSurprise,
-            descriptionSurprise;
+            dateSurprise;
 
         this.surprises = [];
         while (++i < nbJours) {
           dateSurprise = new Date(dateDebut);
           dateSurprise.setDate(dateDebut.getDate() + i),
-          descriptionSurprise = descriptionsSurprises[i];
 
-          this.surprises.push(new Surprise(
-            descriptionSurprise.cheminImage,
-            dateSurprise,
-            descriptionSurprise.description));
+          this.surprises.push(new Surprise(descriptionsSurprises[i], dateSurprise));
         }
       };
 

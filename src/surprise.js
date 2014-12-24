@@ -6,10 +6,10 @@ var objetPublic = function () {
 };
 
 (function (exports) {
-  var Surprise = function (cheminImage, dateOuverture, description) {
-    this.cheminImage = cheminImage;
+  var Surprise = function (configuration, dateOuverture) {
+    this.cheminImage = configuration.cheminImage;
+    this.description = configuration.description;
     this.dateOuverture = dateOuverture;
-    this.description = description;
   };
 
   Surprise.prototype.ouvre = function () {
