@@ -8,10 +8,9 @@ var programmeExecuteAvecNode = function () {
 
 (function (exports) {
 
-  var Surprise,
-      CalendrierApres = function (dateDebut, descriptionsSurprises) {
+  var CalendrierApres = function (dateDebut, descriptionsSurprises) {
 
-        this.surprises =  descriptionsSurprises.map( function (description, i) {
+        this.surprises =  descriptionsSurprises.map(function (description, i) {
           var dateSurprise = new Date(dateDebut);
           dateSurprise.setDate(dateDebut.getDate() + i);
           return new Surprise(description, dateSurprise);

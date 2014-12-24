@@ -24,8 +24,43 @@
 </footer>
 
 <script src="js/jquery.min.js"></script>
-<script src="calendrier.js"></script>
+<script src="src/surprise.js"></script>
+<script src="src/vueSurprise.js"></script>
+<script src="src/util.js"></script>
+<script src="src/calendrierApres.js"></script>
+<script src="src/vueCalendrierApres.js"></script>
 <script>
-  construisCalendrier($('.calendrier'), 4, 7);
+  var descriptions = [
+        {cheminImage: "cases/case_25.jpg", description: "Arnold sous la neige"},
+        {cheminImage: "cases/case_26.jpg", description: ""},
+        {cheminImage: "cases/case_27.jpg", description: ""},
+        {cheminImage: "cases/case_28.jpg", description: ""},
+        {cheminImage: "cases/case_29.jpg", description: ""},
+        {cheminImage: "cases/case_30.jpg", description: ""},
+        {cheminImage: "cases/case_31.jpg", description: ""},
+        {cheminImage: "cases/case_1.jpg", description: ""},
+        {cheminImage: "cases/case_2.jpg", description: ""},
+        {cheminImage: "cases/case_3.jpg", description: ""},
+        {cheminImage: "cases/case_4.jpg", description: ""},
+        {cheminImage: "cases/case_5.jpg", description: ""},
+        {cheminImage: "cases/case_6.jpg", description: ""},
+        {cheminImage: "cases/case_7.jpg", description: ""},
+        {cheminImage: "cases/case_8.jpg", description: ""},
+        {cheminImage: "cases/case_9.jpg", description: ""},
+        {cheminImage: "cases/case_10.jpg", description: ""},
+        {cheminImage: "cases/case_11.jpg", description: ""},
+        {cheminImage: "cases/case_12.jpg", description: ""},
+        {cheminImage: "cases/case_13.jpg", description: ""},
+        {cheminImage: "cases/case_14.jpg", description: ""},
+        {cheminImage: "cases/case_15.jpg", description: ""},
+        {cheminImage: "cases/case_16.jpg", description: ""},
+        {cheminImage: "cases/case_17.jpg", description: ""},
+        {cheminImage: "cases/case_18.jpg", description: ""},
+        {cheminImage: "cases/case_19.jpg", description: ""},
+        {cheminImage: "cases/case_20.jpg", description: ""}
+      ],
+      calendrier = new CalendrierApres(new Date("2014-12-25"), descriptions);
+  insereCalendrier(calendrier, 4, 7, $('.calendrier'));
+  animeFooter();
   $('.splash').remove();
 </script>

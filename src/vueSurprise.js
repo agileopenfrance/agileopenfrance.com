@@ -51,7 +51,7 @@ var programmeExecuteAvecNode = function () {
         });
 
         $zoom.click(function () { $(this).remove(); });
-        $('body').append(zoom);
+        $('body').append($zoom);
       },
 
       insereImage = function ($image, $placeHolder) {
@@ -76,7 +76,7 @@ var programmeExecuteAvecNode = function () {
         var x = curseur.colonne * largeur,
             y = curseur.ligne * hauteur,
             $image = $(codeHTMLImage(surprise.cheminImage, x + 2, y + 1, largeur - 2, hauteur - 4)),
-            $volet = $(codeHTMLVolet(surprise.numero, x + 1, y + 0.5, largeur - 1, hauteur - 2)),
+            $volet = $(codeHTMLVolet(surprise.numero(), x + 1, y + 0.5, largeur - 1, hauteur - 2)),
             surpriseOuvrable = surprise.estOuvrable(new Date()),
             evenementClic = surpriseOuvrable ?
                             function () { insereImage($image, $placeHolder); ouvreVolet($volet); } :
@@ -88,6 +88,7 @@ var programmeExecuteAvecNode = function () {
         }
 
         $volet.click(evenementClic);
+        $placeHolder.append($volet);
       };
 
   exports.codeHTMLImage = codeHTMLImage;
