@@ -20,7 +20,7 @@ body {
 }
 
 body, .numero, .calendrier {
-  background: url('../village_itterswiller.jpg') fixed center;
+  background: url('../img/village_itterswiller.jpg') fixed center;
   background-size: cover;
 }
 
