@@ -1,8 +1,8 @@
 {
   "name": "calendrier_apres",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Le Calendrier de l'après",
-  "main": "calendrier.js",
+  "main": "index.html",
   "directories": {
     "test": "test"
   },
@@ -12,7 +12,15 @@
   "keywords": [
     "agileOpenFrance"
   ],
-  "author": "",
+  "contributors": [
+    "Étienne Charignon",
+    "Emmanuel Gaillot",
+    "Frédéric Merizen"
+  ],
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/agileopenfrance/agileopenfrance.github.io.git"
+  },
   "license": "ISC",
   "devDependencies": {
     "expect.js": "^0.3.1",
