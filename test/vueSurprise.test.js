@@ -6,7 +6,7 @@ describe("Une surprise traitée en HTML", function () {
     var codeHTMLImage = require("../src/vueSurprise").codeHTMLImage;
 
     expect(codeHTMLImage("image.jpg", 25, 59, 10, 20)).to.equal(
-      "<div class=\"case\" style=\"top: 25%; left: 59%; width: 10%; height: 20%;\">" + 
+      "<div class=\"case\" style=\"left: 25%; top: 59%; width: 10%; height: 20%;\">" +
       "<div style=\"background: url('image.jpg') center; background-size: cover;\"></div>" +
       "</div>");
   });
@@ -15,12 +15,12 @@ describe("Une surprise traitée en HTML", function () {
     var codeHTMLVolet = require("../src/vueSurprise").codeHTMLVolet;
 
     expect(codeHTMLVolet(7, 25, 59, 10, 20)).to.equal(
-      "<div class=\"numero\" style=\"top: 25%; left: 59%; width: 10%; height: 20%;\">" +
+      "<div class=\"numero\" style=\"left: 25%; top: 59%; width: 10%; height: 20%;\">" +
       "<div class=\"un-chiffre\">7</div>" +
       "</div>");
 
     expect(codeHTMLVolet(17, 25, 59, 10, 20)).to.equal(
-      "<div class=\"numero\" style=\"top: 25%; left: 59%; width: 10%; height: 20%;\">" +
+      "<div class=\"numero\" style=\"left: 25%; top: 59%; width: 10%; height: 20%;\">" +
       "<div class=\"deux-chiffres\">17</div>" +
       "</div>");
   });

@@ -11,8 +11,8 @@ var programmeExecuteAvecNode = function () {
 
   var codeHTMLImage = function (cheminImage, x, y, largeur, hauteur) {
         var codeHTML =
-          '<div class="case" style="top: ' + x + '%; '      +
-                                   'left: ' + y + '%; '    +
+          '<div class="case" style="left: ' + x + '%; '      +
+                                   'top: ' + y + '%; '    +
                                    'width: ' + largeur + '%; '        +
                                    'height: ' + hauteur + '%;">'        +
             '<div style="background: url(\'' + cheminImage + '\') center; ' +
@@ -24,8 +24,8 @@ var programmeExecuteAvecNode = function () {
       codeHTMLVolet = function (numero, x, y, largeur, hauteur) {
         var styleNumero = numero < 10 ? "un-chiffre" : "deux-chiffres",
             codeHTML =
-              "<div class=\"numero\" style=\"top: " + x + "%; " +
-                                            "left: " + y + "%; " +
+              "<div class=\"numero\" style=\"left: " + x + "%; " +
+                                            "top: " + y + "%; " +
                                             "width: " + largeur + "%; " +
                                             "height: " + hauteur + "%;\">" +
               "<div class=\"" + styleNumero + "\">" + numero + "</div>" +
