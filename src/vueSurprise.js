@@ -34,14 +34,19 @@ var programmeExecuteAvecNode = function () {
         return codeHTML;
       },
 
+      codeHTMLDescription = function (description) {
+        return "<div class=\"description\">" + description + "</div>";
+      }
+
       rendsSurvolable = function ($element) {
         $element.mouseenter(function () { $(this).addClass("survol"); });
         $element.mouseleave(function () { $(this).removeClass("survol"); });
         $element.click(function () { $(this).removeClass("survol"); });
       },
 
-      zoomeSur = function ($element) {
-        var $zoom = $element.clone();
+      zoomeSur = function ($element, description) {
+        var $zoom = $element.clone(),
+            $description = $(codeHTMLDescription(description));
 
         $zoom.css({
           position: 'absolute',
@@ -50,13 +55,14 @@ var programmeExecuteAvecNode = function () {
           zIndex: 4
         });
 
-        $zoom.click(function () { $(this).remove(); });
+        $zoom.click(function () { $(this).remove(); $description.remove(); });
         $('body').append($zoom);
+        $('body').append($description);
       },
 
-      insereImage = function ($image, $placeHolder) {
+      insereImage = function ($image, description, $placeHolder) {
         rendsSurvolable($image);
-        $image.click(function() { zoomeSur($(this)); });
+        $image.click(function() { zoomeSur($(this), description); });
 
         $placeHolder.append($image);
       },
@@ -79,7 +85,7 @@ var programmeExecuteAvecNode = function () {
             $volet = $(codeHTMLVolet(surprise.numero(), x + 1, y + 0.5, largeur - 1, hauteur - 2)),
             surpriseOuvrable = surprise.estOuvrable(new Date()),
             evenementClic = surpriseOuvrable ?
-                            function () { insereImage($image, $placeHolder); ouvreVolet($volet); } :
+                            function () { insereImage($image, surprise.description, $placeHolder); ouvreVolet($volet); } :
                             function () { afficheErreur(); };
 
         if (surpriseOuvrable) {
