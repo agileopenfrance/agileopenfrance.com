@@ -7,18 +7,15 @@ var programmeExecuteAvecNode = function () {
     };
 
 (function (exports) {
+
   var Surprise,
-      CalendrierApres = function (dateDebut, nbJours, descriptionsSurprises) {
-        var i = -1,
-            dateSurprise;
+      CalendrierApres = function (dateDebut, descriptionsSurprises) {
 
-        this.surprises = [];
-        while (++i < nbJours) {
-          dateSurprise = new Date(dateDebut);
-          dateSurprise.setDate(dateDebut.getDate() + i),
-
-          this.surprises.push(new Surprise(descriptionsSurprises[i], dateSurprise));
-        }
+        this.surprises =  descriptionsSurprises.map( function (description, i) {
+          var dateSurprise = new Date(dateDebut);
+          dateSurprise.setDate(dateDebut.getDate() + i);
+          return new Surprise(description, dateSurprise);
+        });
       };
 
   if (programmeExecuteAvecNode()) {

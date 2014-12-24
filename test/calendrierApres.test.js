@@ -8,8 +8,7 @@ describe("Un calendrier de l'Après", function () {
           {cheminImage: "image1.jpg", description: "Une description"},
           {cheminImage: "image2.jpg", description: "Une autre description"}],
         dateDebut = new Date("2014-12-20"),
-        nbJours = 2,
-        calendrier = new CalendrierApres(dateDebut, nbJours, descriptionsSurprises),
+        calendrier = new CalendrierApres(dateDebut, descriptionsSurprises),
         surprises = calendrier.surprises;
 
     expect(surprises.length).to.equal(2);
