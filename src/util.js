@@ -18,7 +18,7 @@ var programmeExecuteAvecNode = function () {
   Curseur.prototype.avance = function () {
     this.colonne++;
 
-    if (this.colonne > this.nbColonnes) {
+    if (this.colonne == this.nbColonnes) {
       this.colonne = 0;
       this.ligne++;
     }

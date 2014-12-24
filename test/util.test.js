@@ -20,7 +20,7 @@ describe("Le curseur de la matrice", function () {
   });
 
   it("sait revenir à la ligne après la dernière colonne", function () {
-    var curseur = new Curseur(2, 0);
+    var curseur = new Curseur(2, 1);
 
     curseur.avance();
 
