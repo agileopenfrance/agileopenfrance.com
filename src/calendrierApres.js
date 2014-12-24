@@ -1,9 +1,10 @@
-var objetPublic = function () {
-  if (typeof(module) === 'undefined' || module.exports === undefined)
-    return window;
+var programmeExecuteAvecNode = function () {
+      return typeof(module) !== 'undefined' && module.exports;
+    },
 
-  return module.exports;
-};
+    objetPublic = function () {
+      return programmeExecuteAvecNode() ? module.exports : window;
+    };
 
 (function (exports) {
   var Surprise,
@@ -25,7 +26,7 @@ var objetPublic = function () {
         }
       };
 
-  if (typeof(module) !== 'undefined' && module.exports) {
+  if (programmeExecuteAvecNode()) {
     Surprise = require("./surprise").Surprise;
   }
 
