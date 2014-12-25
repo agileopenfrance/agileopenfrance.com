@@ -36,7 +36,7 @@ var programmeExecuteAvecNode = function () {
 
       codeHTMLDescription = function (description) {
         return "<div class=\"description\">" + description + "</div>";
-      }
+      },
 
       rendsSurvolable = function ($element) {
         $element.mouseenter(function () { $(this).addClass("survol"); });
