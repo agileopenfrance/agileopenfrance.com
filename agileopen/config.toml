@@ -1,0 +1,23 @@
+baseurl         = "http://agileopenfrance.com"
+theme           = "sp-minimal"
+languageCode    = "fr"
+title           = "Agile Open France 2018"
+disqusShortname = ""
+paginate        = 5
+
+[params]
+  title       = "Agile Open France"
+  subtitle    = "Saisons Hiver et Eté 2018"
+  copyright   = "Released under the MIT license."
+  authorImage = "logo.jpg"
+
+  #"single" or "multi"
+  renderType = "single"
+  #"simple" or "original"
+  themeStyle = "simple"
+
+  googleAnalytics = ""
+
+  name = "EM"
+  description = "Un terrain d'entrainement à suivre ses deux pieds. Il est possible que vous soyez surpris."
+  pageNotFoundTitle = "404 - Page not found"
