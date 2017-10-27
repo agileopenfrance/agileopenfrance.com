@@ -16,10 +16,12 @@ Editer les fichiers disponibles dans [agileopen/content/onepage](agileopen/conte
 
 # Lancer hugo pour vérifier en local
 
-   $ cd agileopen
-   $ hugo server
+    $ cd agileopen
+    $ hugo server
 
 # Builder le site
 
-   $ cd agileopen
-   $ hudo -d ..
+Permet de constuire le site statique dans le répertoire racine.
+
+    $ cd agileopen
+    $ hudo -d ..
