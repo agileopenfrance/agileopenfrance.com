@@ -1,4 +1,4 @@
-baseurl         = "http://agileopenfrance.com"
+baseurl         = "http://agileopenfrance.com/"
 theme           = "sp-minimal"
 languageCode    = "fr"
 title           = "Agile Open France 2018"
