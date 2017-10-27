@@ -8,7 +8,7 @@ Pour la 11ème année d'affilée: Emmanuel Gaillot, Raphaël Pierquin et Bernard
 
 Vous aurez l’opportunité de participer cette année à deux événements: Agile Open Hiver et Agile Open Eté.
 
-Comme l'année dernière, **Agile Open France Hiver 2018** aura lieu sur soixante-douze heures, les mercredi 18, jeudi 19, vendredi 20 *et* samedi 21 janvier 2018. Et ça se passera en Alsace, à Itterswiller, à l'[Hôtel Arnold](https://www.hotel-arnold.com/).
+Comme l'année dernière, **Agile Open France Hiver 2018** aura lieu sur soixante-douze heures, les mercredi 24, jeudi 25, vendredi 26 *et* samedi 27 janvier 2018. Et ça se passera en Alsace, à Itterswiller, à l'[Hôtel Arnold](https://www.hotel-arnold.com/).
 
 **Agile Open France Eté 2018** se déroulera début juillet, à la [Ferme des Cevennes](http://www.lafermedescevennes.com/).
 Le format sera sensiblement le même que pour la saison Eté. Le lieu sera différent, nous pouvons donc nous préparer à avoir des surprises.
