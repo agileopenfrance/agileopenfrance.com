@@ -20,7 +20,7 @@ Comme l'année dernière, Agile Open France Hiver 2018 aura lieu sur soixante-do
 Agile Open France Eté 2018 se déroulera début juillet, à la [Ferme des Cevennes](http://www.lafermedescevennes.com/).
 Le format sera sensiblement le même que pour la saison Eté. Le lieu sera différent, nous pouvons donc nous préparer à avoir des surprises.
 
-_Notez que serez hébergé dans des chambres collectives._
+_Notez que vous serez hébergés en chambres collectives._
 
 ![Ferme des Cevennes](img/cevennes.jpg)
 
