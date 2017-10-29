@@ -4,6 +4,7 @@ languageCode    = "fr"
 title           = "Agile Open France 2018"
 disqusShortname = ""
 paginate        = 5
+publishDir      = "docs"
 
 [params]
   title       = "Agile Open France"
