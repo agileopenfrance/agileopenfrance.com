@@ -3,11 +3,11 @@
 Amie supportrice des zones conférencières autonomes temporaires,
 Ami digito-philolo-choucrouto-phile,
 
-Pour la 11ème année d'affilée: Emmanuel Gaillot, Raphaël Pierquin et Bernard Notarianni ont le plaisir d'organiser la conférence Agile Open France. 
+Pour la 11ème année d'affilée: Emmanuel Gaillot, Raphaël Pierquin et Bernard Notarianni ont le plaisir d'organiser la conférence Agile Open France.
 
-Vous aurez l’opportunité de participer cette année à deux événements: Agile Open Hiver et Agile Open Eté.
+En 2018, Agile Open France se décline en deux saisons : Hiver et Agile Open Eté.
 
-Vous pourrez très prochainement vous inscrire pour la saison de votre choix, et pourquoi pas, pour les deux saisons :-)
+Vous pourrez très prochainement vous inscrire à l'intégralité d'Agile Open France 2018, ou à une des deux saisons seulement.
 
 # Hiver 2018 - Itterswiller
 
