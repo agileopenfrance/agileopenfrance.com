@@ -24,4 +24,4 @@ Editer les fichiers disponibles dans [agileopen/content/onepage](agileopen/conte
 Permet de constuire le site statique dans le répertoire docs à la racine du repo
 
     $ cd <racine_du_repo>
-    $ hugo
+    $ hugo --cleanDestinationDir
