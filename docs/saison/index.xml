@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Saisons on Agile Open France</title>
+    <link>http://agileopenfrance.com/saison/</link>
+    <description>Recent content in Saisons on Agile Open France</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Wed, 24 Jan 2018 14:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="http://agileopenfrance.com/saison/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hiver 2018 en Alsace</title>
+      <link>http://agileopenfrance.com/saison/hiver2018/</link>
+      <pubDate>Wed, 24 Jan 2018 14:00:00 +0100</pubDate>
+      
+      <guid>http://agileopenfrance.com/saison/hiver2018/</guid>
+      <description>&lt;p&gt;Comme l&amp;rsquo;année dernière, Agile Open France Hiver 2018 aura lieu sur soixante-douze heures,
+les mercredi 24, jeudi 25, vendredi 26 &lt;em&gt;et&lt;/em&gt; samedi 27 janvier 2018.
+Et ça se passera en Alsace, à Itterswiller.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Été 2018 dans les Cévennes</title>
+      <link>http://agileopenfrance.com/saison/ete2018/</link>
+      <pubDate>Tue, 03 Jul 2018 18:00:00 +0100</pubDate>
+      
+      <guid>http://agileopenfrance.com/saison/ete2018/</guid>
+      <description>&lt;p&gt;C&amp;rsquo;est nouveau cette année : Agile Open France Eté 2018 se déroulera du mardi 3 au au 7 juillet, dans les Cévennes.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

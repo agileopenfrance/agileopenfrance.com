@@ -3,26 +3,54 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://agileopenfrance.com/onepage/</loc>
+    <loc>http://agileopenfrance.com/saison/hiver2018/</loc>
+    <lastmod>2018-01-24T14:00:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://agileopenfrance.com/saison/ete2018/</loc>
+    <lastmod>2018-07-03T18:00:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://agileopenfrance.com/</loc>
-    <priority>0</priority>
+    <lastmod>2018-01-24T14:00:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://agileopenfrance.com/categories/</loc>
+    <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://agileopenfrance.com/onepage/</loc>
+    <loc>http://agileopenfrance.com/inscription/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://agileopenfrance.com/esprit/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://agileopenfrance.com/saison/</loc>
+    <lastmod>2018-01-24T14:00:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://agileopenfrance.com/tags/</loc>
+    <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
