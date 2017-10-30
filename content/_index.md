@@ -1,7 +1,7 @@
 ---
 title: "Agile Open France 2018"
 featured_image: "/img/rendez_vous.jpg"
-description: "Deux saisons"
+description: "Suivre ses pieds, été comme hiver."
 ---
 
 En 2018, Agile Open France se décline en deux saisons : Hiver et Été.
