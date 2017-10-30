@@ -6,6 +6,7 @@ paginate        = 4
 publishDir      = "docs"
 disqusShortname = ""
 enableRobotsTXT = true
+buildFuture     = true
 
 [sitemap]
   changefreq = "monthly"
