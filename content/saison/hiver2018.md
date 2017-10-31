@@ -33,7 +33,7 @@ Les participant/e/s préférant retourner sur Paris pourront réserver une place
 Les frais d'inscription couvrent :
 
 - tous les repas pendant la conférence,
-- une chambre d'hôtel pour les trois nuits du 24 au 26 janvier 2017,
+- une chambre d'hôtel pour les trois nuits du 24 au 26 janvier 2018,
 - la participation à tous les ateliers de la conférence.
 
 Ces frais ne couvrent ni les transports, ni le déjeuner du 24 janvier.
