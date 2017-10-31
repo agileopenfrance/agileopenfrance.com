@@ -21,7 +21,7 @@ jours reste onéreux pour certain-e-s d'entre nous.
 Aussi, si pour ceux qui souhaitent aider des personnes moins aisées à venir participer, 
 vous pouvez faire une contribution solidaire.
 
-#### Bénéficier d'une contribution solidare
+#### Bénéficier d'une contribution solidaire
 
 Vous pouvez postuler pour une contribution solidaire en indiquant cette option
 lors de votre prise de billet.
