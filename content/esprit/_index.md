@@ -43,16 +43,15 @@ nous pouvons raconter ce qu'on a vu s'y passer auparavant.
 - Parfois au ras du clavier.
 - Parfois haut dans les nuages.
 
-Certain-e-s ont profité de leur très confortable chambre pour se reposer.
+Certain-e-s ont profité de leur chambre pour se reposer.
 D'autres ont profité de la nuit pour prolonger la journée.
 
 - Hack, pédagogie, et politique.
 - Programmation, conception émergente et contraception.
-- Vin d'Alsace, tests automatiques, et parentalité.
+- Tests automatiques et parentalité.
 - Crossfit, balades et méditation.
 - Open source, psychologie sociale et fers à souder.
 
-- Poire, Framboise, Baeckeoffe.
 
 Nous n'allons pas promettre que ce qui va se passer cette année sera
 semblable à ce qui s'est passé les années précédentes... mais nous
