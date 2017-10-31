@@ -35,7 +35,7 @@ mais nous pouvons raconter ce qu'on a vu s'y passer auparavant.
 - Du logiciel et de la poésie.
 - Des rendez-vous dans les caves.
 - Des chants et des contes.
-- Des spécialités alsaciennes.
+- Des spécialités locales.
 - De la philo à très grande vitesse.
 - Du code projeté en grand sur les murs.
 - Des jeux vidéo et des films aussi.
@@ -57,7 +57,7 @@ D'autres ont profité de la nuit pour prolonger la journée.
 
 - Hack, pédagogie, et futurologie politique.
 - Programmation, conception émergente et contraception.
-- Tests automatiques et parentalité.
+- Tests automatiques, data science et parentalité.
 - Crossfit, balades et méditation.
 - Permaculture, cuisine collaborative et connexion internet quantique.
 - Open source, psychologie sociale et fers à souder.
