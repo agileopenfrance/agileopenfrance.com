@@ -4,21 +4,30 @@ featured_image: "/img/surpris.jpg"
 menu: "main"
 ---
 
-Agile Open France est un Forum Ouvert, sur le thème des méthodes agiles
-de développement logiciel, et du développement au sens large : de
-logiciels, de personnes, de photos, d'expressions algébriques. Sans
-oublier les développements durables et les développements limités. Et
-à chaque instant, les participant·e·s seront encouragé·e·s à
-ne se consacrer qu'à une seule et unique tâche : faire ce qui les passionne.
+Agile Open France est un Forum Ouvert, il a lieu tous les ans, depuis 2008.
 
-Nous ne savons pas encore dire ce qui nous passionnera cette année, mais
-nous pouvons raconter ce qu'on a vu s'y passer auparavant.
+À l'origine, le thème central qui a réuni les participants était le développement logiciel agile.
+Et encore aujourd'hui, le développement logiciel agile reste une culture commune 
+à la communauté constituée par celles et ceux qui viennent et reviennent à l'Agile Open. 
+
+Mais au fil des ans, les thèmes abordés se sont élargis. 
+Et cela n'a rien d'étonnant : chaque année, et à chaque instant pendant l'événement, 
+les participant·e·s sont encouragé·e·s à ne se consacrer qu'à une seule et unique tâche : 
+faire ce qui les passionne.
+
+Alors on vient pour partager ce qui nous passionne, et s'inspirer auprès de celles
+et ceux qui font de même. Les habitué·e·s (il y en a) reviennent pour montrer leur
+découverte de l'année. Et chaque année de nouvelles personnes viennent enrichir 
+de leurs passions cette belle communauté d'intérêt.
+
+Une fois de plus, nous ne savons pas encore dire ce qui nous passionnera cette année,
+mais nous pouvons raconter ce qu'on a vu s'y passer auparavant.
 
 - Des personnes sont venues de partout en France, et parfois de plus loin encore.
 - Celles et ceux qui sont venus l'ont fait dans un esprit bienveillant et curieux.
 - Chacun/e a choisi ce qui lui convenait le mieux.
 - Des discussions passionnées.
-- Des promenades digestives.
+- Des marches forcenées et des promenades digestives.
 - Des débats gesticulés.
 - Des siestes multi-tâches.
 - Des cascades en mono-roue.
@@ -43,18 +52,18 @@ nous pouvons raconter ce qu'on a vu s'y passer auparavant.
 - Parfois au ras du clavier.
 - Parfois haut dans les nuages.
 
-Certain-e-s ont profité de leur chambre pour se reposer.
+Certain·e·s ont profité de leur chambre pour se reposer.
 D'autres ont profité de la nuit pour prolonger la journée.
 
-- Hack, pédagogie, et politique.
+- Hack, pédagogie, et futurologie politique.
 - Programmation, conception émergente et contraception.
 - Tests automatiques et parentalité.
 - Crossfit, balades et méditation.
+- Permaculture, cuisine collaborative et connexion internet quantique.
 - Open source, psychologie sociale et fers à souder.
 
-
 Nous n'allons pas promettre que ce qui va se passer cette année sera
-semblable à ce qui s'est passé les années précédentes... mais nous
+semblable à ce qui s'est passé les années précédentes ... mais nous
 savons avec certitude que cette édition encore sera inédite et qu'elle
 vaudra la peine d'être vécue.
 
