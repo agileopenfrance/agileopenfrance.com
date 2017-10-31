@@ -39,3 +39,5 @@ Les frais d'inscription couvrent :
 Ces frais ne couvrent ni les transports, ni le déjeuner du 24 janvier.
 
 Condition de remboursement : Si désistement avant le 4 décembre, remboursement à 50%.
+
+[Inscrivez-vous !](/inscription)
