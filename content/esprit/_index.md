@@ -4,7 +4,8 @@ featured_image: "/img/surpris.jpg"
 menu: "main"
 ---
 
-Agile Open France est un Forum Ouvert, il a lieu tous les ans, depuis 2008.
+Agile Open France est un [Forum Ouvert](http://www.openspaceworld.com/users_guide.htm),
+il a lieu tous les ans, depuis 2008.
 
 À l'origine, le thème central qui a réuni les participant·e·s était le
 développement agile de logiciels. Aujourd'hui encore, cela reste une culture

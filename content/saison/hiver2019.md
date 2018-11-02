@@ -1,13 +1,13 @@
 ---
-title: "Hiver 2018 en Alsace"
+title: "Hiver 2019 en Alsace"
 featured_image: "/img/arnold.jpg"
-date: 2018-01-24T14:00:00+01:00
+date: 2018-11-01:00:00+01:00
 Weight: 10
 menu: "main"
 ---
 
-Agile Open France Hiver 2018 aura lieu sur soixante-douze heures,
-les mercredi 24, jeudi 25, vendredi 26 *et* samedi 27 janvier 2018.
+Agile Open France Hiver 2019 aura lieu sur quatre-vingt-seize heures,
+les *mardi 22*, mercredi 23, jeudi 24, vendredi 25 *et* samedi 26 janvier 2019.
 Et ça se passera en Alsace, à Itterswiller.
 
 <!--more-->
@@ -20,18 +20,18 @@ Arnold***](https://www.hotel-arnold.com/).
 Une navette Agile Open assurera un voyage entre la Gare de Strasbourg et le
 lieu de la conférence (sans frais supplémentaire pour les participant/e/s).
 
-**Aller (mercredi 24 janvier)** : Prise en charge des participant/e/s jusqu'à
+**Aller (mardi 22 janvier)** : Prise en charge des participant/e/s jusqu'à
 13h00 environ. La navette attendra les voyageuses et voyageurs arrivant de
 Paris par le ICE 9573, même s'il a du retard.
 
 La navette sera stationnée en face du Crédit Agricole, boulevard de Metz :
 http://g.co/maps/a6rfn
 
-**Retour (samedi 27 janvier)** : prise en charge des participant/e/s à l'Hôtel
+**Retour (samedi 26 janvier)** : prise en charge des participant/e/s à l'Hôtel
 Arnold.
 
 L'heure de départ sera calculée de façon à arriver à la gare SNCF de Strasbourg
-avant 16h20, ce qui permettra pour celles et ceux qui le souhaitent de prendre
+avant 15h15, ce qui permettra pour celles et ceux qui le souhaitent de prendre
 le TGV 5454 en direction de Bordeaux (départ de Strasbourg à 16h31, arrivée à
 Bordeaux à 21h52).
 
@@ -45,10 +45,10 @@ Les frais d'inscription couvrent :
 
 - une place dans la navette Strasbourg-Itterswiller aller et retour,
 - tous les repas pendant la conférence,
-- une chambre d'hôtel pour les trois nuits du 24 au 27 janvier 2018,
+- une chambre d'hôtel pour les quatre nuits du 22 au 26 janvier 2019,
 - la participation à tous les ateliers de la conférence.
 
-Ces frais ne couvrent ni les transports, ni le déjeuner du 24 janvier.
+Ces frais ne couvrent ni les transports, ni le déjeuner du 22 janvier.
 
 Condition de remboursement : Si désistement avant le 4 décembre, remboursement à 50%.
 

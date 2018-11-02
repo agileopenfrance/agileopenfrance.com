@@ -5,7 +5,7 @@ menu: "main"
 ---
 
 
-Vous pouvez vous inscrire à l'Agile Open France 2018.
+Vous pouvez vous inscrire à l'Agile Open France 2019.
 Quelques explications supplémentaire figurent en bas de page.
 
 {{% yuticket %}}
