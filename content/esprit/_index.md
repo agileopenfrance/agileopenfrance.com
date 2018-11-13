@@ -74,4 +74,4 @@ semblable à ce qui s'est passé les années précédentes… mais nous
 savons avec certitude que cette édition encore sera inédite et qu'elle
 vaudra la peine d'être vécue.
 
-À vous de jouer : [inscrivez-vous !](../inscription)
+À vous de jouer : [inscrivez-vous dès le 3 décembre 2018 !](../inscription)

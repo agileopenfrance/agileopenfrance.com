@@ -20,15 +20,15 @@ Arnold***](https://www.hotel-arnold.com/).
 Une navette Agile Open assurera un voyage entre la Gare de Strasbourg et le
 lieu de la conférence (sans frais supplémentaire pour les participant/e/s).
 
-**Aller (mardi 22 janvier)** : Prise en charge des participant/e/s jusqu'à
+**Aller (mardi 22 janvier 2019)** : Prise en charge des participant/e/s jusqu'à
 13h00 environ. La navette attendra les voyageuses et voyageurs arrivant de
 Paris par le ICE 9573, même s'il a du retard.
 
 La navette sera stationnée en face du Crédit Agricole, boulevard de Metz :
 http://g.co/maps/a6rfn
 
-**Retour (samedi 26 janvier)** : prise en charge des participant/e/s à l'Hôtel
-Arnold.
+**Retour (samedi 26 janvier 2019)** : prise en charge des participant/e/s à
+l'Hôtel Arnold.
 
 L'heure de départ sera calculée de façon à arriver à la gare SNCF de Strasbourg
 avant 15h15, ce qui permettra pour celles et ceux qui le souhaitent de prendre
@@ -50,6 +50,6 @@ Les frais d'inscription couvrent :
 
 Ces frais ne couvrent ni les transports, ni le déjeuner du 22 janvier.
 
-Condition de remboursement : Si désistement avant le 4 décembre, remboursement à 50%.
+Il n'y aura pas de remboursement en cas de désistement.
 
-[Inscrivez-vous !](/inscription)
+[Inscrivez-vous dès le 3 décembre 2018 !](/inscription)

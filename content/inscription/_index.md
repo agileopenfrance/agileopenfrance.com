@@ -5,7 +5,8 @@ menu: "main"
 ---
 
 
-Vous pouvez vous inscrire à l'Agile Open France 2019.
+**Les inscriptions pour Agile Open France 2019 ouvriront le lundi 3 décembre 2018 à 11h00 (du matin).**
+
 Quelques explications supplémentaire figurent en bas de page.
 
 {{% yuticket %}}
@@ -22,18 +23,8 @@ L'Agile Open France est organisé à coût réel mais malgré tous nos efforts d
 baisser les prix au maximum, l'hébergement sur plusieurs jours reste onéreux
 pour certain·e·s d'entre nous. Aussi, celles et ceux qui souhaitent aider des
 personnes moins aisées à venir participer, vous pouvez faire une contribution
-solidaire. Chaque contribution permet de payer le quart d'un billet de la
-saison été et le quart d'un billet de la saison hiver.
-
-#### Bénéficier d'une contribution solidaire
-
-Vous pouvez postuler pour une contribution solidaire en indiquant cette option
-lors de votre prise de billet.
-
-*Nous ne vous offrons aucune garantie que votre demande sera acceptée. Vous
-serez mis sur une liste d'attente et nous vous indiquerons dans des délais
-raisonnables si votre participation peut être financée par les contributions
-solidaires.*
+solidaire. Chaque contribution permet de financer une place à demi-tarif, en
+été et en hiver.
 
 #### Tarif conjoint·e
 
@@ -45,14 +36,15 @@ billets* :
 - un billet « hiver » (ou un billet « hiver et été ») *et*
 - un billet « hiver (tarif conjoint·e) »
 
-(Note : pour la saison été, l'hébergement se fait dans des chambres de groupe,
-et nous ne sommes pas en mesure de vous proposer le même plan.)
+(Note : pour la saison été, nous ne sommes pas en mesure de vous proposer le
+même plan, mais nous serons ravis si vous souhaitez venir avec votre conjoint·e
+malgré tout.)
 
 #### Cumul été / hiver
 
 Nous souhaitons encourager la participation aux forums ouverts, partout, tout
 le temps. Ainsi, si vous souhaitez participer aux deux rencontres programmées
-en 2018, nous vous offrons une réduction sur l'achat de vos billets. Dans ce
+en 2019, nous vous offrons une réduction sur l'achat de vos billets. Dans ce
 cas, réservez un billet « hiver et été ».
 
 #### D'autres questions ?
