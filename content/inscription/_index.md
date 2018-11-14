@@ -5,11 +5,26 @@ menu: "main"
 ---
 
 
-**Les inscriptions pour Agile Open France 2019 ouvriront le lundi 3 décembre 2018 à 11h00 (du matin).**
+**Les inscriptions pour Agile Open France 2019 ouvriront le lundi 3 décembre
+2018 à 11h00 (du matin).**
 
 Quelques explications supplémentaire figurent en bas de page.
 
 {{% yuticket %}}
+
+NB: L'option "Billet mobile" ne sert a rien. Cliquez sur "non"
+
+#### Tarifs
+
+| Nom du billet                                         |  Prix (TTC)        |
+|-------------------------------------------------------|--------------------|
+| Billet combo (hiver et été)                           |     900€           |
+| Billet hiver                                          |     600€           |
+| Billet hiver conjoint·e                               |     500€           |
+| Billet hiver demi tarif                               |     300€           |
+| Billet été                                            |     450€           |
+| Billet été demi tarif                                 |     225€           |
+| Contribution solidaire                                |     300€           |
 
 Les billets comprennent les repas en pension complète, l'hébergement et le
 transport en navette depuis la gare SNCF la plus proche jusqu'au lieu de la
@@ -25,6 +40,14 @@ pour certain·e·s d'entre nous. Aussi, celles et ceux qui souhaitent aider des
 personnes moins aisées à venir participer, vous pouvez faire une contribution
 solidaire. Chaque contribution permet de financer une place à demi-tarif, en
 été et en hiver.
+
+#### Demi tarif
+
+Afin de permettre à chacun·e de participer, et avec l'aide de généreux·ses
+contributeurs·trices, nous proposons des places à demi tarif.
+Si vous avez un doute quant à votre légitimité à bénéficier d'un demi-tarif,
+vous pouvez nous contacter à l'adresse **staff-at-agileopenfrance-point-com**.
+
 
 #### Tarif conjoint·e
 
