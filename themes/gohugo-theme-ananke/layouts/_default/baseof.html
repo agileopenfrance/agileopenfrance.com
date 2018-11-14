@@ -18,6 +18,7 @@
     {{ end }}
 
     <link href='{{ "dist/main.css" | relURL }}' rel='stylesheet' type="text/css" />
+    <link href='{{ "css/custom.css" | relURL }}' rel='stylesheet' type="text/css" />
     {{ block "favicon" . }}
       {{ partial "site-favicon.html" . }}
     {{ end }}
