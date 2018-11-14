@@ -6,33 +6,35 @@
     <description>Recent content in Saisons on Agile Open France</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Wed, 24 Jan 2018 14:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 03 Jul 2018 18:00:00 +0100</lastBuildDate>
     
 	<atom:link href="http://agileopenfrance.com/saison/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hiver 2018 en Alsace</title>
-      <link>http://agileopenfrance.com/saison/hiver2018/</link>
-      <pubDate>Wed, 24 Jan 2018 14:00:00 +0100</pubDate>
+      <title>Hiver 2019 en Alsace</title>
+      <link>http://agileopenfrance.com/saison/hiver2019/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://agileopenfrance.com/saison/hiver2018/</guid>
-      <description>&lt;p&gt;Agile Open France Hiver 2018 aura lieu sur soixante-douze heures,
-les mercredi 24, jeudi 25, vendredi 26 &lt;em&gt;et&lt;/em&gt; samedi 27 janvier 2018.
-Et ça se passera en Alsace, à Itterswiller.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <guid>http://agileopenfrance.com/saison/hiver2019/</guid>
+      <description>&lt;p&gt;Agile Open France Hiver 2019 aura lieu sur quatre-vingt-seize heures,
+les &lt;em&gt;mardi 22&lt;/em&gt;, mercredi 23, jeudi 24, vendredi 25 &lt;em&gt;et&lt;/em&gt; samedi 26 janvier 2019.
+Et ça se passera en Alsace, à Itterswiller.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Été 2018 dans les Cévennes</title>
-      <link>http://agileopenfrance.com/saison/ete2018/</link>
+      <title>Été 2019 : surprise</title>
+      <link>http://agileopenfrance.com/saison/ete2019/</link>
       <pubDate>Tue, 03 Jul 2018 18:00:00 +0100</pubDate>
       
-      <guid>http://agileopenfrance.com/saison/ete2018/</guid>
-      <description>&lt;p&gt;C&amp;rsquo;est nouveau cette année : Agile Open France Eté 2018 se déroulera du mardi 3 au samedi 7 juillet, dans les Cévennes.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <guid>http://agileopenfrance.com/saison/ete2019/</guid>
+      <description>&lt;p&gt;En 2019 encore, Agile Open France aura lieu aussi pendant l&amp;rsquo;été, du mardi 9 au
+samedi 13 juillet… mais la destination reste encore une surprise !… Peut-être
+retournerons-nous dans les Cévennes (comme l&amp;rsquo;an dernier à la &lt;a href=&#34;http://www.lafermedescevennes.com/&#34;&gt;Ferme des
+Cévennes&lt;/a&gt;), peut-être nous
+retrouverons-nous ailleurs.
+En été, ce n&amp;rsquo;est jamais pareil qu&amp;rsquo;en hiver… mais
+&lt;a href=&#34;http://agileopenfrance.com/esprit&#34;&gt;l&amp;rsquo;esprit&lt;/a&gt; Agile Open France reste le même.&lt;/p&gt;</description>
     </item>
     
   </channel>
