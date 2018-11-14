@@ -31,7 +31,7 @@ http://g.co/maps/a6rfn
 l'Hôtel Arnold.
 
 L'heure de départ sera calculée de façon à arriver à la gare SNCF de Strasbourg
-avant 15h15, ce qui permettra pour celles et ceux qui le souhaitent de prendre
+avant 16h00, ce qui permettra pour celles et ceux qui le souhaitent de prendre
 le TGV 5454 en direction de Bordeaux (départ de Strasbourg à 16h31, arrivée à
 Bordeaux à 21h52).
 
