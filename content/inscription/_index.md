@@ -5,7 +5,7 @@ menu: "main"
 ---
 
 
-**Les inscriptions pour Agile Open France 2019 ouvriront le lundi 3 décembre
+**Les inscriptions pour Agile Open France 2019 ouvriront le lundi 26 novembre
 2018 à 11h00 (du matin).**
 
 Quelques explications supplémentaire figurent en bas de page.
