@@ -8,5 +8,5 @@ En 2019, Agile Open France se décline en deux saisons : Hiver et Été.
 
 [Que va-t-il s'y passer ?](esprit) Cela dépend de vous !
 
-Vous pourrez [vous inscrire](inscription) **à partir du 3 décembre 2018**.
+Vous pourrez [vous inscrire](inscription) **à partir du 26 novembre 2018 à 11h00**.
 

@@ -52,4 +52,4 @@ Ces frais ne couvrent ni les transports, ni le déjeuner du 22 janvier.
 
 Il n'y aura pas de remboursement en cas de désistement.
 
-[Inscrivez-vous dès le 3 décembre 2018 !](/inscription)
+[Inscrivez-vous dès le 26 novembre 2018 à 11h00 !](/inscription)
