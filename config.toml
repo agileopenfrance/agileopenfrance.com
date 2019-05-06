@@ -1,4 +1,4 @@
-baseurl         = "http://agileopenfrance.com/"
+baseurl         = "https://agileopenfrance.com/"
 theme           = "gohugo-theme-ananke"
 languageCode    = "fr"
 title           = "Agile Open France"

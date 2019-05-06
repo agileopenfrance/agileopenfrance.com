@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Que va-t-il se passer ? on Agile Open France</title>
-    <link>http://agileopenfrance.com/esprit/</link>
+    <link>https://agileopenfrance.com/esprit/</link>
     <description>Recent content in Que va-t-il se passer ? on Agile Open France</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     
-	<atom:link href="http://agileopenfrance.com/esprit/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://agileopenfrance.com/esprit/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
