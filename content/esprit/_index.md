@@ -62,7 +62,7 @@ D'autres ont profité de la nuit pour prolonger la journée.
 
 Hack, pédagogie, et futurologie politique.  
 Programmation, conception émergente et contraception.  
-Tests automatiques, data science et parentalité.  
+Tests automatiques, culottes de règle et parentalité.  
 Crossfit, balades et méditation.  
 Permaculture, cuisine collaborative et connexion internet quantique.  
 Open source, psychologie sociale et fers à souder.  
