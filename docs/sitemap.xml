@@ -3,19 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://agileopenfrance.com/saison/hiver2019/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://agileopenfrance.com/saison/ete2019/</loc>
-    <lastmod>2018-07-03T18:00:00+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://agileopenfrance.com/souvenirs/</loc>
     <lastmod>2019-05-03T18:00:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -24,14 +11,6 @@
   
   <url>
     <loc>https://agileopenfrance.com/</loc>
-    <lastmod>2018-07-03T18:00:00+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://agileopenfrance.com/saison/</loc>
-    <lastmod>2018-07-03T18:00:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

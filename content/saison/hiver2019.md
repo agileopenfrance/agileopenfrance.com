@@ -4,6 +4,7 @@ featured_image: "/img/arnold.jpg"
 date: 2018-11-01:00:00+01:00
 Weight: 10
 menu: "main"
+expirydate: 2019-08-30
 ---
 
 Agile Open France Hiver 2019 aura lieu sur quatre-vingt-seize heures,
