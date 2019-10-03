@@ -2,13 +2,17 @@ Ce site est construit avec https://gohugo.io/
 
 Le répertoire [agileopen](agileopen) contient les sources du site Hugo.
 
-# Install
+# Installation
 
 Installer hugo en récupérant l'executable correspondant à votre OS, en version 0.58.3
 
 https://gohugo.io/getting-started/installing
 
 La commande `hugo` doit etre disponible dans votre path.
+
+Vérifier la version de hugo avec :
+
+    $ hugo version
 
 # Mettre à jour le contenu
 
