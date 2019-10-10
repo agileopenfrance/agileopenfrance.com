@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Agile Open France</title>
-    <link>https://agileopenfrance.com/</link>
-    <description>Recent content on Agile Open France</description>
+    <title>Saisons on Agile Open France</title>
+    <link>https://agileopenfrance.com/saison/</link>
+    <description>Recent content in Saisons on Agile Open France</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <lastBuildDate>Sat, 10 Oct 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://agileopenfrance.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://agileopenfrance.com/saison/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
