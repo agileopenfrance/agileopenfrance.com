@@ -29,7 +29,7 @@ ont du retard.
 La navette sera stationnée en face du Crédit Agricole, boulevard de Metz :
 http://g.co/maps/a6rfn
 
-**Retour (samedi 26 janvier 2020)** : prise en charge des participant/e/s à
+**Retour (samedi 25 janvier 2020)** : prise en charge des participant/e/s à
 l'Hôtel Arnold.
 
 L'heure de départ sera calculée de façon à arriver à la gare SNCF de Strasbourg
