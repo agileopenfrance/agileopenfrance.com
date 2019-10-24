@@ -10,6 +10,19 @@
   </url>
   
   <url>
+    <loc>https://agileopenfrance.com/saison/ete2020/</loc>
+    <lastmod>2019-10-24T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://agileopenfrance.com/tarifs/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://agileopenfrance.com/</loc>
     <lastmod>2020-10-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>

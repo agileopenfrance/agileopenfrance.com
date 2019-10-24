@@ -1,8 +1,8 @@
 ---
-title: "Hiver 2020 en Alsace"
+title: "Hiver 2020"
 featured_image: "/img/arnold.jpg"
 date: 2020-10-10
-Weight: 10
+weight: 1
 menu: "main"
 expirydate: 2020-08-30
 ---
@@ -15,8 +15,7 @@ Et ça se passera en Alsace, à Itterswiller.
 
 ----
 
-Comme chaque hiver, cela se passe à l'[***Hôtel
-Arnold***](https://www.hotel-arnold.com/).
+Comme chaque hiver, cela se passe à l'**[Hôtel Arnold](https://www.hotel-arnold.com/)**.
 
 Une navette Agile Open assurera un voyage entre la Gare de Strasbourg et le
 lieu de la conférence (sans frais supplémentaire pour les participant/e/s).
@@ -49,3 +48,5 @@ Ces frais ne couvrent ni les transports, ni le déjeuner du 21 janvier.
 
 Il n'y aura pas de remboursement en cas de désistement, sauf pour les
 cas de force majeur et les billets conjoint/es.
+
+[Inscrivez-vous dès maintenant !](/inscription)

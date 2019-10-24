@@ -58,8 +58,20 @@
         <ul class="pl0 mr3">
           
           <li class="list f5 f4-ns fw4 dib pr3">
-            <a class="hover-white no-underline white-90" href="/saison/hiver2020/" title="Hiver 2020 en Alsace page">
-              Hiver 2020 en Alsace
+            <a class="hover-white no-underline white-90" href="/saison/hiver2020/" title="Hiver 2020 page">
+              Hiver 2020
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/saison/ete2020/" title="Été 2020 page">
+              Été 2020
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/tarifs/" title="Tarifs page">
+              Tarifs
             </a>
           </li>
           
@@ -112,88 +124,64 @@
     <div class="measure-wide-l center f4 lh-copy nested-copy-line-height nested-links nested-img mid-gray">                
       
 
-<p><strong>Cette année, les inscriptions pour Agile Open France 2020 feront
-l&rsquo;objet d&rsquo;un tirage au sort. Des précisions arrivent bientôt sur cette page.</strong></p>
+<p><strong>tl;dr <a href="https://framaforms.org/participer-au-tirage-au-sort-aof-2020-hiver-1571860404">Inscrivez-vous dès maintenant au tirage au
+sort</a>,
+si votre nom est tiré, vous aurez deux jours pour acheter votre billet.</strong></p>
 
-<p>Plus de détails sur les tarifs figurent en bas de page.</p>
+<h2 id="tirage-au-sort">Tirage au sort ???</h2>
 
-<p><script type="text/javascript" src="https://www.yuticket.com/media/js/iframe.js"></script>
-<iframe id="e7d85354-3488-4192-9212-c03baaf6feb0" src="https://www.yuticket.com/iframe/ticketing/e7d85354-3488-4192-9212-c03baaf6feb0" allowTransparency="true" frameBorder="0" style="border: 0" width="600" height="400">Votre navigateur ne peut pas afficher ce contenu. La billetterie est aussi disponible sur <a href="https://www.yuticket.com/association-agile-france/e7d85354-3488-4192-9212-c03baaf6feb0-agile-open-france-2019.html">Yuticket.com</a>.</iframe></p>
+<p>Cette année encore, on essaie d&rsquo;expérimenter quelque chose de nouveau dans le
+processus d&rsquo;inscription pour qu&rsquo;il soit plus simple à vivre pour tout le monde.
+Les places de la majorité des participant·es seront tirées au sort. Une
+minorité sera invitée directement par les organisateurs (Bernard Notarianni,
+Raphaël Pierquin et Emmanuel Gaillot).</p>
 
-<p>NB: L&rsquo;option &ldquo;Billet mobile&rdquo; ne sert a rien. Cliquez sur &ldquo;non&rdquo;.</p>
+<p>Les inscriptions pour participer (gratuitement) au tirage au sort sont ouvertes
+dès maintenant. Le processus de tirage au sort commencera le 4 novembre 2019.</p>
 
-<h4 id="tarifs">Tarifs</h4>
+<p>Vous pouvez dès maintenant faire <a href="/billetterie">une contribution solidaire</a>,
+qui nous permettra de financer des places à demi-tarif pour des personnes moins
+aisées.</p>
 
-<table>
-<thead>
-<tr>
-<th>Nom du billet</th>
-<th>Prix (TTC)</th>
-</tr>
-</thead>
+<h2 id="description-détaillée">Description détaillée</h2>
 
-<tbody>
-<tr>
-<td>Billet hiver</td>
-<td>640€</td>
-</tr>
+<p>En français dans le texte, ça donne ceci :</p>
 
-<tr>
-<td>Billet hiver conjoint·e</td>
-<td>500€</td>
-</tr>
+<ul>
+<li>Inscrivez votre nom dès maintenant dans <a href="https://framaforms.org/participer-au-tirage-au-sort-aof-2020-hiver-1571860404">ce
+formulaire</a></li>
+<li>Si vous êtes chanceux·se vous serez tiré·e au sort, entre le 4 novembre
+et (probablement) la mi-décembre. Nous vous contacterons alors pour que
+vous puissiez confirmer votre participation en achetant votre billet.</li>
+<li>Vous aurez 48 heures pour acheter votre billet sur Yuticket, à l&rsquo;aide
+d&rsquo;un code personnel qui vous sera communiqué.</li>
+<li>Si vous n&rsquo;avez pas acheté votre billet dans les 48 heures, votre place
+sera remise en jeu. Nous tirerons au sort 5 places à la fois toutes les
+72 heures, jusqu&rsquo;à ce qu&rsquo;il n&rsquo;y ait plus de place disponible.</li>
+</ul>
 
-<tr>
-<td>Billet hiver demi tarif</td>
-<td>320€</td>
-</tr>
+<h2 id="en-pseudo-code">En pseudo-code</h2>
 
-<tr>
-<td>Contribution solidaire</td>
-<td>320€</td>
-</tr>
-</tbody>
-</table>
+<pre><code>personnes_inscrites = []
+personnes_inscrites += [:raphael, :bernard, :manu].flat_map {|organisateur| invitations_directes(organisateur, nombre_invitations_par_organisateur: 5) }
+personnes_inscrites += tirage_au_sort(20)
 
-<p>Tous les billets comprennent les repas en pension complète, l&rsquo;hébergement et le
-transport en navette depuis la gare SNCF la plus proche jusqu&rsquo;au lieu de la
-rencontre. Restent à votre charge les autres frais de transport.</p>
-
-<h4 id="faire-une-contribution-solidaire">Faire une contribution solidaire</h4>
-
-<p>L&rsquo;Agile Open France est organisé à coût réel mais malgré tous nos efforts de
-baisser les prix au maximum, l&rsquo;hébergement sur plusieurs jours reste onéreux
-pour certain·e·s d&rsquo;entre nous. Aussi, celles et ceux qui souhaitent aider des
-personnes moins aisées à venir participer, vous pouvez faire une contribution
-solidaire. Chaque contribution permet de financer une place à demi-tarif, pour
-l&rsquo;édition hiver, ou l&rsquo;édition été.</p>
-
-<h4 id="demi-tarif">Demi tarif</h4>
-
-<p>Afin de permettre à chacun·e de participer, et avec l&rsquo;aide de généreux·ses
-contributeurs·trices, nous proposons des places à demi tarif.
-Si vous avez un doute quant à votre légitimité à bénéficier d&rsquo;un demi-tarif,
-vous pouvez <a href="staff-at-agileopenfrance-point-com">nous contacter</a>.</p>
-
-<h4 id="tarif-conjoint-e">Tarif conjoint·e</h4>
-
-<p>Nous souhaitons encourager les personnes en couple qui le désirent à venir
-ensemble. Ainsi, nous pouvons vous proposer de partager
-une même chambre avec un grand lit avec votre conjoint·e, à un tarif réduit
-pour deux. Dans ce cas, vous devez lors de votre inscription réserver <em>deux
-billets</em> :
-- un billet « hiver » <em>et</em>
-- un billet « hiver (tarif conjoint·e) »</p>
-
-<p>NB : un billet « hiver (tarif conjoint·e) » n&rsquo;est valable qu&rsquo;en complément d&rsquo;un
-billet « hiver ».</p>
-
-<h4 id="cumul-été-hiver">Cumul été / hiver</h4>
-
-<p>Nous n&rsquo;en savons pas encore suffisamment sur ce qu&rsquo;il va se passer en été pour
-proposer un billet combo comme l&rsquo;année. Si vous souhaitez bénéficier d&rsquo;une
-rsitourne été après avoir pris billet hiver, <a href="staff-at-agileopenfrance-point-com">faites-le nous
-savoir</a>.</p>
+def tirage_au_sort(nombre_max_inscriptions_tirees_au_sort)
+    resultat = []
+    tous_les_trois_jours do |date_tirage_au_sort|
+        tirés_au_sort = liste_attente.tire_au_sort(personnes: 5)
+        tirés_au_sort.each do |personnes_chanceuses|
+        envoie_mail_notification_a(personnes_chanceuses.adresse_email)
+        if personnes_chanceuses.inscrit_avant(date_tirage_au_sort + 2.days)
+            resultat += personnes_chanceuses # youpi
+            envoie_mail_confirmation_a(chanceux.adresse_email)
+        else
+            liste_attente.remove(personnes_chanceuses) #dommage
+        end
+    end
+    resultat
+end
+</code></pre>
 
 <h4 id="d-autres-questions">D&rsquo;autres questions ?</h4>
 
