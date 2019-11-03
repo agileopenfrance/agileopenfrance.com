@@ -17,7 +17,7 @@ minorité sera invitée directement par les organisateurs (Bernard Notarianni,
 Raphaël Pierquin et Emmanuel Gaillot).
 
 Les inscriptions pour participer (gratuitement) au tirage au sort sont ouvertes
-dès maintenant. Le processus de tirage au sort commencera le 4 novembre 2019.
+dès maintenant. Le processus de tirage au sort commencera le 7 novembre 2019.
 
 Vous pouvez dès maintenant faire [une contribution solidaire](/billetterie),
 qui nous permettra de financer des places à demi-tarif pour des personnes moins
@@ -29,7 +29,7 @@ En français dans le texte, ça donne ceci :
 
 - Inscrivez votre nom dès maintenant dans [ce
   formulaire](https://framaforms.org/participer-au-tirage-au-sort-aof-2020-hiver-1571860404)
-- Si vous êtes chanceux·se vous serez tiré·e au sort, entre le 4 novembre
+- Si vous êtes chanceux·se vous serez tiré·e au sort, entre le 7 novembre
   et (probablement) la mi-décembre. Nous vous contacterons alors pour que
   vous puissiez confirmer votre participation en achetant votre billet.
 - Vous aurez 48 heures pour acheter votre billet sur Yuticket, à l'aide
