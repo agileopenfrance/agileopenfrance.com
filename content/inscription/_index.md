@@ -19,7 +19,7 @@ Raphaël Pierquin et Emmanuel Gaillot).
 Les inscriptions pour participer (gratuitement) au tirage au sort sont ouvertes
 dès maintenant. Le processus de tirage au sort commencera le 7 novembre 2019.
 
-Vous pouvez dès maintenant faire [une contribution solidaire](/billetterie),
+Vous pouvez dès maintenant faire [une contribution solidaire](/tarifs),
 qui nous permettra de financer des places à demi-tarif pour des personnes moins
 aisées.
 
