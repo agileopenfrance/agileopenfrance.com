@@ -1,70 +1,35 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://agileopenfrance.com/saison/hiver2020/</loc>
-    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://agileopenfrance.com/saison/ete2020/</loc>
-    <lastmod>2019-10-24T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
   <url>
     <loc>https://agileopenfrance.com/tarifs/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://agileopenfrance.com/</loc>
-    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-03T18:00:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://agileopenfrance.com/saison/</loc>
-    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://agileopenfrance.com/souvenirs/</loc>
     <lastmod>2019-05-03T18:00:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://agileopenfrance.com/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://agileopenfrance.com/inscription/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://agileopenfrance.com/esprit/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://agileopenfrance.com/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
-  
 </urlset>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Agile Open France</title>
@@ -6,33 +6,6 @@
     <description>Recent content on Agile Open France</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Sat, 10 Oct 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://agileopenfrance.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Hiver 2020</title>
-      <link>https://agileopenfrance.com/saison/hiver2020/</link>
-      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://agileopenfrance.com/saison/hiver2020/</guid>
-      <description>&lt;p&gt;Agile Open France Hiver 2020 aura lieu sur quatre-vingt-seize heures,
-les mardi 21, mercredi 22, jeudi 23, vendredi 24 &lt;em&gt;et&lt;/em&gt; samedi 25 janvier 2020.
-Et ça se passera en Alsace, à Itterswiller.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Été 2020</title>
-      <link>https://agileopenfrance.com/saison/ete2020/</link>
-      <pubDate>Thu, 24 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://agileopenfrance.com/saison/ete2020/</guid>
-      <description>L&amp;rsquo;Agile Open été 2020 aura lieu du 30 juin au 4 juillet.
-Mais où ? On ne sait pas encore, quelque-part en France, au vert.
-Si tu veux être informé·e, laisse-nous ton adresse
-En attendant, regarde les photos souvenir.</description>
-    </item>
-    
+    <lastBuildDate>Fri, 03 May 2019 18:00:00 +0100</lastBuildDate><atom:link href="https://agileopenfrance.com/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
