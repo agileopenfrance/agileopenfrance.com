@@ -10,7 +10,7 @@ pouvoir acheter vos billets.**
 
 Plus de détails sur les tarifs figurent en bas de page.
 
-{{% yuticket %}}
+{{% billetweb %}}
 
 NB: L'option "Billet mobile" ne sert a rien. Cliquez sur "non".
 
