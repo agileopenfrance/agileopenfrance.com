@@ -26,9 +26,11 @@ Cette année, pas de tirage au sort.
 
 Comme d'habitude, pour réserver sa place, il suffit d'acheter un billet.
 
-Mais pour que tout le monde ait une place, nous utliserons le plein potentiel
-de certaines chambres, qui comportent un lit double supplémentaire (souvent en
-mezzanine).
+Mais pour que tout le monde ait une place, nous utiliserons le plein potentiel
+de certaines chambres de l'hôtel, qui comportent un lit double supplémentaire.
+Pour nous y aider, penchez-vous sur le « billet Chambre partagée », ou
+portez-vous volontaire pour faire de la place si tout le monde n'en a pas (en
+cochant l'option correspondante lors de l'achat d'un « billet  simple »).
 
 Autre nouveauté : des places sont réservées aux nouvelles et aux nouveaux.
 
@@ -82,13 +84,13 @@ NB : un billet conjoint·e n’est valable qu’en complément d’un billet sim
 #### Billet chambre partagée
 
 En réservant un billet « chambre partagée », vous occuperez une grande chambre,
-comportant plusieurs grands lits, chacun dans un espace séparé, et une salle
-d'eau commune.
+comportant plusieurs grands lits, chacun dans un espace séparé (dans une pièce
+à part, ou en mezzanine), une salle d'eau et des toilettes communes.
 
 Vous partagerez cette chambre avec une autre participant·e… mais qui ? Si vous
 vous avez déjà convenu de partager votre chambre avec un·e autre inscrit·e,
-dites-le nous.  faîtes-le nous savoir. Sinon, nous nous engageons à respecter
-vos choix de mixité / non-mixité. 
+dites-le nous (pendant ou après l'inscription). Sinon, nous nous engageons à
+respecter vos demandes (non-mixité par exemple). 
 
 #### Faire une contribution solidaire
 

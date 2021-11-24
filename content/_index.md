@@ -8,5 +8,5 @@ En 2021, Agile Open France revient après une pause due à la situation sanitair
 
 [Que va-t-il s'y passer ?](esprit) Cela dépend de vous !
 
-Vous pourrez [vous inscrire](inscription) dès maintenant.
+Vous pourrez [vous inscrire bientôt](inscription).
 
