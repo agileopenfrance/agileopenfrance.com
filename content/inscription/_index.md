@@ -5,64 +5,122 @@ featured_image: "/img/inscription.jpg"
 menu: "main"
 ---
 
-**La billeterie sera prochainement ouverte et les tarifs publiés.**
-
 Plus de détails sur les tarifs figurent en bas de page.
 
 {{% billetweb %}}
 
-NB: L'option "Billet mobile" ne sert a rien. Cliquez sur "non".
+---
 
-#### Tarifs
+### Quand s'inscrire ?
 
-| Nom du billet                                         |  Prix (TTC)        |
-|-------------------------------------------------------|--------------------|
-| Billet hiver                                          |       |
-| Billet hiver conjoint·e                               |       |
-| Billet hiver demi tarif                               |       |
-| Contribution solidaire                                |       |
+Cette année, les billets vont être mis en vente en 3 vagues successives : 
+1. **le 1er décembre à 8h00**
+2. **le 3 décembre à midi**
+3. **le 5 décembre à 20h00**
 
-Tous les billets comprennent les repas en pension complète, l'hébergement et le
-transport en navette depuis la gare SNCF la plus proche jusqu'au lieu de la
+---
+
+### Comment s'incrire ?
+
+Cette année, pas de tirage au sort. 
+
+Comme d'habitude, pour réserver sa place, il suffit d'acheter un billet.
+
+Mais pour que tout le monde ait une place, nous utliserons le plein potentiel
+de certaines chambres, qui comportent un lit double supplémentaire (souvent en
+mezzanine).
+
+Autre nouveauté : des places sont réservées aux nouvelles et aux nouveaux.
+
+---
+
+### Les listes d'attentes
+
+Notre nouveau système de billetterie propose un système de liste d'attente.
+
+Attention :
+
+1. S'inscrire sur la liste d'attente permet d'être informé quand des places
+   sont disponibles à la vente, c'est tout : Votre place ne sera réservée que
+   quand vous l'aurez payée.
+2. On n'a encore jamais utilisé ce système. Il fonctionne peut-être.
+
+---
+
+### Les tarifs
+
+Tous les billets comprennent les repas en pension complète, l’hébergement et le
+transport en navette depuis la gare SNCF de Strasbourg jusqu’au lieu de la
 rencontre. Restent à votre charge les autres frais de transport.
+
+#### Billet simple
+
+C'est le choix par défaut. Mais quel choix !
+
+#### Billet première fois
+
+Les nouvelles et les nouveaux sont les bienvenues !
+
+Ce billet est identique au billet simple. Mais il est réservé aux personnes qui
+n'ont encore jamais participé à un Agile Open France Hiver.
+
+NB: Les personnes qui n'ont jamais participé peuvent choisir ce autre billet,
+ou un autre.
+
+#### Billet conjoint·e (un grand lit pour deux)
+
+Nous souhaitons encourager les personnes en couple qui le désirent à venir
+ensemble. Ainsi, nous pouvons vous proposer de partager une même chambre avec
+un grand lit avec votre conjoint·e, à un tarif réduit pour deux. Dans ce cas,
+vous devez lors de votre inscription réserver deux billets :
+
+- un billet simple et
+- un billet conjoint·e
+
+NB : un billet conjoint·e n’est valable qu’en complément d’un billet simple.
+
+#### Billet chambre partagée
+
+En réservant un billet « chambre partagée », vous occuperez une grande chambre,
+comportant plusieurs grands lits, chacun dans un espace séparé, et une salle
+d'eau commune.
+
+Vous partagerez cette chambre avec une autre participant·e… mais qui ? Si vous
+vous avez déjà convenu de partager votre chambre avec un·e autre inscrit·e,
+dites-le nous.  faîtes-le nous savoir. Sinon, nous nous engageons à respecter
+vos choix de mixité / non-mixité. 
 
 #### Faire une contribution solidaire
 
-L'Agile Open France est organisé à coût réel mais malgré tous nos efforts de
-baisser les prix au maximum, l'hébergement sur plusieurs jours reste onéreux
-pour certain·e·s d'entre nous. Aussi, celles et ceux qui souhaitent aider des
+L’Agile Open France est organisé à coût réel mais malgré tous nos efforts de
+baisser les prix au maximum, l’hébergement sur plusieurs jours reste onéreux
+pour certain·e·s d’entre nous. Aussi, celles et ceux qui souhaitent aider des
 personnes moins aisées à venir participer, vous pouvez faire une contribution
-solidaire. Chaque contribution permet de financer une place à demi-tarif, pour
-l'édition hiver, ou l'édition été.
+solidaire. 350 euros de dons cumulés nous permet de financer un billet à
+demi-tarif.
 
-#### Demi tarif
+#### Billets demi-tarif
 
-Afin de permettre à chacun·e de participer, et avec l'aide de généreux·ses
-contributeurs·trices, nous proposons des places à demi tarif.
-Si vous avez un doute quant à votre légitimité à bénéficier d'un demi-tarif,
-vous pouvez [nous contacter](staff-at-agileopenfrance-point-com).
+Afin de faciliter l'accès à toutes et à tous, et avec l’aide de généreux·ses
+contributeurs·trices, nous proposons des places à demi-tarif. Si vous
+envisageez d'en bénéficier, contactez-nous sur staff@agileopenfrance.com.
 
-#### Tarif conjoint·e
+Ce tarif n'est pas accessible aux entreprises.
 
-Nous souhaitons encourager les personnes en couple qui le désirent à venir
-ensemble. Ainsi, nous pouvons vous proposer de partager
-une même chambre avec un grand lit avec votre conjoint·e, à un tarif réduit
-pour deux. Dans ce cas, vous devez lors de votre inscription réserver *deux
-billets* :
-- un billet « hiver » *et*
-- un billet « hiver (tarif conjoint·e) »
+--- 
 
-NB : un billet « hiver (tarif conjoint·e) » n'est valable qu'en complément d'un
-billet « hiver ».
+### Concernant la COVID
 
-#### Cumul été / hiver
+L'Hotel contrôlera que chaque participant·e est muni d'un pass sanitaire.
 
-Nous n'en savons pas encore suffisamment sur ce qu'il va se passer en été pour
-proposer un billet combo comme l'année. Si vous souhaitez bénéficier d'une
-rsitourne été après avoir pris billet hiver, [faites-le nous
-savoir](staff-at-agileopenfrance-point-com).
+Si un nouveau confinement nécessitait l'annulation de l'événement, les billets
+ne seraient pas remboursés, mais seraient réutilisables sous forme d'avoir pour
+la prochaine édition d'AOF Hiver.
 
-#### D'autres questions ?
+
+---
+
+### D’autres questions ?
 
 N'hésitez pas à [nous contacter](staff-at-agileopenfrance-point-com) pour nous
 expliquer votre situation et demander des précisions.
