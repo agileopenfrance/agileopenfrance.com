@@ -66,7 +66,7 @@ Les nouvelles et les nouveaux sont les bienvenu·es !
 Ce billet est identique au billet simple. Mais il est réservé aux personnes qui
 n'ont encore jamais participé à un Agile Open France Hiver.
 
-NB: Les personnes qui n'ont jamais participé peuvent choisir ce autre billet,
+NB: Les personnes qui n'ont jamais participé peuvent choisir ce billet,
 ou un autre.
 
 #### Billet conjoint·e (un grand lit pour deux)
