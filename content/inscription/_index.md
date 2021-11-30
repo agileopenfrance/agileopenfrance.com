@@ -128,9 +128,9 @@ déjeuner, pour permettre à celles et ceux qui le souhaitent de prendre le TGV
 
 L'Hotel contrôlera que chaque participant·e est muni·e d'un pass sanitaire.
 
-Si un nouveau confinement nécessitait l'annulation de l'événement, les billets
-ne seraient pas remboursés, mais seraient réutilisables sous forme d'avoir pour
-la prochaine édition d'AOF Hiver.
+Si un nouveau confinement nécessitait l'annulation de l'événement, vous pourrez
+choisir entre vous faire rembourser, ou réserver une place à la prochaine
+édition d'AOF Hiver.
 
 ---
 
