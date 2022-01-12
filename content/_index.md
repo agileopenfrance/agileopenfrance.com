@@ -6,9 +6,11 @@ description: "Suivre ses pieds."
 
 Agile Open France 2022, le retour.
 
-Du 25 au 29 janvier 2022, à Itterswiller.
+Finalement, ce n'a aura pas lieu ~~du 25 au 29 janvier 2022~~, à Itterswiller.
+
+Mais, peut-être **du 28 juin au 2 juillet 2022 ?**
 
 [Que va-t-il s'y passer ?](esprit) Cela dépend de vous !
 
-Vous pourrez [vous inscrire bientôt](inscription).
+Vous pouvez encore [vous inscrire](inscription), mais les dates sont fausses.
 
