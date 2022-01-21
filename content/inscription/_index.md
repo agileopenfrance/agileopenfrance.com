@@ -11,41 +11,14 @@ Plus de détails sur les tarifs figurent en bas de page.
 
 ---
 
-### Quand s'inscrire ?
+### Y'a plus de place ???
 
-Cette année, les billets vont être mis en vente en 3 vagues successives : 
-1. **le 1er décembre à 8h00**
-2. **le 3 décembre à midi**
-3. **le 5 décembre à 20h00**
+Ce n'est pas trop tard. 
+Toutes les places sont déjà vendues, mais certaines devraient se libérer du fait du report.
 
----
+Inscrivez-vous en liste d'attente, on vous préviendra si il y a du nouveau.
 
-### Comment s'incrire ?
 
-Cette année, pas de tirage au sort.
-
-Comme d'habitude, pour réserver sa place, il suffit d'acheter un billet.
-
-Mais pour que tout le monde ait une place, nous utiliserons le plein potentiel
-de certaines chambres de l'hôtel, qui comportent un lit double supplémentaire.
-Pour nous y aider, penchez-vous sur le billet « chambre partagée », ou
-portez-vous volontaire pour faire de la place si tout le monde n'en a pas (en
-cochant l'option correspondante lors de l'achat d'un « billet  simple »).
-
-Autre nouveauté : des places sont réservées aux nouvelles et aux nouveaux.
-
----
-
-### Les listes d'attente
-
-Notre nouveau système de billetterie propose un système de liste d'attente.
-
-Attention :
-
-1. S'inscrire sur la liste d'attente permet d'être informé·e quand des places
-   sont disponibles à la vente, c'est tout : votre place ne sera réservée que
-   quand vous l'aurez payée.
-2. On n'a encore jamais utilisé ce système. Il fonctionne peut-être.
 
 ---
 
@@ -111,22 +84,10 @@ Ce tarif n'est pas accessible aux entreprises.
 
 ---
 
-### Concernant la navette
+### Remboursement
 
-Une navette sera mise à votre disposition pour vous conduire de la gare SNCF de
-Strasbourg à l'Hôtel Arnold, puis à la fin de l'événement de l'hôtel à la gare
-SNCF de Strasbourg. La navette partira de la gare de Strasbourg le mardi 25
-janvier à 13h15, et attendra au besoin l'arrivée du train ICE 9573 en
-provenance de Paris (qui devrait théoriquement arriver à Strasbourg à 12h41).
-Au retour, la navette partira de Itterswiller le samedi 29 janvier après le
-déjeuner, pour permettre à celles et ceux qui le souhaitent de prendre le TGV
-9592 pour Paris à 16h17.
-
----
-
-### Concernant la COVID
-
-L'Hotel contrôlera que chaque participant·e est muni·e d'un pass sanitaire.
+Si vous avez pris vos billets au moment où nous pensions (naïfs) que l'Agile Open Hiver aurait lieu en hiver,
+vous pouvez demander un remboursement, par mail (à staff@agileopenfrance.com), **avant le 20 février 2022**.
 
 Si un nouveau confinement nécessitait l'annulation de l'événement, vous pourrez
 choisir entre vous faire rembourser, ou réserver une place à la prochaine
@@ -135,6 +96,8 @@ choisir entre vous faire rembourser, ou réserver une place à la prochaine
 ---
 
 ### D’autres questions ?
+
+LA réponse est peut-être dans les [infos pratiques](/pratique) (comme c'est pratique !)
 
 N'hésitez pas à [nous contacter](staff-at-agileopenfrance-point-com) pour nous
 expliquer votre situation et demander des précisions.
