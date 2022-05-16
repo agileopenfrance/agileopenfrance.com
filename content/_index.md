@@ -10,5 +10,5 @@ Cette année, l'Agile Open Hiver a lieu en été, **du 28 juin au 2 juillet 2022
 
 [Que va-t-il s'y passer ?](esprit) Cela dépend de vous !
 
-Comme prévu, suite au report en été, des places se sont libérées. [Vous pouvez vous inscrire dès maintenant](inscription).
+Comme prévu, suite au report en été, des places se sont libérées. [Inscrivez-vous !](inscription).
 
