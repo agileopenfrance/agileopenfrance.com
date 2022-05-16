@@ -11,14 +11,18 @@ Plus de détails sur les tarifs figurent en bas de page.
 
 ---
 
-### Y'a plus de place ???
+### C'est pas plus cher en été ?
 
-Ce n'est pas trop tard. 
-Toutes les places sont déjà vendues, mais certaines devraient se libérer du fait du report.
+Et si. Pour un billet simple, le billet nous coûte 86€ de plus que prévu (on
+avait annoncé 72, mais on avait oublié la TVA).  Nous n'avons pas mis à jour
+les tarifs en conséquence.  Il nous faut donc trouver des financements pour
+équilibrer notre budget.
 
-Inscrivez-vous en liste d'attente, on vous préviendra si il y a du nouveau.
+Si tu as les moyens, ta contribution est la bienvenue. Tu peux :
+- soit payer un montant de ton choix en réglant une "Contribution solidaire"
+- soit prendre un ou plusieurs billets "Participation Été"
 
-
+Note que ces contributions sont optionnelles. Ne les payez que si vous en avez les moyens !
 
 ---
 
@@ -74,13 +78,18 @@ personnes moins aisées à venir participer, vous pouvez faire une contribution
 solidaire. 350 euros de dons cumulés nous permettent de financer un billet à
 demi-tarif.
 
-#### Billets demi-tarif
+#### Participation Été
 
-Afin de faciliter l'accès à toutes et à tous, et avec l’aide de généreux·ses
-contributeur·ices, nous proposons des places à demi-tarif. Si vous
-envisagez d'en bénéficier, contactez-nous sur staff@agileopenfrance.com.
+La "Participation Été" ne donne pas une place, mais vous permet de participer au financement 
+de l'événement. Les prix affichés des autres billets ne tient pas compte de la hausse des prix
+du fait du report de l'événement en été (en janvier, on pouvait négocier des tarifs
+bien plus intéressants à l'hôtel et au restaurant).
 
-Ce tarif n'est pas accessible aux entreprises.
+86 euros, c'est le montant de l'augementation des coûts TTC pour un billet.  Si
+tu as les moyens, tu peux payer une ou plusieurs participations Été, merci !
+
+Si tu veux participer au financement, tu peux aussi payer moins que 86 euros, en payant
+une "Contribution solidaire" du montant de ton choix.
 
 ---
 
