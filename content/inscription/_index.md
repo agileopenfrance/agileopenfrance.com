@@ -13,16 +13,15 @@ Plus de détails sur les tarifs figurent en bas de page.
 
 ### C'est pas plus cher en été ?
 
-Et si. Pour un billet simple, le billet nous coûte 86€ de plus que prévu (on
-avait annoncé 72, mais on avait oublié la TVA).  Nous n'avons pas mis à jour
-les tarifs en conséquence.  Il nous faut donc trouver des financements pour
-équilibrer notre budget.
+Et si. Un billet nous coûte 86€ de plus que prévu en hiver.  Il nous faut donc
+trouver des financements pour équilibrer notre budget. Les tarifs affichés sont
+les tarfis d'hiver.
 
-Si tu as les moyens, ta contribution est la bienvenue. Tu peux :
+Si tu as les moyens, ta contribution est la bienvenue. Tu peux, en plus de ton billet :
 - soit payer un montant de ton choix en réglant une "Contribution solidaire"
-- soit prendre un ou plusieurs billets "Participation Été"
+- soit payer une ou plusieurs "Participation(s) Été"
 
-Note que ces contributions sont optionnelles. Ne les payez que si vous en avez les moyens !
+Note que ces contributions sont optionnelles. Ne les paye que si tu en as les moyens !
 
 ---
 
