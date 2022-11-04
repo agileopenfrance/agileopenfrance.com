@@ -4,11 +4,11 @@ featured_image: "/img/rendez_vous.jpg"
 description: "Suivre ses pieds."
 ---
 
-Agile Open France 2022, le retour.
+Agile Open France 2023, le retour aux sources.
 
-Cette année, l'Agile Open Hiver a lieu en été, **du 28 juin au 2 juillet 2022**
+L'Agile Open Hiver 2023 a lieu… en hiver !<br/> **du 17 au 21 janvier 2023**.
 
 [Que va-t-il s'y passer ?](esprit) Cela dépend de vous !
 
-Comme prévu, suite au report en été, des places se sont libérées. [Inscrivez-vous !](inscription).
+Les [inscriptions](inscription) ne sont pas encore ouverte, mais c'est prévu d'ici mi-novembre.
 
