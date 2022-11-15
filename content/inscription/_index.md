@@ -64,14 +64,17 @@ vous devez lors de votre inscription réserver deux billets :
 
 NB : un billet conjoint·e n’est valable qu’en complément d’un billet (pro ou perso, première fois ou non).
 
-#### Faire une contribution volontaire
+#### Billet de contribution au Fond Commun d'Invitation 
 
-Si tu le souhaites, tu peux contribuer au fond d'invitation, et ainsi favoriser les
+Si tu le souhaites, tu peux contribuer au [Fond Commun d'Invitation](/inviter/#cest-quoi-le-fond-commun-dinvitation-), et ainsi favoriser les
 chances de participer à un événement plus riche, grâce à une variété accrue des
 profils et des intérêts des participant·es avec lesquel·les tu vas vivre l'événement.
 
 #### Bénéficier d'un tarif réduit
 
+Si tu n'as pas les ressources pour financer un billet, n'hésite pas à [nous
+contacter](mailto:staff@agileopenfrance.com) pour nous faire par de ta
+situation.
 
 ---
 

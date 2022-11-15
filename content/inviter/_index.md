@@ -51,12 +51,16 @@ aide.
 
 # Besoin d'aide ?
 
-Ce n'est pas toujours évident de faire venir quelqu'un qui n'est jamais venu.
-Il peut y avoir plein d'obstacles : difficile de savoir ce que c'est que
-l'Agile Open tant qu'on n'y a pas mis les pieds, et encore plus de se libérer
-une semaine en l'absence de certitude. À vrai dire, nous n'avons pas la
-connaissance de tous les obstacles possibles, et nous allons probablement en
-découvrir.
+Ce n'est pas toujours évident de venir à l'AOF, plus encore quand on n'est
+jamais venu.  Il peut y avoir plein d'obstacles : difficile de savoir ce que
+c'est que l'Agile Open tant qu'on n'y a pas mis les pieds, et encore plus de se
+libérer une semaine en l'absence de certitude.
+
+À vrai dire, nous n'avons pas la connaissance de tous les obstacles possibles,
+et nous allons probablement en découvrir ensemble. Merci de participer à cette
+exploration en faisant part de vos difficutés et de vos doutes [à l'équipe
+d'organisation](mailto:staff@agileopenfrance.com), et elle fera de son mieux
+pour participer à l'effort.
 
 # C'est quoi, le Fond Commun d'Invitation ?
 
@@ -67,5 +71,5 @@ L'équipe d'organisation gère ce compte.  S'il n'est pas utilisé pleinement, l
 reliquat du Fond Commun d'Invitation sera utilisé pour un édition suivante de l'AOF.
 
 Le fond est lui même financé via la billetterie, via l'achat de "billet de
-participation au fond commun d'invitation", et par le surcoût éventuel des
+participation au Fond Commun d'Invitation", et par le surcoût éventuel des
 billets.
