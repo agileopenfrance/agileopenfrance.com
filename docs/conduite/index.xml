@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Code de conduite on Agile Open France</title>
+    <link>https://agileopenfrance.com/conduite/</link>
+    <description>Recent content in Code de conduite on Agile Open France</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language><atom:link href="https://agileopenfrance.com/conduite/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

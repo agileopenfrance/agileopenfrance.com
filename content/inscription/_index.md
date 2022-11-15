@@ -26,7 +26,7 @@ Choisis ce billet si il est financé (en direct, ou en remboursement de frais pr
 
 Si tu viens pour la première fois, tu peux choisir aussi un "billet pro - première fois"
 
-#### Billet perso
+#### Billet particulier
 
 Choisis ce billet si c'est toi qui finance avec ta tirelire (et pas avec l'argent de ta boîte).
 
@@ -64,14 +64,14 @@ vous devez lors de votre inscription réserver deux billets :
 
 NB : un billet conjoint·e n’est valable qu’en complément d’un billet (pro ou perso, première fois ou non).
 
-#### Faire une contribution solidaire
+#### Faire une contribution volontaire
 
-L’Agile Open France est sans but lucratif, mais malgré tous nos efforts de
-baisser les prix au maximum, l’hébergement sur plusieurs jours reste onéreux
-pour certain·es d’entre nous. Aussi, celles et ceux qui souhaitent encourager à
-venir des personnes qui n'auraient pas les moyens de payer un billet complet,
-ous pouvez faire une contribution solidaire. 350 euros de dons cumulés nous
-permettent de financer un billet à demi-tarif.
+Si tu le souhaites, tu peux contribuer au fond d'invitation, et ainsi favoriser les
+chances de participer à un événement plus riche, grâce à une variété accrue des
+profils et des intérêts des participant·es avec lesquel·les tu vas vivre l'événement.
+
+#### Bénéficier d'un tarif réduit
+
 
 ---
 
