@@ -1,8 +1,8 @@
 ---
 title: "Souvenirs"
 featured_image: /img/terrasse.jpg
-date: 2019-05-03T18:00:00+01:00
 menu: "main"
+weight: 100
 ---
 
 Quelques photos souvenirs de l'Agile Open Été 2018.

@@ -1,6 +1,7 @@
 ---
 title: "Que va-t-il se passer ?"
 featured_image: "/img/surpris.jpg"
+weight: 40
 menu: "main"
 ---
 
@@ -9,8 +10,8 @@ il a lieu tous les ans, depuis 2008.
 
 À l'origine, le thème central qui a réuni les participant·e·s était le
 développement agile de logiciels. Aujourd'hui encore, cela reste une culture
-commune à la communauté constituée de celles et ceux qui viennent et
-reviennent à l'Agile Open.
+commune à bon nombre de membres de la communauté constituée de celles et ceux
+qui viennent et reviennent à l'Agile Open.
 
 Au fil des ans toutefois, les thèmes abordés se sont élargis, et cela n'a rien
 d'étonnant : chaque année, et à chaque instant pendant l'événement, les

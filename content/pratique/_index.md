@@ -1,6 +1,6 @@
 ---
 title: "Infos pratiques"
-weight: 100
+weight: 20
 featured_image: "/img/inscription.jpg"
 menu: "main"
 ---
