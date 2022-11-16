@@ -10,5 +10,5 @@ L'Agile Open Hiver 2023 a lieu… en hiver !<br/> **du 17 au 21 janvier 2023**.
 
 [Que va-t-il s'y passer ?](esprit) Cela dépend de vous !
 
-Les [inscriptions](inscription) ne sont pas encore ouverte, mais c'est prévu d'ici mi-novembre.
+Les [inscriptions](inscription) ne sont pas encore ouvertes, mais c'est prévu d'ici mi-novembre.
 
