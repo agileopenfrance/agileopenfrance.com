@@ -29,7 +29,8 @@ Si vous avez un régime alimentaire spécifique, il suffit d'en parler au restau
 
 ### Comment je m'habille ?
 
-Il parait qu'en Alsace, l'hiver est plutôt bon, fin juin. Il n'y aura probablement pas de neige.
+Ça ne va peut-être pas durer, mais cette année, en Alsace, il va faire encore froid. Avec un peu de chance,
+il y aura même un peu de neige ! Pense à t'habiller en conséquence.
 
 Si tu veux profiter de la piscine, n'oublie pas ton maillot de bain.
 
