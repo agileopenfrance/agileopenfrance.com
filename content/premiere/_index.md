@@ -20,7 +20,7 @@ fil de l'eau**. Ainsi, on ne sait pas vraiment qui va se passer à l'avance.
 Rien à préparer.
 
 Tout ce qu'il sera nécessaire de savoir sur le déroulement sera expliqué au début de l'événement.
-(La page wikipedia sur le [Forum Ouvert](https://fr.wikipedia.org/wiki/M%C3%A9thodologie_Forum_Ouvert) permet d'en savoir plus).
+(Si tu es curieux·se, tu peux lire la page wikipedia sur le [Forum Ouvert](https://fr.wikipedia.org/wiki/M%C3%A9thodologie_Forum_Ouvert), mais ce n'est vraiment pas nécessaire).
 
 Tout au plus peux-tu dès maintenant réfléchir aux sujets que tu voudras peut-être aborder
 
@@ -41,8 +41,8 @@ légère.
 Souvent, ce sont les sujets qu'on hésite le plus à proposer qui entraînent les rencontres
 les plus passionnantes. 
 
-Suggestion : même si ce n'est pas facile, abordez les sujets dont vous anticipez qu'ils ne passionneront que vous. 
-Vous serez probablement surpris·e des conséquences.
+Même si ce n'est pas facile, aborde les sujets dont tu anticipes qu'ils ne passionneront que toi. 
+Tu seras probablement surpris·e des conséquences.
 
 Note qu'il n'est pas obligatoire de proposer des sujets.
 
@@ -56,5 +56,5 @@ pleinement et entièrement, au même titre que les autres participant·e·s.
 
 Et si tu te sens un peu différent·e des autres et si tu aimes que les autres
 soient différent·es de toi, alors tu pourrais te trouver bien dans l’espace de
-l’APF : c’est pour nous nourrir de nos différences que nous participons à cet
+l’AOF : c’est pour nous nourrir de nos différences que nous participons à cet
 événement.
