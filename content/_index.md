@@ -14,5 +14,7 @@ Les [inscriptions](inscription) ne sont pas encore ouvertes, mais c'est prévu d
 
 Des [infos pratique](pratique) : comment y aller, comment s'habiller.
 
+Nouveau : [on travaille sur un code de conduite !](conduite).
+
 [Que va-t-il s'y passer ?](esprit)
 
