@@ -68,9 +68,9 @@ vous devez lors de votre inscription réserver deux billets :
 
 NB : un billet conjoint·e n’est valable qu’en complément d’un billet (pro ou perso, première fois ou non).
 
-#### Billet de contribution au Fonds Commun d'Invitation 
+#### Billet de contribution au Fonds Solidaire d'Invitation 
 
-Si tu le souhaites, tu peux contribuer au [Fonds Commun d'Invitation](/inviter/#cest-quoi-le-fonds-commun-dinvitation-), et ainsi favoriser les
+Si tu le souhaites, tu peux contribuer au [Fonds Solidaire d'Invitation](/inviter/#cest-quoi-le-fonds-commun-dinvitation-), et ainsi favoriser les
 chances de participer à un événement plus riche, grâce à une variété accrue des
 profils et des intérêts des participant·es avec lesquel·les tu vas vivre l'événement.
 

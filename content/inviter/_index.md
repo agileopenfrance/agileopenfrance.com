@@ -28,7 +28,7 @@ espace pour leurs différences. Pas besoin de se ressembler pour y prendre
 part.
 
 Si tu n'as aucune idée de qui inviter, tu peux toujours contribuer à l'effort
-en finançant le Fonds Commun d'Invitation.
+en finançant le Fonds Solidaire d'Invitation.
 
 # C'est quoi, inviter ?
 
@@ -36,7 +36,7 @@ Inviter, c'est avant tout suggérer à une personne qui n'a encore jamais partic
 à un AOF de venir à celui qui vient.
 
 Ça peut être aussi financer son billet, et/ou demander son financement par le
-Fonds Commun d'Invitation.
+Fonds Solidaire d'Invitation.
 
 Ça peut être l'aider à décider si elle veut venir, l'accompagner dans son
 voyage, prendre soin d'elle pendant l'événement.
@@ -66,14 +66,14 @@ les contourner. Merci de participer à cette exploration en faisant part de vos
 difficultés et de vos doutes [à l'équipe d'organisation](mailto:staff@agileopenfrance.com), et elle fera de son mieux
 pour participer à l'effort.
 
-# C'est quoi, le Fonds Commun d'Invitation ?
+# C'est quoi, le Fonds Solidaire d'Invitation ?
 
-Le Fonds Commun d'Invitation est un compte, alimenté par les participant·e·s,
+Le Fonds Solidaire d'Invitation est un compte, alimenté par les participant·e·s,
 qui permet à son tour de financer (ou de cofinancer) les invitations.
 
 L'équipe d'organisation gère ce compte.  S'il n'est pas utilisé pleinement, le
-reliquat du Fonds Commun d'Invitation sera utilisé pour une édition à venir de l'AOF.
+reliquat du Fonds Solidaire d'Invitation sera utilisé pour une édition à venir de l'AOF.
 
 Le fonds est lui même financé via la billetterie, par l'achat de "billet de
-participation au Fonds Commun d'Invitation", et par le surcoût éventuel des
+participation au Fonds Solidaire d'Invitation", et par le surcoût éventuel des
 autres billets.
