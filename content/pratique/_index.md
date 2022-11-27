@@ -1,7 +1,7 @@
 ---
 title: "Infos pratiques"
 weight: 20
-featured_image: "/img/inscription.jpg"
+featured_image: "/img/arnold.jpg"
 menu: "main"
 ---
 
