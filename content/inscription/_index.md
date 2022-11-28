@@ -9,7 +9,7 @@ La billetterie ouvre bientôt.
 
 Plus de détails sur les tarifs figurent en bas de page.
 
-{{% billetweb %}}
+<!-- {{% billetweb %}} -->
 
 ---
 
