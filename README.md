@@ -16,7 +16,7 @@ Vérifier la version de hugo avec :
 
 # Mettre à jour le contenu
 
-Editer les fichiers disponibles dans [agileopen/content/onepage](agileopen/content/onepage)
+Editer les fichiers disponibles dans le répertoire `content`.
 
 # Lancer hugo pour vérifier en local
 
