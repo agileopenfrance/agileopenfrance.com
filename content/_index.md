@@ -12,7 +12,7 @@ Envie d'inviter quelqu'un ? [Mode d'emploi](inviter)
 
 Les [inscriptions](inscription) ne sont pas encore ouvertes, mais c'est prévu d'ici fin novembre.
 
-Des [infos pratique](pratique) : comment y aller, comment s'habiller.
+Des [infos pratiques](pratique) : comment y aller, comment s'habiller.
 
 Nouveau : [on travaille sur un code de conduite !](conduite).
 
