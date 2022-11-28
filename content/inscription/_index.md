@@ -35,13 +35,9 @@ qui participeront.
 
 Choisis ce billet si il est financé (en direct, ou en remboursement de frais pro) par ta boîte, que tu sois indépendant ou salarié.
 
-Si tu viens pour la première fois, tu peux choisir aussi un "billet pro - première fois"
-
 #### Billet particulier
 
 Choisis ce billet si c'est toi qui finance avec ta tirelire (et pas avec l'argent de ta boîte).
-
-Si tu viens pour la première fois, tu peux choisir aussi un "billet perso - première fois"
 
 #### Pro ou particulier ?
 
@@ -59,17 +55,12 @@ Les nouvelles et les nouveaux sont les bienvenu·es !
 Ce billet est identique au billet pro. Mais il est réservé aux personnes qui
 n'ont encore jamais participé à un Agile Open France Hiver.
 
-NB: Les personnes qui n'ont jamais participé peuvent choisir ce billet,
-
 #### Billet perso - première fois
 
 Les nouvelles et les nouveaux sont les bienvenu·es !
 
 Ce billet est identique au billet perso. Mais il est réservé aux personnes qui
 n'ont encore jamais participé à un Agile Open France Hiver.
-
-NB: Les personnes qui n'ont jamais participé peuvent choisir ce billet,
-ou un autre.
 
 #### Coupon d'invitation
 
