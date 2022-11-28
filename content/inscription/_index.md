@@ -15,9 +15,16 @@ Plus de détails sur les tarifs figurent en bas de page.
 
 ### Les tarifs
 
+
+| Nom du billet            | Prix (TTC) |
+|--------------------------|------------|
+| Billet pro               | 900€       |
+| Billet particulier       | 640€       |
+| Billet conjoint·e        | 500€       |
+
 Tous les billets comprennent les repas en pension complète, l’hébergement et le
 transport en navette depuis la gare SNCF de Strasbourg jusqu’au lieu de la
-rencontre. Restent à votre charge les autres frais de transport.
+rencontre. Restent à ta charge les autres frais de transport.
 
 Quel que soit le billet que tu prendras, tu auras ta  place à l'Agile Open,
 et ta présence aura la même valeur que celle de chacune des autres personnes
@@ -38,7 +45,7 @@ Si tu viens pour la première fois, tu peux choisir aussi un "billet perso - pre
 
 #### Pro ou particulier ?
 
-Si tu ne sais pas dire à quel cas tu correspond, voici quelques explications pour t'aider :
+Si tu ne sais pas dire à quel cas tu corresponds, voici quelques explications pour t'aider :
 Le billet pro est une nouveauté cette année. Il s'agit de faire payer plus
 chers les "pros", dont on imagine que la différence de prix ne sera pas
 signicative pour elleux. Alors que le coût du billet particulier est à prix
@@ -74,7 +81,7 @@ de soutien pour y parvenir. On t'en dit plus [sur la page dédiée aux invitatio
 #### Billet conjoint·e (un grand lit pour deux)
 
 Nous souhaitons encourager les personnes en couple qui le désirent à venir
-ensemble. Ainsi, nous pouvons vous proposer de partager une même chambre avec
+ensemble. Ainsi, nous pouvons te proposer de partager une même chambre avec
 un grand lit avec ton ou ta conjoint·e, à un tarif réduit pour deux. Dans ce cas,
 tu dois réserver deux billets :
 
@@ -100,11 +107,11 @@ situation.
 
 ### Remboursement
 
-Si un événement malheureux vous empêchait de participer, tu peux demander
+Si un événement malheureux t'empêchait de participer, tu peux demander
 un remboursement (en le justifiant), mais seulement **avant le 10 janvier 2023**.
 
 Si un nouveau confinement nécessitait l'annulation de l'événement, tu pourras
-choisir entre vous faire rembourser, ou réserver une place à la prochaine
+choisir entre te faire rembourser, ou réserver une place à la prochaine
 édition d'AOF Hiver.
 
 ---
@@ -114,4 +121,4 @@ choisir entre vous faire rembourser, ou réserver une place à la prochaine
 La réponse est peut-être dans les [infos pratiques](/pratique) (comme c'est pratique !)
 
 N'hésite pas à [nous contacter](staff-at-agileopenfrance-point-com) pour nous
-expliquer votre situation et demander des précisions.
+expliquer ta situation et demander des précisions.
