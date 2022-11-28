@@ -46,10 +46,10 @@ contrôle que chaque participant·e est muni·e d'un pass sanitaire).
 
 Une navette sera affétée pour conduire les participant·e·s de la gare SNCF de
 Strasbourg à l'Hôtel Arnold, puis à la fin de l'événement de l'hôtel à la gare
-SNCF de Strasbourg. La navette partira de la gare de Strasbourg le mardi 28
-juin à 13h15, et attendra au besoin l'arrivée du train ICE 9573 en
+SNCF de Strasbourg. La navette partira de la gare de Strasbourg le mardi 17
+janvier à 13h15, et attendra au besoin l'arrivée du train ICE 9573 en
 provenance de Paris (qui devrait théoriquement arriver à Strasbourg à 12h41).
-Au retour, la navette partira de Itterswiller le samedi 2 juillet après le
+Au retour, la navette partira de Itterswiller le samedi 21 janvier après le
 déjeuner, pour permettre à celles et ceux qui le souhaitent de prendre le TGV
 9592 pour Paris à 16h19.
 
