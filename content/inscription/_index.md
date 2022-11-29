@@ -5,8 +5,6 @@ featured_image: "/img/inscription.jpg"
 menu: "main"
 ---
 
-La billetterie ouvre bientôt.
-
 Plus de détails sur les tarifs figurent en bas de page.
 
 {{% billetweb %}}
@@ -18,7 +16,7 @@ Plus de détails sur les tarifs figurent en bas de page.
 
 | Nom du billet            | Prix (TTC) |
 |--------------------------|------------|
-| Billet pro               | 900€       |
+| Billet pro               | 960€       |
 | Billet particulier       | 640€       |
 | Billet conjoint·e        | 500€       |
 

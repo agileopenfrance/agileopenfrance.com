@@ -10,7 +10,7 @@ Encore jamais participé ? [Bienvenue !](premiere)
 
 Envie d'inviter quelqu'un ? [Mode d'emploi](inviter)
 
-Les [inscriptions](inscription) ne sont pas encore ouvertes, mais c'est prévu d'ici fin novembre.
+Les [inscriptions](inscription) sont ouvertes !
 
 Des [infos pratiques](pratique) : comment y aller, comment s'habiller.
 
