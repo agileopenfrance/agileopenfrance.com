@@ -7,18 +7,15 @@ menu: "main"
 
 Plus de détails sur les tarifs figurent en bas de page.
 
-{{% billetweb %}}
+{{% iframe-billetweb %}}
 
 ---
 
+Des difficultés à vous inscrire dans le cadre plus haut ? Appuyez sur ce bouton :
+
+{{% bouton-billetweb %}}
+
 ### Les tarifs
-
-
-| Nom du billet            | Prix (TTC) |
-|--------------------------|------------|
-| Billet pro               | 960€       |
-| Billet particulier       | 640€       |
-| Billet conjoint·e        | 500€       |
 
 Tous les billets comprennent les repas en pension complète, l’hébergement et le
 transport en navette depuis la gare SNCF de Strasbourg jusqu’au lieu de la
