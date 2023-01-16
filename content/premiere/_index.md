@@ -13,7 +13,7 @@ Nous avons tenté de donner un peu de lumière sur cette question [sur cette pag
 
 Mais ce n'est pas facile de décrire l'Agile Open France : C'est un Forum Ouvert, ce qui
 veut dire que les participants vont **contruire le programme de l'événement au
-fil de l'eau**. Ainsi, on ne sait pas vraiment qui va se passer à l'avance.
+fil de l'eau**. Ainsi, on ne sait pas vraiment ce qui va se passer à l'avance.
 
 # Comment se préparer ?
 
