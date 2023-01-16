@@ -60,5 +60,5 @@ déjeuner, pour permettre à celles et ceux qui le souhaitent de prendre le TGV
 
 ### D’autres questions ?
 
-N'hésitez pas à [nous contacter](staff-at-agileopenfrance-point-com) pour nous
+N'hésitez pas à [nous contacter](/nous-contacter) pour nous
 expliquer votre situation et demander des précisions.
