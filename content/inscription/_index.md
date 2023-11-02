@@ -5,8 +5,10 @@ featured_image: "/img/inscription.jpg"
 menu: "main"
 ---
 
-Plus de détails sur les tarifs figurent en bas de page.
+Les inscriptions pour l'AOF 2024 ne sont pas encore ouvertes.
 
+
+<!-- 
 {{% iframe-billetweb %}}
 
 ---
@@ -108,3 +110,4 @@ La réponse est peut-être dans les [infos pratiques](/pratique) (comme c'est pr
 
 N'hésite pas à [nous contacter](staff-at-agileopenfrance-point-com) pour nous
 expliquer ta situation et demander des précisions.
+-->

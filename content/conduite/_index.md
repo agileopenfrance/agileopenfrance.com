@@ -5,7 +5,7 @@ featured_image: "/img/inscription.jpg"
 menu: "main"
 ---
 
-Nous souhaitons qu'au sein d'Agile Open France, nos différences puissent
+Nous souhaitons qu'au sein d'AOF, nos différences puissent
 s’épanouir et s’enrichir mutuellement, quel que soit notre genre, notre couleur
 de peau, notre âge, notre nationalité, notre condition économique, notre
 situation familiale, nos convictions, nos passions…
@@ -19,3 +19,6 @@ prenant suffisamment soin de soi ? Nous souhaitons que chaque participant·e
 trouve suffisamment d'espace pour revisiter ces questions, en toute sécurité.
 Et que celles et ceux qui le souhaitent se retrouvent pour partager leurs
 doutes, leurs réflexions et leurs apprentissages.
+
+Un brouillon de code de conduite a été initié par les participant·es pendant
+l'AOF 2023. Il n'est pas encore publié ici.

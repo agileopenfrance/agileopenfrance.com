@@ -4,17 +4,15 @@ featured_image: "/img/rendez_vous.jpg"
 description: "Suivre ses pieds."
 ---
 
-L'Agile Open Hiver 2023 a lieu… en hiver !<br/> **du 17 au 21 janvier 2023**.
+L'Agile Open Hiver 2024 a lieu **du 23 au 27 janvier 2024**.
 
 Encore jamais participé ? [Bienvenue !](premiere)
 
 Envie d'inviter quelqu'un ? [Mode d'emploi](inviter)
 
-Les [inscriptions](inscription) sont ouvertes !
+Les [inscriptions](inscription) ne sont pas encore ouvertes !
 
 Des [infos pratiques](pratique) : comment y aller, comment s'habiller.
-
-Nouveau : [on travaille sur un code de conduite !](conduite).
 
 [Que va-t-il s'y passer ?](esprit)
 
