@@ -4,7 +4,7 @@ Le répertoire [agileopen](agileopen) contient les sources du site Hugo.
 
 # Installation
 
-Installer hugo en récupérant l'executable correspondant à votre OS, en version 0.58.3
+Installer hugo en récupérant l'executable correspondant à votre OS, en version 0.120.3
 
 https://gohugo.io/getting-started/installing
 

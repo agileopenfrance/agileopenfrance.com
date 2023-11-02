@@ -5,6 +5,7 @@
     <link>https://agileopenfrance.com/categories/</link>
     <description>Recent content in Categories on Agile Open France</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr</language><atom:link href="https://agileopenfrance.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr</language>
+    <atom:link href="https://agileopenfrance.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
