@@ -36,33 +36,20 @@ Choisis ce billet si c'est toi qui finance avec ta tirelire (et pas avec l'argen
 
 #### Pro ou particulier ?
 
-Si tu ne sais pas dire à quel cas tu corresponds, voici quelques explications pour t'aider :
-Le billet pro est une nouveauté cette année. Il s'agit de faire payer plus
-chers les "pros", dont on imagine que la différence de prix ne sera pas
-signicative pour elleux. Alors que le coût du billet particulier est à prix
-coûtant, le surcoût du billet pro va permettre contribuer au Fond Solidaire
-d'Invitation ([plus d'infos](/inviter)).
-
-#### Billet pro - première fois
-
-Les nouvelles et les nouveaux sont les bienvenu·es !
-
-Ce billet est identique au billet pro. Mais il est réservé aux personnes qui
-n'ont encore jamais participé à un Agile Open France Hiver.
-
-#### Billet perso - première fois
-
-Les nouvelles et les nouveaux sont les bienvenu·es !
-
-Ce billet est identique au billet perso. Mais il est réservé aux personnes qui
-n'ont encore jamais participé à un Agile Open France Hiver.
+Si tu ne sais pas dire à quel cas tu corresponds, voici quelques explications
+pour t'aider : Le billet pro est une nouveauté de l'année 2023. Il s'agit de
+mettre à contibution celleux qui n'auront pas de difficulté à faire supporter
+la différence de prix à  leur employeur.  Alors que le coût du billet
+particulier est à prix coûtant, le surcoût du billet pro va permettre
+contribuer au Fond Solidaire d'Invitation ([plus d'infos](/inviter)) et ainsi
+financer la participation d'autres personnes qui sinon n'aurait pas les moyens.
 
 #### Coupon d'invitation
 
 Ce coupon n'est pas un billet. Juste un moyen d'informer l'équipe
-d'organisation que tu as envie de faire quelque-chose pour faire venir à l'Agile Open une
+d'organisation que tu as envie de faire quelque-chose pour faire venir à l'AOF une
 personne que tu as identifiée, et que tu auras peut-être besoin
-de soutien pour y parvenir. On t'en dit plus [sur la page dédiée aux invitations](/inviter).
+de notre soutien pour y parvenir. On t'en dit plus [sur la page dédiée aux invitations](/inviter).
 
 #### Billet conjoint·e (un grand lit pour deux)
 
@@ -94,7 +81,7 @@ situation.
 ### Remboursement
 
 Si un événement malheureux t'empêchait de participer, tu peux demander
-un remboursement (en le justifiant), mais seulement **avant le 10 janvier 2023**.
+un remboursement (en le justifiant), mais seulement **avant le 3 janvier 2024**.
 
 Si un nouveau confinement nécessitait l'annulation de l'événement, tu pourras
 choisir entre te faire rembourser, ou réserver une place à la prochaine
