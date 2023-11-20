@@ -58,3 +58,13 @@ Et si tu te sens un peu différent·e des autres et si tu aimes que les autres
 soient différent·es de toi, alors tu pourrais te trouver bien dans l’espace de
 l’AOF : c’est pour nous nourrir de nos différences que nous participons à cet
 événement.
+
+# Faut-il être « agile » pour participer ?
+
+Non.
+
+« agile », c'était un mot inspirant quand les premiers Agile Open ont eu lieu,
+il y a plus de 15 ans.  Ces dernières années, il arrive encore que des
+personnes parlent de développement agile, de culture agile ou même macramé
+agile pendant l'inconférence, et c'est chouette. Mais ce n'est qu'un sujet parmi
+d'autres.
