@@ -1,7 +1,7 @@
 ---
 title: "Agile Open France"
 featured_image: "/img/rendez_vous.jpg"
-description: "Ces trucs tarabiscotés qui te font réfléchir et qu’il est si rare de pouvoir partager."
+description: "ces trucs tarabiscotés qui te font réfléchir et qu’il est si rare de pouvoir partager…"
 ---
 
 L'AOF24 a lieu du 23 au 27 janvier 2024.
