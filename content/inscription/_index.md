@@ -5,6 +5,8 @@ featured_image: "/img/inscription.jpg"
 menu: "main"
 ---
 
+Les [inscriptions](inscription) ouvrent **lundi 4 décembre à 13h00**.
+
 Plus de détails sur les tarifs figurent en bas de page.
 
 {{% iframe-billetweb %}}
