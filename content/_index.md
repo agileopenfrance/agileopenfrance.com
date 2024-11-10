@@ -4,11 +4,9 @@ featured_image: "/img/rendez_vous.jpg"
 description: "ces trucs tarabiscotés qui te font réfléchir et qu’il est si rare de pouvoir partager…"
 ---
 
-L'AOF24 a lieu du 23 au 27 janvier 2024.
+L'AOF25 a lieu du 28 au 31 janvier 2025.
 
-Le thème : **les sujets et défis complexes qui te tiennent secrètement en haleine et que tu n’as pas ou peu l’occasion de dévoiler. Et ceux que tu ignores mais que tu as déjà envie de découvrir.**
-
-Les [inscriptions](inscription) ouvrent lundi 4 décembre à 13h00.
+Le thème de cette année n'est pas encore public.
 
 Encore jamais participé ? [Bienvenue !](premiere)
 
