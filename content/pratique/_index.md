@@ -62,5 +62,5 @@ INOUI 9592 pour Paris à **16h31**.
 
 ### D’autres questions ?
 
-N'hésitez pas à [nous contacter](staff-at-agileopenfrance-point-com) pour nous
+N'hésitez pas à [nous contacter](/nous-contacter) pour nous
 expliquer votre situation et demander des précisions.
