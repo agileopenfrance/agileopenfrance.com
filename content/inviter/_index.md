@@ -44,9 +44,9 @@ voyage, prendre soin d'elle pendant l'événement.
 # Comment inviter ?
 
 À la billetterie, prends un "coupon d'invitation" pour signifier ton intention
-d'inviter quelqu'un, même si tu n'as pas de certitude. Ça permettra à l'équipe
+d'inviter une personne, même si tu n'as pas de certitude. Ça permettra à l'équipe
 d'organisation d'être informée de votre intention, et de vous proposer son
-aide.
+aide. Et ça te permettra aussi de te faire le cadeau de formaliser toutes les bonnes choses que tu trouves chez cette personnes.
 
 Si tu es en mesure de le faire, prends contact la personne que tu souhaites
 inviter. Sinon, tu peux en parler [à l'équipe

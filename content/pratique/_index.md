@@ -32,7 +32,7 @@ parler au restaurant le jour de ton arrivée.
 ### Comment je m'habille ?
 
 Ça ne va peut-être pas durer, mais cette année, en Alsace, il va faire encore froid. Avec un peu de chance,
-il y aura même un peu de neige ! Pense à t'habiller en conséquence.
+il y aura même peut-être un peu de neige ! Pense à t'habiller en conséquence.
 
 Si tu veux profiter de la piscine, n'oublie pas ton maillot de bain.
 
@@ -44,19 +44,19 @@ contrôle que chaque participant·e est muni·e d'un pass sanitaire).
 
 ### Concernant la navette
 
-(oui, ces information on bien été mises à jour pour 2024)
+(oui, ces information on bien été mises à jour pour 2025)
 
 Une navette sera affrétée pour conduire les participant·e·s de la gare SNCF de
 Strasbourg à l'Hôtel Arnold, puis à la fin de l'événement de l'hôtel à la gare
 SNCF de Strasbourg. 
 
-**À l'aller**, la navette partira de la gare de Strasbourg **le mardi 23
+**À l'aller**, la navette partira de la gare de Strasbourg **le mardi 28
 janvier à 13h15**, et attendra au besoin l'arrivée du train ICE 9573 en
-provenance de Paris (qui devrait théoriquement arriver à Strasbourg à 12h38).
+provenance de Paris (qui devrait théoriquement arriver à Strasbourg à 12h39).
 
-**Au retour**, la navette partira de Itterswiller **le samedi 27 janvier** après le
+**Au retour**, la navette partira de Itterswiller **le vendredi 31 janvier** après le
 déjeuner, pour permettre à celles et ceux qui le souhaitent de prendre le TGV
-INOUI 9592 pour Paris à **16h31**.
+INOUI 2442 pour Paris à **16h49** [ou ICE de  **16h27** un peu plus cher ?].
 
 ---
 

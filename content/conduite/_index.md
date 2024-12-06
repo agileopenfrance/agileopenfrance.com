@@ -5,6 +5,30 @@ featured_image: "/img/inscription.jpg"
 menu: "main"
 ---
 
+## Intention
+
+Nous souhaitons avant tout créer un espace où chacun·e peut explorer, expérimenter et apprendre, quel que soit son niveau d'expertise et son domaine. Et les expériences passées nous ont donné de faire un effort supplémentaire pour clarifier le cadre, et rendre l'événement aussi bienveillant et inclusif que possible.
+
+Nous avons l'intention que l'événément soit véritablement accessible et accueillant. Pour cela, nous mettons un maximum de dispositifs en place pour éviter de reproduire tous reflexes ou toutes normes, pratiques, paroles reflétant un mécanisme de domination, notamment patriarcale.
+
+## Infrastructure
+
+Nous avons décidé de formaliser/renforcer/ les dispositifs qui ont émergé les dernières éditions :
+- Une équipe dédiée au soutien et au bien-être des participant·e·s avec des personnes référentes clairement identifiées
+- Cette équipe portera notamment une attention particulière à l'inclusion des nouvelles venues et nouveaux venus
+- Des espaces et temps dédiés au ressourcement, avec par exemple des lieux calmes et des groupes de débriefs pour les personnes le souhaitant
+
+## Code de conduite
+
+Nous avons aussi adapté le code de conduite. Nous nous attendons à ce qu'il soit lu attentivement, notamment pour vous permettre d'identifier en amont ce qui pourrait vous demander un effort pendant l'événement.
+
+Il va de soi que violer le code de conduite entrainera les sanctions proposées dans celui-ci, qui que vous soyez.
+
+Le code de conduite, disponible à l'inscription, intégrera ces éléments, et ces derniers seront exposés à l'ouverture de l'AOF25.
+
+Le voici : [TODO mettre à jour quand il sera OK]
+
+
 Afin de rendre cet espace agréable et accueillant pour tous·tes, ce code de
 conduite (affiché en salle des marchés) fait partie des outils que la
 communauté AOF se donne afin d'améliorer le sentiment de sécurité ainsi que la
