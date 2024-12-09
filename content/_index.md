@@ -1,18 +1,15 @@
 ---
 title: "Agile Open France"
 featured_image: "/img/rendez_vous.jpg"
-description: "Suivre ses pieds."
+description: "ces trucs tarabiscotés qui te font réfléchir et qu’il est si rare de pouvoir partager…"
 ---
 
-L'Agile Open Hiver 2024 a lieu **du 23 au 27 janvier 2024**.
+L'AOF25 a lieu du 28 au 31 janvier 2025.
+
+Le thème de cette année n'est pas encore public.
 
 Encore jamais participé ? [Bienvenue !](premiere)
 
 Envie d'inviter quelqu'un ? [Mode d'emploi](inviter)
 
-Les [inscriptions](inscription) ne sont pas encore ouvertes !
-
 Des [infos pratiques](pratique) : comment y aller, comment s'habiller.
-
-[Que va-t-il s'y passer ?](esprit)
-

@@ -14,8 +14,8 @@ communauté des personnes qui y participent.
 
 # Qui peut inviter ?
 
-Pour inviter, deux conditions : avoir déjà participé à au moins une édition
-d'AOF, et participer à l'édition qui vient.
+Pour inviter, une seule condition : avoir déjà participé à au moins
+une édition.
 
 # Qui inviter ?
 
@@ -24,7 +24,7 @@ l'événement (et réciproquement), ou plus simplement à quelqu'un avec qui tu 
 à venir, c'est sans doute une bonne idée de l'inviter.
 
 Souviens toi : le point commun des participant·e·s, c'est de trouver à l'AOF un
-espace pour leurs différences. Pas besoin de se ressembler pour y prendre
+espace pour leurs différences, et de se sentir appelé par [le thème de l'invitation](/). Pas besoin de se ressembler pour y prendre
 part.
 
 Si tu n'as aucune idée de qui inviter, tu peux toujours contribuer à l'effort
