@@ -8,6 +8,6 @@ L'AOF25 a lieu du 28 au 31 janvier 2025 et aura pour thème [« Coder ensemble,
 
 Encore jamais participé ? [Bienvenue !](premiere)
 
-Envie d'inviter quelqu'un ? [Mode d'emploi](inviter)
+Envie de proposer de venir à une personne qui n'est jamais venue ? [Mode d'emploi](inviter)
 
 Des [infos pratiques](pratique) : comment y aller, comment s'habiller.
