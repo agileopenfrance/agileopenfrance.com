@@ -63,7 +63,7 @@ l’AOF : c’est pour nous nourrir de nos différences que nous participons à 
 
 La seule chose qui est demandé, c'est que tu sois d'accord avec [le code de conduite](/conduite/).
 
-# Faut-il être « agile » pour participer ?
+# Faut-il être « agile » pour participer&nbsp;?
 
 Non.
 
@@ -73,7 +73,7 @@ personnes soient inspirés : on parlera de développement agile, de culture agil
 ou même macramé agile pendant l'inconférence, et c'est chouette. Mais ce n'est
 qu'un sujet parmi d'autres.
 
-# Faut-il être « tech » pour participer ?
+# Faut-il être « tech » pour participer&nbsp;?
 
 Non.
 

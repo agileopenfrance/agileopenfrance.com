@@ -18,14 +18,14 @@ d'étonnant : chaque année, et à chaque instant pendant l'événement, les
 participant·e·s sont encouragé·e·s à ne se consacrer qu'à une seule et unique
 tâche : faire ce qui les passionne.
 
-Les expériences précédentes nous ont donné envie d'innover aussi sur cela (en plus du [le cadre ]("/conduite/")). C'est pourquoi cette année, nous choisissons de mettre l'accent sur une thématique qui nous tient à cœur : **Coder ensemble, apprendre de tou·te·s**. Coder, pas seulement comme une activité technique, mais comme une forme d'expression collective, un art qui se partage et s'enrichit des différences. L'objectif est de traverser les domaines, du développement logiciel à la documentation, de la poésie au crochet, de la cuisine à l'électronique...
+Les expériences précédentes nous ont donné envie d'innover aussi sur cela (en plus du [cadre]("/conduite/")). C'est pourquoi cette année, nous choisissons de mettre l'accent sur une thématique qui nous tient à cœur : **Coder ensemble, apprendre de tou·te·s**. Coder, pas seulement comme une activité technique, mais comme une forme d'expression collective, un art qui se partage et s'enrichit des différences. L'objectif est de traverser les domaines, du développement logiciel à la documentation, de la poésie au crochet, de la cuisine à l'électronique...
 
 Nous souhaitons créer un espace où chacun·e peut explorer, expérimenter et apprendre, quel que soit son niveau d'expertise et son domaine. Un lieu où le code devient prétexte à la rencontre, où **Coder ensemble, apprendre de tou·te·s** fasse s'exprimer l'altérité.
 
 Voici quelques idées d'activités que vous pourriez proposer ou auxquelles vous pourriez participer :
 
 - des sessions d'ensemble/mob/pair programming dans leurs formes classiques ou dans toutes les variations que vous pourriez imaginer
-- des sessions de productions collaboratives comme performance artistique, intellectuelle, ou sportive
+- des sessions de productions collaboratives comme performance artistique, intellectuelle, sportive...
 - des expérimentations de nouvelles manières de faire ensemble, qu'il s'agisse de coder ou non
 - des explorations des patterns communs entre le code et d'autres productions, qu'elles soient numériques, textuelles, sensorielles…
 

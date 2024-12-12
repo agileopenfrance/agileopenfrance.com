@@ -1,5 +1,5 @@
 ---
-title: "Inviter"
+title: "Inviter !"
 weight: 60
 featured_image: "/img/inscription.jpg"
 menu: "main"
@@ -14,8 +14,7 @@ communauté des personnes qui y participent.
 
 # Qui peut proposer à de nouvelles personnes de venir ?
 
-Pour le proposer, une seule condition : avoir déjà participé à au moins
-une édition.
+N'importe qui ayant déjà participé à au moins une édition.
 
 # Qui inviter ?
 
@@ -75,6 +74,7 @@ qui ne peuvent le faire matériellement.
 
 L'équipe d'organisation gère ce compte.  S'il n'est pas utilisé pleinement, le
 reliquat du Fonds Solidaire d'Invitation sera utilisé pour une édition à venir de l'AOF.
+Par exemple, le fonds de 2024 a complètement été utilisé.
 
 Le fonds est lui même financé via la billetterie, par l'achat de "billet de
 participation au Fonds Solidaire d'Invitation", et par le surcoût éventuel des

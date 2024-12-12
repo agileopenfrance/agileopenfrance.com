@@ -5,7 +5,7 @@ featured_image: "/img/inscription.jpg"
 menu: "main"
 ---
 
-Les [inscriptions](inscription) ouvrent **jeudi 12 décembre à 07h00**.
+Les [inscriptions](inscription) ouvrent **mardi 17 décembre à 07h00**.
 
 Plus de détails sur les tarifs figurent en bas de page.
 
@@ -39,11 +39,11 @@ Choisis ce billet si c'est toi qui finance avec ta tirelire (et pas avec l'argen
 #### Pro ou particulier ?
 
 Si tu ne sais pas dire à quel cas tu corresponds, voici quelques explications
-pour t'aider : Le billet pro est une nouveauté de l'année 2023. Nous pensons d'abord que l'effort demandé à un particulier n'est pas le même que celui demandé à une entreprise, ne serait-ce parce que l'euros dépensé par le particulier l'est après charge, impôt et TVA.
+pour t'aider. Le billet pro est une nouveauté de l'année 2023. Nous pensons d'abord que l'effort demandé à un particulier n'est pas le même que celui demandé à une entreprise, ne serait-ce parce que l'euro dépensé par le particulier l'est après charge, impôt et TVA.
 
 Mais aussi, et surtout, il s'agit de
-mettre à contibution celleux qui n'auront pas de difficulté à faire supporter
-la différence de prix à  leur employeur.  Alors que le coût du billet
+mettre à contibution les personnes qui n'ont pas de difficulté à faire supporter
+à leur employeur la différence de prix. Alors que le coût du billet
 particulier est à prix coûtant, le surcoût du billet pro va permettre
 contribuer au Fond Solidaire d'Invitation ([plus d'infos](/inviter)) et ainsi
 financer la participation d'autres personnes qui sinon n'aurait pas les moyens.
