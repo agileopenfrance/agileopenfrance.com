@@ -87,7 +87,7 @@ situation.
 ### Remboursement
 
 Si un événement malheureux t'empêchait de participer, tu peux demander
-un remboursement (en le justifiant), mais seulement **avant le 31 décembre 2023**.
+un remboursement (en le justifiant), mais seulement **avant le 31 décembre 2024**.
 
 Si un nouveau confinement nécessitait l'annulation de l'événement, tu pourras
 choisir entre te faire rembourser, ou réserver une place à la prochaine
