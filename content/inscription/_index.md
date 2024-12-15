@@ -20,7 +20,7 @@ Des difficultés à vous inscrire dans le cadre plus haut ? Appuyez sur ce bouto
 ### Les tarifs
 
 Tous les billets comprennent les repas en pension complète, l’hébergement et le
-transport en navette depuis la gare SNCF de Strasbourg jusqu’au lieu de la
+transport en car depuis la gare SNCF de Strasbourg jusqu’au lieu de la
 rencontre. Restent à ta charge les autres frais de transport.
 
 Quel que soit le billet que tu prendras, tu auras ta place à l'Agile Open,

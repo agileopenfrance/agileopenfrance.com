@@ -20,7 +20,7 @@ Plus d'info sur ce chouette village :
 Plus précisément, à l'[Hôtel Arnold](https://www.hotel-arnold.com/).
 
 Pour venir en transport en commun, vise la gare TGV de Strasbourg. Ensuite,
-prend la navette dédiée à l'événement (cf info plus bas).
+prend le car dédié à l'événement (cf info plus bas).
 
 ### Qu'est-ce qu'on mange ?
 
@@ -42,19 +42,19 @@ Si jamais c'est à nouveau d'actualité, l'Hôtel prendra les dispositions
 imposées par le gouvernement au moment des festivités (comme par exemple le
 contrôle que chaque participant·e est muni·e d'un pass sanitaire).
 
-### Concernant la navette
+### Concernant le car
 
 (oui, ces information on bien été mises à jour pour 2025)
 
-Une navette sera affrétée pour conduire les participant·e·s de la gare SNCF de
+Un car sera affrété pour conduire les participant·e·s de la gare SNCF de
 Strasbourg à l'Hôtel Arnold, puis à la fin de l'événement de l'hôtel à la gare
 SNCF de Strasbourg. 
 
-**À l'aller**, la navette partira de la gare de Strasbourg **le mardi 28
+**À l'aller**, le car partira de la gare de Strasbourg **le mardi 28
 janvier à 13h15**, et attendra au besoin l'arrivée du train ICE 9573 en
 provenance de Paris (qui devrait théoriquement arriver à Strasbourg à 12h39).
 
-**Au retour**, la navette partira de Itterswiller **le vendredi 31 janvier** après le
+**Au retour**, le car partira de Itterswiller **le vendredi 31 janvier** après le
 déjeuner, pour permettre à celles et ceux qui le souhaitent de prendre le train ICE pour Paris de **16h27** 
 et donc aussi le TGV INOUI 2442 pour Paris de **16h49** s'il te convient mieux.
 
