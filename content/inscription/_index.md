@@ -79,7 +79,7 @@ profils et des intérêts des participant·es avec lesquel·les tu vas vivre l'�
 #### Bénéficier d'un tarif réduit
 
 Si tu n'as pas les ressources pour financer un billet, n'hésite pas à [nous
-contacter](mailto:staff@agileopenfrance.com) pour nous faire par de ta
+contacter](/nous-contacter) pour nous faire par de ta
 situation.
 
 ---
@@ -99,5 +99,5 @@ choisir entre te faire rembourser, ou réserver une place à la prochaine
 
 La réponse est peut-être dans les [infos pratiques](/pratique) (comme c'est pratique !)
 
-N'hésite pas à [nous contacter](staff-at-agileopenfrance-point-com) pour nous
+N'hésite pas à [nous contacter](/nous-contacter) pour nous
 expliquer ta situation et demander des précisions.

@@ -62,5 +62,5 @@ et donc aussi le TGV INOUI 2442 pour Paris de **16h49** s'il te convient mieux.
 
 ### D’autres questions ?
 
-N'hésitez pas à [nous contacter](staff-at-agileopenfrance-point-com) pour nous
+N'hésitez pas à [nous contacter](/nous-contacter) pour nous
 expliquer votre situation et demander des précisions.
