@@ -28,7 +28,7 @@ et ta présence aura la même valeur que celle de chacune des autres personnes
 qui participeront.
 
 
-#### Billet pro
+#### Billet entreprise
 
 Choisis ce billet si il est financé (en direct, ou en remboursement de frais pro) par ta boîte, que tu sois indépendant ou salarié.
 
@@ -36,15 +36,15 @@ Choisis ce billet si il est financé (en direct, ou en remboursement de frais pr
 
 Choisis ce billet si c'est toi qui finance avec ta tirelire (et pas avec l'argent de ta boîte).
 
-#### Pro ou particulier ?
+#### Entreprise ou particulier ?
 
 Si tu ne sais pas dire à quel cas tu corresponds, voici quelques explications
-pour t'aider. Le billet pro est une nouveauté de l'année 2023. Nous pensons d'abord que l'effort demandé à un particulier n'est pas le même que celui demandé à une entreprise, ne serait-ce parce que l'euro dépensé par le particulier l'est après charge, impôt et TVA.
+pour t'aider. Le billet entreprise est une nouveauté de l'année 2023. Nous pensons d'abord que l'effort demandé à un particulier n'est pas le même que celui demandé à une entreprise, ne serait-ce parce que l'euro dépensé par le particulier l'est après charge, impôt et TVA.
 
 Mais aussi, et surtout, il s'agit de
 mettre à contribution les personnes qui n'ont pas de difficulté à faire supporter
 à leur employeur la différence de prix. Alors que le coût du billet
-particulier est à prix coûtant, le surcoût du billet pro va permettre de
+particulier est à prix coûtant, le surcoût du billet entreprise va permettre de
 contribuer aux billets suspendus et ainsi
 financer la participation d'autres personnes qui sinon n'auraient pas les moyens.
 
@@ -64,10 +64,10 @@ ensemble. Ainsi, nous pouvons te proposer de partager une même chambre avec
 un grand lit avec ton ou ta conjoint·e, à un tarif réduit pour deux. Dans ce cas,
 tu dois réserver deux billets :
 
-- un billet simple (pro ou perso, première fois ou non)
+- un billet simple (entreprise ou particulier)
 - un billet accompagnant
 
-NB : un billet accompagnant n’est valable qu’en complément d’un billet simple (pro ou perso).
+NB : un billet accompagnant n’est valable qu’en complément d’un billet simple (entreprise ou particulier).
 
 #### Billet suspendu
 
@@ -77,7 +77,8 @@ profils et des intérêts des participant·es avec lesquel·les tu vas vivre l'�
 
 #### Bénéficier d'un tarif réduit
 
-Si toi ou ta TPE vous trouvez en situation financière délicate, tu peux choisir le tarif solidaire correspondant à ta situation Pro ou Particulier.
+Si toi ou ta TPE vous trouvez en situation financière délicate, tu peux choisir le tarif solidaire particulier 
+ou le tarif TPE / indépendant·e en activité réduite.
 Si toutefois ces prix rendent l'événement inaccessible pour toi, 
 [contacte-nous](mailto:staff@agileopenfrance.com) ! Des billets suspendus sont disponibles.
 
