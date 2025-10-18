@@ -27,15 +27,14 @@ espace pour leurs différences, et de se sentir appelé par [le thème de l'édi
 part.
 
 Si tu n'as aucune idée à qui proposer de venir, tu peux toujours contribuer à l'effort
-en finançant le Fonds Solidaire d'Invitation.
+en finançant des billets suspendus.
 
 # Qu'est-ce que ça peut engager ?
 
 Ce geste, c'est d'abord simplement suggérer à une personne qui n'a encore jamais participé
 à un AOF de venir à celui qui vient.
 
-Ça peut être aussi financer son billet, et/ou demander son financement par le
-Fonds Solidaire d'Invitation.
+Ça peut être aussi financer son billet, et/ou demander un billet suspendu pour elle.
 
 Ça peut être l'aider à décider si elle veut venir, l'accompagner dans son
 voyage, prendre soin d'elle pendant l'événement.

@@ -44,11 +44,11 @@ pour t'aider. Le billet pro est une nouveauté de l'année 2023. Nous pensons d'
 Mais aussi, et surtout, il s'agit de
 mettre à contribution les personnes qui n'ont pas de difficulté à faire supporter
 à leur employeur la différence de prix. Alors que le coût du billet
-particulier est à prix coûtant, le surcoût du billet pro va permettre
-contribuer au Fond Solidaire d'Invitation ([plus d'infos](/inviter)) et ainsi
-financer la participation d'autres personnes qui sinon n'aurait pas les moyens.
+particulier est à prix coûtant, le surcoût du billet pro va permettre de
+contribuer aux billets suspendus et ainsi
+financer la participation d'autres personnes qui sinon n'auraient pas les moyens.
 
-Et si le Fonds Solidaire d'Invitation n'est pas utilisé pleinement (il l'a été l'année dernière), le reliquat du fonds sera utilisé pour une édition à venir de l'AOF.
+Et si les billets suspendus ne sont pas tous distribués (ils l'ont étés depuis leur mise en place), le reliquat sera utilisé pour une édition à venir de l'AOF.
 
 #### Coupon d'invitation
 
