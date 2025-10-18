@@ -5,9 +5,9 @@ featured_image: "/img/inscription.jpg"
 menu: "main"
 ---
 
-Les [inscriptions](inscription) ouvrent bientôt (date à définir)).
-
 Plus de détails sur les tarifs figurent en bas de page.
+
+**Si ces prix rendent l'événement inaccessible pour toi, contacte-nous ! Des billets suspendus sont disponibles.**  
 
 {{% iframe-billetweb %}}
 
@@ -42,7 +42,7 @@ Si tu ne sais pas dire à quel cas tu corresponds, voici quelques explications
 pour t'aider. Le billet pro est une nouveauté de l'année 2023. Nous pensons d'abord que l'effort demandé à un particulier n'est pas le même que celui demandé à une entreprise, ne serait-ce parce que l'euro dépensé par le particulier l'est après charge, impôt et TVA.
 
 Mais aussi, et surtout, il s'agit de
-mettre à contibution les personnes qui n'ont pas de difficulté à faire supporter
+mettre à contribution les personnes qui n'ont pas de difficulté à faire supporter
 à leur employeur la différence de prix. Alors que le coût du billet
 particulier est à prix coûtant, le surcoût du billet pro va permettre
 contribuer au Fond Solidaire d'Invitation ([plus d'infos](/inviter)) et ainsi
@@ -57,7 +57,7 @@ d'organisation que tu as envie de faire quelque-chose pour faire venir à l'AOF 
 personne que tu as identifiée, et que tu auras peut-être besoin
 de notre soutien pour y parvenir. On t'en dit plus [sur la page dédiée aux invitations](/inviter).
 
-#### Billet conjoint·e (un grand lit pour deux)
+#### Billet accompagnant (un grand lit pour deux)
 
 Nous souhaitons encourager les personnes en couple qui le désirent à venir
 ensemble. Ainsi, nous pouvons te proposer de partager une même chambre avec
@@ -65,9 +65,9 @@ un grand lit avec ton ou ta conjoint·e, à un tarif réduit pour deux. Dans ce 
 tu dois réserver deux billets :
 
 - un billet simple (pro ou perso, première fois ou non)
-- un billet conjoint·e
+- un billet accompagnant
 
-NB : un billet conjoint·e n’est valable qu’en complément d’un billet simple (pro ou perso).
+NB : un billet accompagnant n’est valable qu’en complément d’un billet simple (pro ou perso).
 
 #### Billet suspendu
 
